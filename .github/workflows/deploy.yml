@@ -16,3 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
+      - shell: bash
+        run: chmod +x resetservice.sh
+      - shell: bash
+        run: ./resetservice.sh
