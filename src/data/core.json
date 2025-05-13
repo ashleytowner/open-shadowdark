@@ -1051,11 +1051,11 @@
           "description": "DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days."
         },
         {
-          "name": "Enslave.",
+          "name": "Enslave",
           "description": "In place of attacks, one creature within far DC 15 WIS or aboleth controls for 1d4 rounds."
         },
         {
-          "name": "Telepathic.",
+          "name": "Telepathic",
           "description": "Read the thought,s of all creatures within far."
         }
       ]
@@ -1134,7 +1134,7 @@
           "description": "Hostile spells targeting the principi are DC 15."
         },
         {
-          "name": "Truesight.",
+          "name": "Truesight",
           "description": "Can see all invisible creatures and objects."
         }
       ]
@@ -1278,7 +1278,7 @@
           "description": "DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration."
         },
         {
-          "name": "Magic Bolt (INT Spell).",
+          "name": "Magic Bolt (INT Spell)",
           "description": "DC 11. 1d4 damage to one target within far."
         }
       ]
@@ -1340,7 +1340,7 @@
           "description": "All hostile spells are reflected at caster with a spellcasting check less than 20."
         },
         {
-          "name": "Soulbind.",
+          "name": "Soulbind",
           "description": "All targets within near DC 20 CHA or fall under control of archdevil for 1d4 rounds. DC 20 CHA on turn to end the effect."
         }
       ]
@@ -1369,23 +1369,23 @@
           "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP."
         },
         {
-          "name": "Enervate (INT Spell).",
+          "name": "Enervate (INT Spell)",
           "description": "DC 14. Focus. One target within near is stupefied for the duration."
         },
         {
-          "name": "Fireblast (INT Spell).",
+          "name": "Fireblast (INT Spell)",
           "description": "DC 14. 4d6 damage to all within a near- sized cube within far."
         },
         {
-          "name": "Float (INT Spell).",
+          "name": "Float (INT Spell)",
           "description": "Self. DC 14. Fly double near for 5 rounds."
         },
         {
-          "name": "Mithralskin (INT Spell).",
+          "name": "Mithralskin (INT Spell)",
           "description": "Self. DC 14. AC becomes 18 for 5 rounds."
         },
         {
-          "name": "Void Step (INT Spell).",
+          "name": "Void Step (INT Spell)",
           "description": "Self and up to 4 willing targets. DC 15. Teleport up to 100 miles."
         }
       ]
@@ -1604,7 +1604,7 @@
           "description": "Deals an extra die of damage if it hits the same target with both claws."
         },
         {
-          "name": "Thick Fur.",
+          "name": "Thick Fur",
           "description": "Cold immune."
         }
       ]
@@ -1683,7 +1683,7 @@
           "description": "Only damaged by fire."
         },
         {
-          "name": "Corrosive.",
+          "name": "Corrosive",
           "description": "Wood or metal that touches the ooze dissolves on a d6 roll of 1-3."
         }
       ]
@@ -1757,15 +1757,15 @@
           "description": "Can hear the surface thoughts of all intelligent creatures within near."
         },
         {
-          "name": "Latch.",
+          "name": "Latch",
           "description": "Tentacles attach to hit targets, automatically hitting the next round (DC 12 STR on turn to remove 1d4 tentacles). If all four remain latched onto the same humanoid target for 1 round, the target's brain is ripped out and devoured."
         },
         {
-          "name": "Mind Blast.",
+          "name": "Mind Blast",
           "description": "Fills a near-sized cube extending from brain eater. DC 15 INT or 3d6 damage and paralyzed 1d4 rounds."
         },
         {
-          "name": "Mind Control.",
+          "name": "Mind Control",
           "description": "One target in near DC 15 CHA or brain eater controls for 1d4 rounds."
         }
       ]
@@ -2034,7 +2034,7 @@
           "description": "1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions."
         },
         {
-          "name": "Screech.",
+          "name": "Screech",
           "description": "Enemies within double near DC 15 WIS or DISADV on attacks and checks 1d4 rounds."
         }
       ]
@@ -2088,11 +2088,11 @@
           "description": "In place of attacks, transform into any similarly-sized creature."
         },
         {
-          "name": "Poison.",
+          "name": "Poison",
           "description": "DC 15 CON or fall into natural, deep sleep for 1d8 hours."
         },
         {
-          "name": "Restore.",
+          "name": "Restore",
           "description": "In place of attacks, touch one creature to remove a curse, affliction, or heal 3d8 HP."
         }
       ]
@@ -2166,7 +2166,7 @@
           "description": "Immune to morale checks."
         },
         {
-          "name": "Deathtouch (WIS Spell).",
+          "name": "Deathtouch (WIS Spell)",
           "description": "DC 12. 2d4 damage to one creature within close."
         }
       ]
@@ -2265,11 +2265,11 @@
           "description": "Fire immune. Only damaged by magical sources."
         },
         {
-          "name": "Grab.",
+          "name": "Grab",
           "description": "DC 18 STR or target bound in whip. 2d6 damage per round held, DC 18 STR on turn to break free. In place of fire whip attack, balor can fling a grabbed target double near on its turn."
         },
         {
-          "name": "Hellfire.",
+          "name": "Hellfire",
           "description": "DC 18 DEX or 2d8 damage per round until flames extinguished."
         }
       ]
@@ -2373,7 +2373,7 @@
           "description": "Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds."
         },
         {
-          "name": "Screech.",
+          "name": "Screech",
           "description": "All enemies in double near DC 12 WIS or DISADV on checks and attacks for 1d4 rounds."
         }
       ]
@@ -2427,11 +2427,11 @@
           "description": "In place of attacks, transform into any similarly-sized humanoid."
         },
         {
-          "name": "Charm.",
+          "name": "Charm",
           "description": "One humanoid in near DC 15 CHA or bewitched by cubi for 1d6 hours."
         },
         {
-          "name": "Drain.",
+          "name": "Drain",
           "description": "The target takes 1d6 WIS damage. A target reduced to 0 WIS this way swears its soul to an archdevil."
         }
       ]
@@ -2510,11 +2510,11 @@
           "description": "Fire immune."
         },
         {
-          "name": "Contract.",
+          "name": "Contract",
           "description": "Can grant mighty boons and patronage on behalf of an archdevil in exchange for a sworn soul. ADV on related Charisma checks."
         },
         {
-          "name": "Poison.",
+          "name": "Poison",
           "description": "DC 12 CON or fitful sleep for 1d4 hours."
         }
       ]
@@ -2543,11 +2543,11 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Whirlwind.",
+          "name": "Whirlwind",
           "description": "Transform into a lashing tornado. All enemies within near DC 18 DEX or thrown 2d100 feet in a random direction."
         },
         {
-          "name": "Wish.",
+          "name": "Wish",
           "description": "Cast wish once a week for a mortal, no spellcasting check."
         }
       ]
@@ -2576,7 +2576,7 @@
           "description": "In place of attacks, transform into any similarly-sized humanoid."
         },
         {
-          "name": "Telepathy.",
+          "name": "Telepathy",
           "description": "Can secretly hear the surface thoughts of all humanoids within near."
         }
       ]
@@ -2605,11 +2605,11 @@
           "description": "Electricity immune."
         },
         {
-          "name": "Lightning Breath.",
+          "name": "Lightning Breath",
           "description": "A straight line (5' wide) extending double near from dragon. DC 15 DEX or 4d8 damage (DISADV on check if wearing metal armor)."
         },
         {
-          "name": "Mirage.",
+          "name": "Mirage",
           "description": "1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits dragon or illusions."
         }
       ]
@@ -2638,7 +2638,7 @@
           "description": "Fire immune."
         },
         {
-          "name": "Fire Breath.",
+          "name": "Fire Breath",
           "description": "Fills a double near- sized cube extending from dragon. DC 15 DEX or 6d10 damage."
         }
       ]
@@ -2667,7 +2667,7 @@
           "description": "1/day, in place of attacks. Vines grab at all enemies within double near of dragon. DC 15 DEX or unable to move 1d4 rounds."
         },
         {
-          "name": "Poison Breath.",
+          "name": "Poison Breath",
           "description": "Fills a near-sized cube extending from dragon. DC 15 CON or 3d8 damage."
         }
       ]
@@ -2696,7 +2696,7 @@
           "description": "Cold immune."
         },
         {
-          "name": "Ice Breath.",
+          "name": "Ice Breath",
           "description": "Fills a double near- sized cube extending from dragon. DC 15 DEX or 4d8 damage and frozen for 1 round."
         }
       ]
@@ -2725,7 +2725,7 @@
           "description": "Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage."
         },
         {
-          "name": "Water Spout.",
+          "name": "Water Spout",
           "description": "Fills a near-sized cube within far. DC 15 STR or creatures inside flung 2d100 feet in a random direction."
         }
       ]
@@ -2779,7 +2779,7 @@
           "description": "DC 15 CON or sleep."
         },
         {
-          "name": "Sunblind.",
+          "name": "Sunblind",
           "description": "Blinded in bright light."
         }
       ]
@@ -2808,7 +2808,7 @@
           "description": "DC 15 CON or paralyzed 1d4 rounds."
         },
         {
-          "name": "Sunblind.",
+          "name": "Sunblind",
           "description": "Blinded in bright light."
         }
       ]
@@ -2837,19 +2837,19 @@
           "description": "DC 15 CON or paralyzed 1d4 rounds."
         },
         {
-          "name": "Sunblind.",
+          "name": "Sunblind",
           "description": "Blinded in bright light."
         },
         {
-          "name": "Snuff (WIS Spell).",
+          "name": "Snuff (WIS Spell)",
           "description": "DC 12. Extinguish all light sources (even magical) within near."
         },
         {
-          "name": "Summon Spiders (WIS Spell).",
+          "name": "Summon Spiders (WIS Spell)",
           "description": "DC 14. Summon 2d4 loyal giant spiders that appear within near. They stay for 5 rounds."
         },
         {
-          "name": "Web (WIS Spell).",
+          "name": "Web (WIS Spell)",
           "description": "DC 13. A near- sized cube of webs within far immobilizes all inside it for 5 rounds. DC 15 STR on turn to break free."
         }
       ]
@@ -2878,19 +2878,19 @@
           "description": "Self. DC 13. AC becomes 15 for 5 rounds."
         },
         {
-          "name": "Conjure Flames (INT Spell).",
+          "name": "Conjure Flames (INT Spell)",
           "description": "DC 12. One target in far takes 2d6 damage."
         },
         {
-          "name": "Imbue (INT Spell).",
+          "name": "Imbue (INT Spell)",
           "description": "Self. DC 13. Staff becomes a +3 magic weapon for 10 rounds."
         },
         {
-          "name": "Summon Bear (INT Spell).",
+          "name": "Summon Bear (INT Spell)",
           "description": "DC 14. Summon a loyal brown bear that appears within near. It stays for 5 rounds."
         },
         {
-          "name": "Thunderclap (INT Spell).",
+          "name": "Thunderclap (INT Spell)",
           "description": "DC 13. Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction."
         }
       ]
@@ -2919,7 +2919,7 @@
           "description": "Near, one creature, DC 14 CHA or friendship for 1d8 days."
         },
         {
-          "name": "Meld.",
+          "name": "Meld",
           "description": "Step inside bonded tree."
         }
       ]
@@ -2948,11 +2948,11 @@
           "description": "1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds."
         },
         {
-          "name": "Invisibility.",
+          "name": "Invisibility",
           "description": "1/day, turn invisible for 3 rounds. Ends if duergar attacks."
         },
         {
-          "name": "Sunblind.",
+          "name": "Sunblind",
           "description": "Blinded in bright light."
         }
       ]
@@ -3006,11 +3006,11 @@
           "description": "Only damaged by magical sources. Fire immune."
         },
         {
-          "name": "Wall of Flame.",
+          "name": "Wall of Flame",
           "description": "1/day, 20' high curtain of fire, double near length. Touching it deals 4d8 damage. Lasts 2d4 rounds."
         },
         {
-          "name": "Wish.",
+          "name": "Wish",
           "description": "Cast wish once a week for a mortal, no spellcasting check."
         }
       ]
@@ -3039,7 +3039,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Whirlwind.",
+          "name": "Whirlwind",
           "description": "All within close DC 15 DEX or flung 2d20 feet in random direction."
         }
       ]
@@ -3068,7 +3068,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Whirlwind.",
+          "name": "Whirlwind",
           "description": "All within close DC 15 DEX or flung 2d20 feet in random direction."
         }
       ]
@@ -3097,7 +3097,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Avalanche.",
+          "name": "Avalanche",
           "description": "All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth."
         }
       ]
@@ -3126,7 +3126,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Avalanche.",
+          "name": "Avalanche",
           "description": "All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth."
         }
       ]
@@ -3155,7 +3155,7 @@
           "description": "Only damaged by magical sources. Fire immune."
         },
         {
-          "name": "Inferno.",
+          "name": "Inferno",
           "description": "All within near DC 15 DEX or 3d8 damage."
         }
       ]
@@ -3184,7 +3184,7 @@
           "description": "Only damaged by magical sources. Fire immune."
         },
         {
-          "name": "Inferno.",
+          "name": "Inferno",
           "description": "All within near DC 15 DEX or 3d8 damage."
         }
       ]
@@ -3213,7 +3213,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Whirlpool.",
+          "name": "Whirlpool",
           "description": "All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape."
         }
       ]
@@ -3242,7 +3242,7 @@
           "description": "Only damaged by magical sources."
         },
         {
-          "name": "Whirlpool.",
+          "name": "Whirlpool",
           "description": "All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape."
         }
       ]
@@ -3421,11 +3421,11 @@
           "description": "DC 12 STR or trapped inside cube. Touch attack auto- hits engulfed targets each round. DC 12 STR on turn to escape. Fail checks if paralyzed."
         },
         {
-          "name": "Rubbery.",
+          "name": "Rubbery",
           "description": "Half damage from stabbing weapons."
         },
         {
-          "name": "Toxin.",
+          "name": "Toxin",
           "description": "DC 15 CON or paralyzed 1d4 rounds."
         }
       ]
@@ -3454,11 +3454,11 @@
           "description": "Immune to morale checks."
         },
         {
-          "name": "Carrion Stench.",
+          "name": "Carrion Stench",
           "description": "Living creatures DC 12 CON the first time within near or DISADV on attacks and spellcasting for 5 rounds."
         },
         {
-          "name": "Paralyze.",
+          "name": "Paralyze",
           "description": "DC 12 CON or paralyzed 1d4 rounds."
         }
       ]
@@ -3487,15 +3487,15 @@
           "description": "Immune to morale checks. Only damaged by silver or magical sources."
         },
         {
-          "name": "Incorporeal.",
+          "name": "Incorporeal",
           "description": "In place of attacks, become corporeal or incorporeal."
         },
         {
-          "name": "Life Drain.",
+          "name": "Life Drain",
           "description": "1d4 CON damage. Death if reduced to 0 CON."
         },
         {
-          "name": "Possess.",
+          "name": "Possess",
           "description": "Must be corporeal. One target, close range. Contested CHA check. If ghost wins, it inhabits target's body and controls it for 2d4 rounds."
         }
       ]
@@ -3524,7 +3524,7 @@
           "description": "Immune to morale checks."
         },
         {
-          "name": "Paralyze.",
+          "name": "Paralyze",
           "description": "DC 12 CON or paralyzed 1d4 rounds."
         }
       ]
@@ -3693,7 +3693,7 @@
           "description": "Electricity immune."
         },
         {
-          "name": "Lightning Bolt.",
+          "name": "Lightning Bolt",
           "description": "3/day, 5' wide line extending far from giant. All creatures in line DC 15 DEX or 5d10 damage. DISADV on check if in water."
         }
       ]
@@ -3722,7 +3722,7 @@
           "description": "Creatures within near DC 12 WIS on turn or take a random action (d8): 1-3. do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee."
         },
         {
-          "name": "Latch.",
+          "name": "Latch",
           "description": "Attach to bitten target; bites auto-hit next round. DC 12 STR on turn to tear off."
         }
       ]
@@ -3871,15 +3871,15 @@
           "description": "Can't be surprised."
         },
         {
-          "name": "Bug Brain (WIS Spell).",
+          "name": "Bug Brain (WIS Spell)",
           "description": "DC 13. Near range, one target. Target's INT drops to 1 for 1d4 rounds."
         },
         {
-          "name": "Skitter (WIS Spell).",
+          "name": "Skitter (WIS Spell)",
           "description": "DC 12. Self. Climb like a spider for 5 rounds."
         },
         {
-          "name": "Stink Bomb (WIS Spell).",
+          "name": "Stink Bomb (WIS Spell)",
           "description": "DC 12. One target within far 2d4 damage and DC 12 CON or DISADV on next check/attack."
         }
       ]
@@ -3908,7 +3908,7 @@
           "description": "Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Slam damage can only be healed by level 5+ priest."
         }
       ]
@@ -3937,7 +3937,7 @@
           "description": "Immune to damage from fire, cold, or non-magical sources. Healed by electricity."
         },
         {
-          "name": "Berserk.",
+          "name": "Berserk",
           "description": "When at or below 20 HP, +1 slam attack and slams deal double damage."
         }
       ]
@@ -3966,7 +3966,7 @@
           "description": "Immune to damage from cold or non-magical sources. Healed by fire."
         },
         {
-          "name": "Poison Breath.",
+          "name": "Poison Breath",
           "description": "All within near, DC 15 CON or 8d6 damage."
         }
       ]
@@ -3995,7 +3995,7 @@
           "description": "Immune to damage from fire, cold, electricity, or non-magical sources."
         },
         {
-          "name": "Slow.",
+          "name": "Slow",
           "description": "Far range, one target. DC 15 CON or speed halved 1d4 rds."
         }
       ]
@@ -4024,7 +4024,7 @@
           "description": "Move up to double near in straight line and make 1 gore attack. If hit, x3 damage."
         },
         {
-          "name": "Petrifying Breath.",
+          "name": "Petrifying Breath",
           "description": "Fills a near- sized cube extending from gorgon. DC 15 CON or petrified (gorgons immune)."
         }
       ]
@@ -4073,7 +4073,7 @@
           "description": "Immune to damage from acid, cold, or fire."
         },
         {
-          "name": "Corrosive.",
+          "name": "Corrosive",
           "description": "Nonmagical metal that touches the ooze dissolves on a d6 roll of 1-3."
         }
       ]
@@ -4102,7 +4102,7 @@
           "description": "Hard to see in cave terrain or rocks."
         },
         {
-          "name": "Grab.",
+          "name": "Grab",
           "description": "Target is immobilized. DC 15 Strength check on turn to break free."
         }
       ]
@@ -4196,7 +4196,7 @@
           "description": "One target within near DC 15 CHA or blinded for 1d4 days."
         },
         {
-          "name": "Shapechange.",
+          "name": "Shapechange",
           "description": "Instantly change to look like any other humanoid."
         }
       ]
@@ -4225,7 +4225,7 @@
           "description": "Instantly change to look like any other humanoid."
         },
         {
-          "name": "Terrify.",
+          "name": "Terrify",
           "description": "A creature who first sees her true form DC 15 CHA or DISADV on attacks 1d4 rounds."
         }
       ]
@@ -4254,7 +4254,7 @@
           "description": "Near range. DC 12 CHA to deal 2d4 damage to a creature; regain that many HP."
         },
         {
-          "name": "Shapechange.",
+          "name": "Shapechange",
           "description": "Instantly change to look like any other humanoid."
         }
       ]
@@ -4308,7 +4308,7 @@
           "description": "Fire immune."
         },
         {
-          "name": "Fire Breath.",
+          "name": "Fire Breath",
           "description": "Fills a near-sized cube extending from hell hound. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds."
         }
       ]
@@ -4452,11 +4452,11 @@
           "description": "A secret, mundane contingency (such as the touch of a feather) ends the invisible stalker's magical servitude."
         },
         {
-          "name": "Invisible.",
+          "name": "Invisible",
           "description": "Naturally invisible."
         },
         {
-          "name": "Tracking.",
+          "name": "Tracking",
           "description": "Can always sense the direction of its chosen quarry."
         }
       ]
@@ -4560,11 +4560,11 @@
           "description": "1/day, an attack that would hit misses instead."
         },
         {
-          "name": "Scorpion Sting (CHA Spell).",
+          "name": "Scorpion Sting (CHA Spell)",
           "description": "DC 11. Near range, one target. 1d6 damage and target has DISADV on next attack roll or check."
         },
         {
-          "name": "Spider Swarm (CHA Spell).",
+          "name": "Spider Swarm (CHA Spell)",
           "description": "DC 12. A spider swarm appears within near. Stays 1d4 rounds. Follows sorcerer's commands."
         }
       ]
@@ -4593,15 +4593,15 @@
           "description": "Electricity immune."
         },
         {
-          "name": "Crush.",
+          "name": "Crush",
           "description": "Tentacle attacks deal double damage against objects."
         },
         {
-          "name": "Lightning Bolt.",
+          "name": "Lightning Bolt",
           "description": "Straight line (5' wide) extending far from kraken. DC 15 DEX or 6d6 damage."
         },
         {
-          "name": "Storm.",
+          "name": "Storm",
           "description": "Seas become violently turbulent in 1 mile radius around kraken. Lasts 2d4 rounds. Seaborne vessels have a 1:6 chance of capsizing each round."
         }
       ]
@@ -4659,15 +4659,15 @@
           "description": "Hostile spells targeting the leprechaun are DC 15 to cast."
         },
         {
-          "name": "Fool's Gold (CHA Spell).",
+          "name": "Fool's Gold (CHA Spell)",
           "description": "DC 12. Close. One small object or small group of similar objects. Turn objects into silver or gold pieces. Lasts 1 day."
         },
         {
-          "name": "Illusion (CHA Spell).",
+          "name": "Illusion (CHA Spell)",
           "description": "DC 11. Create a convincing visual and/ or auditory illusion within near. Lasts until dismissed."
         },
         {
-          "name": "Invisibility (CHA Spell).",
+          "name": "Invisibility (CHA Spell)",
           "description": "DC 12. Self. Become invisible for 2d4 rounds."
         }
       ]
@@ -4696,31 +4696,31 @@
           "description": "Immune to morale checks. Only damaged by magical sources."
         },
         {
-          "name": "Phylactery.",
+          "name": "Phylactery",
           "description": "Can't be killed while spirit vessel (an object) is intact."
         },
         {
-          "name": "Paralysis.",
+          "name": "Paralysis",
           "description": "DC 15 CON or paralyzed 1d4 rounds."
         },
         {
-          "name": "Flight (INT Spell).",
+          "name": "Flight (INT Spell)",
           "description": "Self. DC 13. Fly double near for 5 rounds."
         },
         {
-          "name": "Null (INT Spell).",
+          "name": "Null (INT Spell)",
           "description": "Self. DC 14. Hostile spells targeting lich are DC 18 to cast. Lasts 1d4 rounds."
         },
         {
-          "name": "Shadow Leap (INT Spell).",
+          "name": "Shadow Leap (INT Spell)",
           "description": "Self. DC 14. Teleport up to 100 miles."
         },
         {
-          "name": "Sigil of Doom (INT Spell).",
+          "name": "Sigil of Doom (INT Spell)",
           "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP."
         },
         {
-          "name": "Wither (INT Spell).",
+          "name": "Wither (INT Spell)",
           "description": "DC 14. 4d8 damage to enemies within a near-sized cube centered on lich."
         }
       ]
@@ -4789,19 +4789,19 @@
           "description": "Self. DC 12. AC 16 for 2d4 rounds."
         },
         {
-          "name": "Blast (INT Spell).",
+          "name": "Blast (INT Spell)",
           "description": "DC 12. Far, one target. 2d6 damage."
         },
         {
-          "name": "Cancel (INT Spell).",
+          "name": "Cancel (INT Spell)",
           "description": "DC 13. End one spell affecting a target within near."
         },
         {
-          "name": "Levitate (INT Spell).",
+          "name": "Levitate (INT Spell)",
           "description": "DC 12. Close. Focus. Hover near for duration, vertical movement only."
         },
         {
-          "name": "Snare (INT Spell).",
+          "name": "Snare (INT Spell)",
           "description": "DC 13. Focus. One humanoid target within near paralyzed for duration."
         }
       ]
@@ -4830,7 +4830,7 @@
           "description": "Cold immune."
         },
         {
-          "name": "Charge.",
+          "name": "Charge",
           "description": "Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage."
         }
       ]
@@ -4929,11 +4929,11 @@
           "description": "Hostile spells targeting the medusa are DC 15 to cast."
         },
         {
-          "name": "Petrify.",
+          "name": "Petrify",
           "description": "Any creature (including medusa) who looks directly at medusa, DC 15 CON or petrified."
         },
         {
-          "name": "Poison.",
+          "name": "Poison",
           "description": "DC 15 CON or go to 0 HP."
         }
       ]
@@ -5048,23 +5048,23 @@
       "level": 19,
       "traits": [
         {
-          "name": "Legendary Undead.",
+          "name": "Legendary Undead",
           "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Mordanticus are DC 18 to cast."
         },
         {
-          "name": "Crown of Gehemna.",
+          "name": "Crown of Gehemna",
           "description": "3/day, cause a spell being cast within far to fail."
         },
         {
-          "name": "Necrosis.",
+          "name": "Necrosis",
           "description": "DC 15 CON or go to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP to due to this effect."
         },
         {
-          "name": "Phylactery.",
+          "name": "Phylactery",
           "description": "Cannot be killed while spirit vessel (a diamond) is intact."
         },
         {
-          "name": "Absorb (INT Spell).",
+          "name": "Absorb (INT Spell)",
           "description": "DC 13. Near, one target. Target loses the ability to cast one random spell until completing a rest, and Mordanticus regains a lost spell of the same tier or less."
         },
         {
@@ -5072,19 +5072,19 @@
           "description": "DC 14, All extradimensional creatures within near DC 15 CHA or sent back to their home planes."
         },
         {
-          "name": "Bind (INT Spell).",
+          "name": "Bind (INT Spell)",
           "description": "DC 12. One humanoid in far paralyzed 1d4 rounds."
         },
         {
-          "name": "Blast (INT Spell).",
+          "name": "Blast (INT Spell)",
           "description": "DC 14. One creature in near takes 5d8 damage."
         },
         {
-          "name": "Phase (INT Spell).",
+          "name": "Phase (INT Spell)",
           "description": "DC 13. Self. Teleport up to one mile."
         },
         {
-          "name": "True Name (INT Spell).",
+          "name": "True Name (INT Spell)",
           "description": "DC 15. Near. Learn the *True Name* of target."
         }
       ]
@@ -5113,7 +5113,7 @@
           "description": "Immune to morale checks. Only damaged by magical sources."
         },
         {
-          "name": "Desiccated.",
+          "name": "Desiccated",
           "description": "Can be damaged by fire. Takes x2 damage from it."
         },
         {
@@ -5146,7 +5146,7 @@
           "description": "Blinded in bright light."
         },
         {
-          "name": "Telepathic.",
+          "name": "Telepathic",
           "description": "Speak mentally with creatures within double near."
         }
       ]
@@ -5175,15 +5175,15 @@
           "description": "DC 15 CON or paralyzed 1d4 rounds."
         },
         {
-          "name": "Agony (CHA Spell).",
+          "name": "Agony (CHA Spell)",
           "description": "DC 14. One target in near takes 3d8 damage."
         },
         {
-          "name": "Hypnotize (CHA Spell).",
+          "name": "Hypnotize (CHA Spell)",
           "description": "DC 13. Focus. One target in near range who can see naga is helplessly stupefied for duration."
         },
         {
-          "name": "Whispers (CHA Spell).",
+          "name": "Whispers (CHA Spell)",
           "description": "DC 12. Hostile spells cast on one target in near are DC 9 for 1d4 rounds."
         }
       ]
@@ -5258,27 +5258,27 @@
       "level": 16,
       "traits": [
         {
-          "name": "Legendary Undead.",
+          "name": "Legendary Undead",
           "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Obe-Ixx are DC 18 to cast."
         },
         {
-          "name": "Blood Drain.",
+          "name": "Blood Drain",
           "description": "Obe-Ixx heals 2d8 HP, target permanently loses 1d6 CON. At 0 CON, target dies and rises as a loyal vampire or vampire spawn (Obe-Ixx chooses)."
         },
         {
-          "name": "Charm.",
+          "name": "Charm",
           "description": "One humanoid target who can see Obe-Ixx within near, DC 15 CHA or under Obe-Ixx's control for 1d4 days."
         },
         {
-          "name": "Dire Shapechange.",
+          "name": "Dire Shapechange",
           "description": "In place of attacks, turn into a giant bat, dire wolf, or back into regular form."
         },
         {
-          "name": "Moonbite Properties.",
+          "name": "Moonbite Properties",
           "description": "+2 _greatsword_, thrown weapon, returns after being thrown. Spells to heal damage it inflicts are DC 15 to cast."
         },
         {
-          "name": "Ur-Vampire.",
+          "name": "Ur-Vampire",
           "description": "Must sleep in sarcophagus at least once per moon cycle or loses 2d8 HP per day that cannot heal until sleeping in sacrophagus. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart while at 0 HP with a wooden stake carved from a tree from the Tal-Yool jungle."
         }
       ]
@@ -5332,7 +5332,7 @@
           "description": "DC 15 STR or immobilized. Tentacle auto-hits each round. DC 15 STR on turn to break free."
         },
         {
-          "name": "Ink.",
+          "name": "Ink",
           "description": "In place of attacks, ink cloud blinds all in near for 1d4 rounds."
         }
       ]
@@ -5381,15 +5381,15 @@
           "description": "In place of attacks, turn into any humanoid or back into original form."
         },
         {
-          "name": "Fade (CHA Spell).",
+          "name": "Fade (CHA Spell)",
           "description": "DC 13. Self. Become invisible for 1d4 rounds."
         },
         {
-          "name": "Hellfrost (CHA Spell).",
+          "name": "Hellfrost (CHA Spell)",
           "description": "DC 13. All within near-sized cube extending from oni 3d6 damage."
         },
         {
-          "name": "Mist (CHA Spell).",
+          "name": "Mist (CHA Spell)",
           "description": "DC 13. Self. Turn into mist that can fly double near. Lasts 2d4 rounds."
         }
       ]
@@ -5578,15 +5578,15 @@
           "description": "Immune to fire. Only damaged by magical sources."
         },
         {
-          "name": "Explosion.",
+          "name": "Explosion",
           "description": "Upon death, creatures within double near of phoenix DC 18 DEX or 10d6 damage."
         },
         {
-          "name": "Heat Aura.",
+          "name": "Heat Aura",
           "description": "Creatures within near of phoenix at start of turn DC 15 CON or 2d6 damage."
         },
         {
-          "name": "Rebirth.",
+          "name": "Rebirth",
           "description": "A red-hot egg remains after death. Phoenix hatches from it in 1d4 days."
         }
       ]
@@ -5680,15 +5680,15 @@
           "description": "DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds."
         },
         {
-          "name": "Healing Touch (WIS Spell).",
+          "name": "Healing Touch (WIS Spell)",
           "description": "DC 11. Heal one creature within close for 2d4 HP."
         },
         {
-          "name": "Holy Flame (WIS Spell).",
+          "name": "Holy Flame (WIS Spell)",
           "description": "DC 13. Self. Weapons ignite in magic flames and deal an additional 1d6 damage for 5 rounds."
         },
         {
-          "name": "Rebuke (WIS Spell).",
+          "name": "Rebuke (WIS Spell)",
           "description": "DC 13. Focus. Chaotic creatures cannot attack priest or come within near range for duration."
         }
       ]
@@ -5717,7 +5717,7 @@
           "description": "Only harmed by fire."
         },
         {
-          "name": "Dissolve.",
+          "name": "Dissolve",
           "description": "One random piece of non-magical gear the target carries is destroyed."
         }
       ]
@@ -5771,7 +5771,7 @@
           "description": "DC 15 CON or go to 0 HP."
         },
         {
-          "name": "Swallow.",
+          "name": "Swallow",
           "description": "On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Worm regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet."
         }
       ]
@@ -5800,11 +5800,11 @@
           "description": "Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower."
         },
         {
-          "name": "Mesmerism.",
+          "name": "Mesmerism",
           "description": "Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid."
         },
         {
-          "name": "Weakness.",
+          "name": "Weakness",
           "description": "A crossbow bolt under the effects of the holy weapon spell kills the rakshasa."
         }
       ]
@@ -5929,35 +5929,35 @@
       "level": 19,
       "traits": [
         {
-          "name": "Legendary.",
+          "name": "Legendary",
           "description": "Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast."
         },
         {
-          "name": "Roar.",
+          "name": "Roar",
           "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or be rendered blind and speechless for 1d4 days."
         },
         {
-          "name": "Abjure (WIS Spell).",
+          "name": "Abjure (WIS Spell)",
           "description": "DC 13. Self. End any hostile magical effects affecting Rathgamnon."
         },
         {
-          "name": "Abolish (WIS Spell).",
+          "name": "Abolish (WIS Spell)",
           "description": "DC 13. One target in far takes 5d8 damage."
         },
         {
-          "name": "Anchor (WIS Spell).",
+          "name": "Anchor (WIS Spell)",
           "description": "DC 14. One target in far DC 18 STR or bound and anchored by chains of golden runes for 1d4 rounds."
         },
         {
-          "name": "Gate (WIS Spell).",
+          "name": "Gate (WIS Spell)",
           "description": "DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed."
         },
         {
-          "name": "Portent (WIS Spell).",
+          "name": "Portent (WIS Spell)",
           "description": "DC 14. Lasts 2d4 rounds. One target in near has advantage or disadvantage on all attack rolls and checks."
         },
         {
-          "name": "Time Stop (WIS Spell).",
+          "name": "Time Stop (WIS Spell)",
           "description": "DC 15. Self. Time freezes for everyone except Rathgamnon for 1d4 rounds. Everything that occurs during the time freeze happens simultaneously when the spell ends."
         }
       ]
@@ -6011,11 +6011,11 @@
           "description": "Immune to cold and fire."
         },
         {
-          "name": "Melt.",
+          "name": "Melt",
           "description": "Non-magical metal objects that touch the remorhaz melt on a d6 roll of 1-3."
         },
         {
-          "name": "Swallow.",
+          "name": "Swallow",
           "description": "On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Remorhaz regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet."
         }
       ]
@@ -6069,7 +6069,7 @@
           "description": "Immune to cold."
         },
         {
-          "name": "Ice Aura.",
+          "name": "Ice Aura",
           "description": "Enemies within near of rime walker DC 12 CON at start of turn or lose action."
         }
       ]
@@ -6123,15 +6123,15 @@
           "description": "Can only be damaged by magical sources."
         },
         {
-          "name": "Grab.",
+          "name": "Grab",
           "description": "DC 15 STR or target trapped in tendril. Tendril auto- hits target next round. DC 15 STR on turn to break free."
         },
         {
-          "name": "Pull.",
+          "name": "Pull",
           "description": "In place of a tendril attack, pull a grabbed target a near distance."
         },
         {
-          "name": "Tendrils.",
+          "name": "Tendrils",
           "description": "Four total. AC 18 each. 4+ damage to one severs it."
         }
       ]
@@ -6235,7 +6235,7 @@
           "description": "Fire immune."
         },
         {
-          "name": "Heat Aura.",
+          "name": "Heat Aura",
           "description": "Creatures in close DC 12 CON on turn or 1d8 damage."
         }
       ]
@@ -6334,7 +6334,7 @@
           "description": "DC 12 STR or target held. DC 12 STR on turn to break free."
         },
         {
-          "name": "Poison.",
+          "name": "Poison",
           "description": "DC 12 CON or go to 0 HP."
         }
       ]
@@ -6388,7 +6388,7 @@
           "description": "Fire immune. Healed by electricity."
         },
         {
-          "name": "Engulf.",
+          "name": "Engulf",
           "description": "If a target is hit by both slams in same round, it is pulled into shambling mound's body and suffocates in 2d4 rounds. DC 15 STR on turn to escape."
         }
       ]
@@ -6627,23 +6627,23 @@
           "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds."
         },
         {
-          "name": "Gate (WIS Spell).",
+          "name": "Gate (WIS Spell)",
           "description": "DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed."
         },
         {
-          "name": "Omens (WIS Spell).",
+          "name": "Omens (WIS Spell)",
           "description": "DC 12. Self. ADV on all actions for 1d4 rounds."
         },
         {
-          "name": "Riddle (WIS Spell).",
+          "name": "Riddle (WIS Spell)",
           "description": "DC 12. One target in far DC 15 INT or stupefied 1d4 rounds."
         },
         {
-          "name": "Time Bend (WIS Spell).",
+          "name": "Time Bend (WIS Spell)",
           "description": "DC 14. One target in near frozen in time for 1d4 rounds."
         },
         {
-          "name": "Unmake (WIS Spell).",
+          "name": "Unmake (WIS Spell)",
           "description": "DC 13. One target in far takes 3d8 damage."
         }
       ]
@@ -6772,7 +6772,7 @@
           "description": "ADV on DEX checks to sneak and hide."
         },
         {
-          "name": "Strangle.",
+          "name": "Strangle",
           "description": "Deals x2 damage against surprised creatures."
         }
       ]
@@ -6801,31 +6801,31 @@
           "description": "Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast."
         },
         {
-          "name": "Deep Dweller.",
+          "name": "Deep Dweller",
           "description": "Immune to harm from fire and cold. Amphibious."
         },
         {
-          "name": "Permanent Death.",
+          "name": "Permanent Death",
           "description": "Cannot be permanently killed unless a wish spell is cast on it while it is at 0 HP."
         },
         {
-          "name": "Rampage.",
+          "name": "Rampage",
           "description": "In place of attacks, move far in a straight line and make one bite attack. On a hit, triple damage."
         },
         {
-          "name": "Reflective Carapace.",
+          "name": "Reflective Carapace",
           "description": "Immune to rays, blasts, or bolts of energy. 1:6 chance these are reflected back at their originator."
         },
         {
-          "name": "Regeneration.",
+          "name": "Regeneration",
           "description": "Regains 4d10 lost HP at the beginning of its turn."
         },
         {
-          "name": "Sever.",
+          "name": "Sever",
           "description": "On a natural attack roll of 18+, the attack also severs a random limb. 1d6: 1. Head, 2-4. Arm, 5-6. Leg."
         },
         {
-          "name": "Swallow.",
+          "name": "Swallow",
           "description": "DC 18 STR or swallowed whole. Total darkness inside and 4d10 damage per round. Tarrasque regurgitates all swallowed if dealt at least 30 damage in one round to the inside of its gullet."
         }
       ]
@@ -6850,11 +6850,11 @@
       "level": 18,
       "traits": [
         {
-          "name": "Legendary.",
+          "name": "Legendary",
           "description": "Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast."
         },
         {
-          "name": "Eyestalk Ray.** Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target). 1. **Charm.** DC 15 CHA or become ally for 1d4 rounds. 2. **Hold.** DC 15 STR or paralyzed 1d4 rounds. 3. **Sleep.** DC 15 WIS or asleep 1d4 rounds. 4. **Polymorph.** DC 15 INT or turned into vermin for 1d4 rounds. 5. **Cancel.** DC 15 DEX or all magical effects on target end. 6. **Confusion.** DC 15 WIS or attack a random ally within near. 7. **Telekinesis.** DC 15 STR or hover target up to double near. 8. **Disintegrate.** DC 15 DEX or 5d8 damage (object destroyed). 9. **Petrify.** DC 15 CON or petrified. 10. **Death.",
+          "name": "Eyestalk Ray.** Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target). 1. **Charm.** DC 15 CHA or become ally for 1d4 rounds. 2. **Hold.** DC 15 STR or paralyzed 1d4 rounds. 3. **Sleep.** DC 15 WIS or asleep 1d4 rounds. 4. **Polymorph.** DC 15 INT or turned into vermin for 1d4 rounds. 5. **Cancel.** DC 15 DEX or all magical effects on target end. 6. **Confusion.** DC 15 WIS or attack a random ally within near. 7. **Telekinesis.** DC 15 STR or hover target up to double near. 8. **Disintegrate.** DC 15 DEX or 5d8 damage (object destroyed). 9. **Petrify.** DC 15 CON or petrified. 10. **Death",
           "description": "DC 15 CON or drop to 0 HP with a death timer of 1."
         }
       ]
@@ -6879,31 +6879,31 @@
       "level": 15,
       "traits": [
         {
-          "name": "Legendary.",
+          "name": "Legendary",
           "description": "Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast."
         },
         {
-          "name": "Amulet of Rahm-Hotep.",
+          "name": "Amulet of Rahm-Hotep",
           "description": "In place of attacks, teleport to a random location in the multiverse."
         },
         {
-          "name": "Bottomless Bag.",
+          "name": "Bottomless Bag",
           "description": "Contains 200 gear slots in magical sub-pockets. Weighs as much as a normal backpack. The Wandering Merchant can summon it to himself from anywhere by snapping his fingers."
         },
         {
-          "name": "Dice of Truth.",
+          "name": "Dice of Truth",
           "description": "A set of three six-sided dice whose rolls cannot be magically or mundanely altered in any way."
         },
         {
-          "name": "Lop.",
+          "name": "Lop",
           "description": "On a natural attack roll of 18-20, behead the target."
         },
         {
-          "name": "Reckoning.",
+          "name": "Reckoning",
           "description": "Any creature who steals from The Wandering Merchant develops a curse. Over the next 2d8 days, that creature turns into a cockatrice. This curse can only be lifted by a wish spell or by returning the stolen goods."
         },
         {
-          "name": "Strange Lands.",
+          "name": "Strange Lands",
           "description": "The Wandering Merchant does not suffer any ill effects from the natural environment he does not wish to suffer."
         }
       ]
@@ -6932,7 +6932,7 @@
           "description": "ADV on DEX checks to sneak and hide."
         },
         {
-          "name": "Backstab.",
+          "name": "Backstab",
           "description": "Deal x2 damage against surprised creatures."
         }
       ]
@@ -7056,7 +7056,7 @@
           "description": "Cold and fire immune."
         },
         {
-          "name": "Regenerate.",
+          "name": "Regenerate",
           "description": "Regains 2d6 HP on its turn unless its wounds are cauterized with acid."
         }
       ]
@@ -7130,19 +7130,19 @@
           "description": "Immune to morale checks. Only damaged by magical sources."
         },
         {
-          "name": "Blood Drain.",
+          "name": "Blood Drain",
           "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as vampire or vampire spawn (vampire chooses)."
         },
         {
-          "name": "Charm.",
+          "name": "Charm",
           "description": "One humanoid target who can see vampire within near, DC 15 CHA or under vampire's control for 1d4 days."
         },
         {
-          "name": "Shapechange.",
+          "name": "Shapechange",
           "description": "In place of attacks, turn into a bat, wolf, or back into regular form."
         },
         {
-          "name": "Vampire.",
+          "name": "Vampire",
           "description": "Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP."
         }
       ]
@@ -7171,11 +7171,11 @@
           "description": "Immune to morale checks. Only damaged by silver or magical sources."
         },
         {
-          "name": "Blood Drain.",
+          "name": "Blood Drain",
           "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as a vampire spawn."
         },
         {
-          "name": "Vampire.",
+          "name": "Vampire",
           "description": "Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP."
         }
       ]
@@ -7294,15 +7294,15 @@
           "description": "DC 12. End one spell within far."
         },
         {
-          "name": "Summon Cobra (INT Spell).",
+          "name": "Summon Cobra (INT Spell)",
           "description": "DC 13. Summon 1d4 loyal cobras that appear within near. They leave in 1d4 rounds."
         },
         {
-          "name": "Venom (INT Spell).",
+          "name": "Venom (INT Spell)",
           "description": "DC 12. One target in far takes 2d8 damage."
         },
         {
-          "name": "Whispers (INT Spell).",
+          "name": "Whispers (INT Spell)",
           "description": "DC 14. Focus. All enemies within near of viperian wizard have DISADV on spellcasting checks for the duration."
         }
       ]
@@ -7331,7 +7331,7 @@
           "description": "Immune to cold."
         },
         {
-          "name": "Toxin.",
+          "name": "Toxin",
           "description": "DC 12 CON or paralyzed for 1d4 rounds."
         }
       ]
@@ -7360,11 +7360,11 @@
           "description": "Immune to cold."
         },
         {
-          "name": "Phase.",
+          "name": "Phase",
           "description": "Once per round, become corporeal or incorporeal."
         },
         {
-          "name": "Poison.",
+          "name": "Poison",
           "description": "DC 12 CON or drop to 0 HP in 1d4 rounds."
         }
       ]
@@ -7443,7 +7443,7 @@
           "description": "Only damaged by silver or magic sources."
         },
         {
-          "name": "Lycanthropy.",
+          "name": "Lycanthropy",
           "description": "If 12 or more damage from the same wererat, contract lycanthropy."
         }
       ]
@@ -7472,7 +7472,7 @@
           "description": "Only damaged by silver or magic sources."
         },
         {
-          "name": "Lycanthropy.",
+          "name": "Lycanthropy",
           "description": "If 12 or more damage from the same werewolf, contract lycanthropy."
         }
       ]
@@ -7501,7 +7501,7 @@
           "description": "Immune to morale checks. Only damaged by silver or magical sources."
         },
         {
-          "name": "Life Drain.",
+          "name": "Life Drain",
           "description": "1d4 CON damage. Death if reduced to 0 CON."
         }
       ]
@@ -7605,7 +7605,7 @@
           "description": "Cold immune."
         },
         {
-          "name": "Frost Breath.",
+          "name": "Frost Breath",
           "description": "Fills a near-sized cube extending from winter wolf. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds."
         }
       ]
@@ -7654,11 +7654,11 @@
           "description": "Immune to morale checks. Only damaged by silver or magical sources."
         },
         {
-          "name": "Incorporeal.",
+          "name": "Incorporeal",
           "description": "In place of attacks, become corporeal or incorporeal."
         },
         {
-          "name": "Life Drain.",
+          "name": "Life Drain",
           "description": "1d4 CON damage. Death if reduced to 0 CON."
         }
       ]
@@ -7712,7 +7712,7 @@
           "description": "Immune to morale checks."
         },
         {
-          "name": "Relentless.",
+          "name": "Relentless",
           "description": "If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead."
         }
       ]
@@ -7726,7 +7726,7 @@
       "description": "A smooth, pearly statuette of a running horse.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, the wielder can speak the command word to turn the statuette into a pegasus that accepts neutral or lawful riders. The statuette remains in this form for 1 hour."
         }
       ]
@@ -7738,11 +7738,11 @@
       "description": "A heavy, flat pendant carved with a lidded eye.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can't be detected by divination magic such as the scrying spell or a Crystal Ball while wearing this amulet."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You constantly have the sensation of being watched."
         }
       ]
@@ -7754,7 +7754,7 @@
       "description": "A gold amulet with a red ruby teardrop at its center.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Constitution stat becomes 18 (+4) while wearing this amulet."
         }
       ]
@@ -7766,11 +7766,11 @@
       "description": "Golden plate mail carved from head to toe with warrior angels.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+3 plate mail. Only a lawful worshipper of Saint Terragnis can wear this armor."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Hostile spells that target you are DC 18 to cast. Once per month, you can summon an Avatar of Saint Terragnis (treat as an archangel) to fight by your side for 10 rounds."
         }
       ]
@@ -7782,15 +7782,15 @@
       "description": "Black plate mail of lacquered, ironwood panels. The helm's visor is the face of a snarling oni.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 plate mail."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can speak and understand Diabolic. Your melee weapon attacks deal +1 damage."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You have disadvantage on attacks and spellcasting checks against demons."
         }
       ]
@@ -7802,7 +7802,7 @@
       "description": "A gray, fraying sack matted with white, bristly hair.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can reach inside the bag and pull out an angry badger. You can throw the badger up to a near distance. The badger attacks the nearest creature for 3 rounds before waddling away."
         }
       ]
@@ -7814,7 +7814,7 @@
       "description": "A worn, leather pouch with tight drawstrings.",
       "traits": [
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "This bag devours and destroys anything placed inside it in 1d6 rounds."
         }
       ]
@@ -7826,11 +7826,11 @@
       "description": "A worn, leather pouch with tight drawstrings.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This bag has an interdimensional space inside that can hold up to 10 gear slots."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Placing this item inside another Bag of Holding or a Portable Hole destroys both items and all held inside them."
         }
       ]
@@ -7842,7 +7842,7 @@
       "description": "A marble with a blue ring of light glowing softly inside it.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a resilient sphere spell (pg. 69)."
         }
       ]
@@ -7854,15 +7854,15 @@
       "description": "A gray blade with a diamond- cut ruby in the pommel. It whistles sharply with each slice.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+2 bastard sword. Cannot be wielded by undead."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You have advantage on attacks against undead creatures with this sword. You can use the sword to cast turn undead once per day (+4 bonus)."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Lawful. Grim, suspicious. Forged as a failsafe against the Witch-Kings if they should fall to darkness, which they did. Demands they be slain."
         }
       ]
@@ -7874,7 +7874,7 @@
       "description": "Fine, supple boots of sheepskin.",
       "traits": [
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "As soon as you don these boots, you begin cavorting and dancing uncontrollably. You move randomly each turn and must pass a DC 15 Dexterity check to remove the boots."
         }
       ]
@@ -7886,7 +7886,7 @@
       "description": "Brown, sturdy boots polished to a sheen. Small, silver wings adorn the heels.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can walk on an insubstantial surface for 1 turn at a time. You fall through the surface if you end your turn on it."
         }
       ]
@@ -7898,7 +7898,7 @@
       "description": "Gray, doeskin boots as thin and soft as slippers.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9)."
         }
       ]
@@ -7910,7 +7910,7 @@
       "description": "Leather bracers embossed with soaring hawks.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You deal +1 damage with ranged weapons."
         }
       ]
@@ -7922,7 +7922,7 @@
       "description": "Steel bracers traced with dwarvish runes of protection.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You get a +1 bonus to your armor class."
         }
       ]
@@ -7934,7 +7934,7 @@
       "description": "A tome bound in ratskin that bears a jagged, glowing rune.",
       "traits": [
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "This spellbook contains one scroll each of acid arrow (pg. 54), fireball (pg. 60), and sleep (pg. 71). When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success."
         }
       ]
@@ -7946,7 +7946,7 @@
       "description": "A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4). 1. Strength. 2. Dexterity. 3. Constitution. 4. Intelligence. 5. Wisdom. 6. Charisma. After being rolled, Brak's Cube of Perfection teleports to a random location in the multiverse."
         }
       ]
@@ -7958,7 +7958,7 @@
       "description": "A thin, silver circlet set with a shimmering, blue pearl.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Wisdom stat becomes 18 (+4) while wearing this circlet."
         }
       ]
@@ -7970,7 +7970,7 @@
       "description": "A hooded, billowing cloak that shifts colors to match its surroundings.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your checks to hide are always easy (DC 9). Once per day, you can become invisible for 5 rounds. The invisibility ends if you attack or cast a spell."
         }
       ]
@@ -7982,11 +7982,11 @@
       "description": "A leathery, black cloak that has a ragged hem and a hood with pointed ears.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can fly a near distance as your movement while in a shadowy area."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Each time you use the cloak to fly, roll a d20. On a result of 1, you and your gear turn into a small bat for 3 rounds."
         }
       ]
@@ -7998,7 +7998,7 @@
       "description": "A flawless glass orb with roiling images swirling inside it.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Only wizards can use a Crystal Ball. You can use it to cast the scrying spell (pg. 70). If you fail the spellcasting check to cast scrying, the Crystal Ball ceases to function for a day."
         }
       ]
@@ -8010,11 +8010,11 @@
       "description": "A curved dagger with a half- moon notch at the blade's base.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 dagger."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can speak Goblin. All goblinoid creatures react to you with a friendly attitude."
         }
       ]
@@ -8026,7 +8026,7 @@
       "description": "A blue, hard egg as big as a coconut and heavy as a stone.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per week, you can speak a command word that causes a cockatrice to hatch and follow your commands for 5 rounds before flying away. The egg repairs itself over one week."
         }
       ]
@@ -8038,11 +8038,11 @@
       "description": "A richly woven, red carpet with gold tassels.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The carpet fits two riders (one is the driver). It can fly double near on the driver's turn."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Neutral. Playful, mischievous. Enjoys visiting new places and gets restless without a frequent change in location."
         }
       ]
@@ -8054,7 +8054,7 @@
       "description": "Heavy, bronze gauntlets with engravings of Herculean giants.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Strength stat becomes 18 (+4) while wearing these gauntlets."
         }
       ]
@@ -8066,7 +8066,7 @@
       "description": "A tarnished, brass oil lamp.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Rubbing the lamp causes its resident djinni (50% chance) or efreeti (50% chance) to emerge. A djinni grants its summoner one wish spell (pg. 73) before disappearing. An efreeti does the same, but only after being defeated in combat."
         }
       ]
@@ -8078,7 +8078,7 @@
       "description": "Thin, leather gloves that seem to meld with the wearer's hands.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Dexterity stat becomes 18 (+4) while wearing these gloves."
         }
       ]
@@ -8090,7 +8090,7 @@
       "description": "A preserved rat stuffed with an explosive charge and a fuse.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can light the bomb's fuse and throw it a near distance. It explodes in 1d4 rounds, dealing 2d8 damage to everything in near range."
         }
       ]
@@ -8102,15 +8102,15 @@
       "description": "A jagged greataxe carved from a weighty dragon bone.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+2 greataxe."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can turn a regular hit with this weapon into a critical hit."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Each time you go below half your hit points, make a DC 12 Charisma check. On a failure, you enter a battle rage for 1d4 rounds and must attack the nearest creature."
         }
       ]
@@ -8122,7 +8122,7 @@
       "description": "A floppy, pointed hat with a wide brim.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Intelligence stat becomes 18 (+4) while wearing this hat."
         }
       ]
@@ -8134,7 +8134,7 @@
       "description": "A rounded, jaunty bowler hat.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can transform into a mastiff each day for up to 10 rounds total. Your clothing and possessions transform with you."
         }
       ]
@@ -8146,7 +8146,7 @@
       "description": "A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can cast the detect thoughts spell (pg. 58) three times per day (+4 bonus)."
         }
       ]
@@ -8158,11 +8158,11 @@
       "description": "A bloodstained helm made of a ram's skull.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This helm grants you a +1 bonus to your armor class. You have advantage on any check you make to knock down creatures or objects."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You feel compelled to headbutt delicate objects."
         }
       ]
@@ -8174,7 +8174,7 @@
       "description": "An ancient hourglass running with obsidian sand.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can turn the hourglass when you cast a spell. The spell's effects last 1d4 rounds longer."
         }
       ]
@@ -8186,7 +8186,7 @@
       "description": "A short, iron rod with a button on one end.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you click the button, the rod becomes fixed in space (holds 5,000 lbs). Clicking the button again ends the effect."
         }
       ]
@@ -8198,11 +8198,11 @@
       "description": "A coconut-sized ruby cut with a thousand facets.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You roll a critical success on an 18-20."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You roll a critical failure on a 1-3."
         }
       ]
@@ -8214,7 +8214,7 @@
       "description": "A coin-sized, toothed wheel buffed to a silvery shine.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You start every session with a luck token."
         }
       ]
@@ -8226,15 +8226,15 @@
       "description": "A deeply curved longbow with deer antler reinforcements.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 longbow."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You have advantage on attacks with this bow against unnatural creatures and outsiders."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Neutral. Proud, timeless. Believes protecting the natural order is the highest calling. Demands all unnatural creatures be found and slain."
         }
       ]
@@ -8246,7 +8246,7 @@
       "description": "A pot of glossy, black ink that disappears as it dries.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The ink's writing is invisible when cool and can only be seen when warmed up by a nearby source of strong heat. There's enough for 1d4 uses."
         }
       ]
@@ -8258,11 +8258,11 @@
       "description": "This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 javelin. Can only be wielded by a chaotic being. If you also wield Memnon's Discordant Blade and Memnon's Entropic Armor, it becomes a +3 javelin."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The javelin always returns to your hand after being thrown. Once per day, when you throw this javelin, you can turn it into lightning as per the lightning bolt spell (no spellcasting check)."
         }
       ]
@@ -8274,15 +8274,15 @@
       "description": "This barbed greatsword's red blade trails a shower of sparks when swung to strike.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 greatsword. Can only be wielded by a chaotic being. If you also wield Memnon's Entropic Armor and Memnon's Blazing Javelin, it becomes a +3 greatsword."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can utterly annihilate one creature of level 9 or less that you damage with this blade. The creature can pass a DC 18 Constitution check to take 3d8 damage instead."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You cannot relinquish ownership of this blade unless it is taken from you by a creature that defeats you in combat. For each day you do not slay a LV 2 or greater creature with this sword, you lose 1d6 hit points. These are restored only when you kill a LV 2 or greater creature with the sword."
         }
       ]
@@ -8294,7 +8294,7 @@
       "description": "A full-length mirror polished to a gleaming shine. Grinning, silver demons grasp the mirror, their claws forming its frame.",
       "traits": [
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "The first time a humanoid creature looks into this mirror, the mirror creates an evil and malicious duplicate of them. The duplicate can step from the mirror and is an exact copy of the subject (except for magical gear, which looks identical but is mundane in nature). The evil duplicate can live indefinitely outside the mirror. It attempts to sow chaos in the life of the creature it duplicated."
         }
       ]
@@ -8306,11 +8306,11 @@
       "description": "A luminous jacket of chainmail as lightweight as a silk shirt.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 mithral chainmail."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can speak the armor's command word. You gain a +1 bonus to your next spellcasting check or ranged attack."
         }
       ]
@@ -8322,7 +8322,7 @@
       "description": "A gold, fishbone chain that shimmers with subtle beauty.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Charisma stat becomes 18 (+4) while wearing this necklace."
         }
       ]
@@ -8334,15 +8334,15 @@
       "description": "A wrought iron mace tipped with a heavy, screaming skull. Black ichor runs from the skull's eyes when the mace is used to channel necrotic energy.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 mace. Can only be wielded by a chaotic priest."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "While holding the mace, you can turn cure wounds spells you cast into harmful magic that instead inflicts the same amount of damage it would heal."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "If you use the mace to cast an inverted cure wounds spell, you are haunted by nightmares that night. You must pass a DC 12 Wisdom check during your next rest or gain no benefit from resting."
         }
       ]
@@ -8354,11 +8354,11 @@
       "description": "Matte black leathers enchanted to deepen and darken shadows.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 leather armor."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you may choose to automatically pass a Dexterity check to hide."
         }
       ]
@@ -8370,11 +8370,11 @@
       "description": "A glinting, obsidian blade that trails black smoke in thin curls.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+2 dagger. Cannot be wielded by a lawful being."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you cast a spell while holding this dagger, you may wound yourself with it. Add the amount of damage you take to your spellcasting check."
         }
       ]
@@ -8386,7 +8386,7 @@
       "description": "A polished, ebony statuette of a running horse.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, the wielder can speak the command word to turn the statuette into a nightmare that accepts neutral or chaotic riders. The statuette remains in this form for 1 hour."
         }
       ]
@@ -8398,11 +8398,11 @@
       "description": "Glistening, smooth leather of dappled emerald scales.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 leather armor."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You have advantage on checks to avoid the effects of poison."
         }
       ]
@@ -8414,7 +8414,7 @@
       "description": "A fat, opalescent pearl glowing with an inner radiance.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you may regain the ability to cast a spell you have lost. This cannot restore a spell lost due to a critical spellcasting failure."
         }
       ]
@@ -8426,7 +8426,7 @@
       "description": "A long, curved pipe that smells of cloves and resin.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Up to three times per day, regain 1d4 hit points when you smoke this pipe."
         }
       ]
@@ -8438,11 +8438,11 @@
       "description": "A set of tarnished, brass pan pipes with seven cylinders.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can play these pipes to summon 2d6 giant rats. The rats obey you for d6 rounds, and then they scatter and flee."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "If you stop playing while the rats are present, they turn on you and attack."
         }
       ]
@@ -8454,11 +8454,11 @@
       "description": "A black, velvet square of cloth that unfolds into a wide circle.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The Portable Hole folds open on a flat surface into a 6-foot wide, 6-foot deep hole. It has 20 gear slots of storage. The hole closes when you fold the cloth into a small square."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Placing this item inside a Bag of Holding or another Portable Hole destroys both items and all held inside them."
         }
       ]
@@ -8470,11 +8470,11 @@
       "description": "An acrid, tarry substance in an iron flask with a lead stopper.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can pour the potion on one object or creature filling up to a close area. The target is utterly removed from reality and cannot be returned by anything short of a wish spell."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Chaotic. Protests loudly while being used and never agrees that the target is the right choice for extirpation."
         }
       ]
@@ -8486,7 +8486,7 @@
       "description": "A sunny liquid with bubbles that flash and pop like tiny stars.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can fly a near distance for 10 rounds when you drink this potion."
         }
       ]
@@ -8498,7 +8498,7 @@
       "description": "A pink draught that swirls with a counter-clockwise current.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "If you serve this potion to an intelligent being and that being drinks it, the imbiber permanently forgets one memory of your choosing."
         }
       ]
@@ -8510,7 +8510,7 @@
       "description": "A clay jar holding a stew of green, leafy sludge.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Your Strength becomes 18 (+4) and you deal x2 damage on melee attacks for 10 rounds."
         }
       ]
@@ -8522,7 +8522,7 @@
       "description": "A glass bottle with a fizzy, lemon-vanilla liquid inside.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The imbiber of this potion regains hit points based on their level. LV 0-3: 1d6 hit points. LV 4-6: 2d8 hit points. LV 7-9: 3d10 hit points. LV 10+: 4d12 hit points."
         }
       ]
@@ -8534,7 +8534,7 @@
       "description": "This glass vial appears to be empty, but a liquid audibly splashes around inside it.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you drink this potion, you become invisible for 10 rounds or until you attack or cast a spell."
         }
       ]
@@ -8546,7 +8546,7 @@
       "description": "A golden elixir that resonates with a faint, angelic chord.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you drink this potion, you gain one level and your XP total resets to zero."
         }
       ]
@@ -8558,7 +8558,7 @@
       "description": "A pickled newt floats in this lavender flask of clear liquid.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you drink this potion, it casts the polymorph spell (pg. 67) on you with a duration of 1 hour instead of 10 rounds."
         }
       ]
@@ -8570,11 +8570,11 @@
       "description": "A crimson elixir that gently thumps with a heartbeat.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you drink this potion, roll your class's hit points die. You permanently gain that many HP."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "If you drink more than one Potion of Vitality in your lifetime, you must pass a DC 18 Constitution check each time or die instantly."
         }
       ]
@@ -8586,11 +8586,11 @@
       "description": "A pearly ring carved in the likeness of an owl feather.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, the ring can cast feather fall (pg. 60) on you when you fall."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits."
         }
       ]
@@ -8602,7 +8602,7 @@
       "description": "A bronze loop with claws holding a red marble. A fiery miasma swirls inside the glass.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can pluck the glass marble from the ring and throw it up to a far distance, causing a fireball spell (pg. 60) to bloom at the site of impact. The glass marble regrows after you successfully complete a rest."
         }
       ]
@@ -8614,11 +8614,11 @@
       "description": "A simple, gold band polished to a warm shine.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, the ring can cast the invisibility spell (pg. 63) on you."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "There is a cumulative 1% chance each time you rest that your sleep is ruined by apocalyptic nightmares, and you gain no benefit from resting. This resets to a 1% chance each time it triggers."
         }
       ]
@@ -8630,11 +8630,11 @@
       "description": "A bone-carved ring with a ram skull. Its horns twist forward and red lights glow in its eye sockets.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can enter a rage where you deal double damage for 5 rounds. During the rage, you can't cast spells and enemies have advantage on melee attacks against you."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Chaotic. Aggressive, overconfident. Seeks to provoke you and your enemies into battle."
         }
       ]
@@ -8646,7 +8646,7 @@
       "description": "A red silk robe with a wide, gold- hemmed mantle. Golden eyes and moons dust its sleeves.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Only a wizard with the Archmage title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. Choose three spells you know. Their spellcasting DC is always 11. You have advantage on casting the disintegrate spell."
         }
       ]
@@ -8658,7 +8658,7 @@
       "description": "A green velvet robe with a deep hood and hems embroidered with silver leaves and vines.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Only a wizard with the Druid title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. Twice per day, you can regain the ability to cast one lost spell. You have advantage on casting the shapechange spell. When you cast it, its duration is 1 hour instead of focus."
         }
       ]
@@ -8670,7 +8670,7 @@
       "description": "A black leather robe with a shadowed cowl and clawed clasps on thin, mithral chains.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Only a wizard with the Sorcerer title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. When you cast a spell that deals damage, add your Intelligence modifier to the total. You have advantage on casting the power word kill spell."
         }
       ]
@@ -8682,7 +8682,7 @@
       "description": "A brooch made from a horned scarab beetle dipped in gold.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "If you die, make a DC 18 Constitution check. If you succeed, you are unconscious instead of dead."
         }
       ]
@@ -8694,11 +8694,11 @@
       "description": "This wide, curved blade has a snarling efreeti head on the bronze pommel.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+3 greatsword."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "If you roll a critical hit with this weapon, the target is beheaded. It dies instantly if decapitation would kill it."
         }
       ]
@@ -8710,11 +8710,11 @@
       "description": "A weighty kite shield painted with a faded, crimson cross.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 shield. Can only be wielded by a lawful being."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can speak a prayer to wreathe the shield in holy flames, granting +2 to your AC for 3 rounds."
         }
       ]
@@ -8726,11 +8726,11 @@
       "description": "This shield is carved as a roaring lion's face with a flowing mane.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 shield."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can command the lion to animate and bellow a ferocious roar. All hostile creatures within near range must immediately make a morale check."
         }
       ]
@@ -8742,11 +8742,11 @@
       "description": "A stubby, gray blade riddled with notches and scars.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 shortsword. +2 if wielded by a halfling or thief."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, regain a luck token you just spent."
         }
       ]
@@ -8758,11 +8758,11 @@
       "description": "A tarnished, silver mace with seven flanges in the shape of crescent moons.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 mace."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This weapon deals double damage against creatures with lycanthropy."
         }
       ]
@@ -8774,7 +8774,7 @@
       "description": "A three-foot, spherical void of pure darkness that hovers above the ground.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This sphere utterly destroys all matter it touches. Intelligent beings can move the flying sphere a near distance by passing a DC 18 Intelligence check. If multiple creatures vie for control of the sphere, it is a contested Intelligence check instead. Wizards have advantage on this check. The winner moves the sphere a near distance. If the sphere moves into a space occupied by a creature, the being controlling the sphere makes an attack roll against that creature with a +7 bonus. On a hit, the creature is obliterated."
         }
       ]
@@ -8786,11 +8786,11 @@
       "description": "A brass, telescoping lens with magical runes carved on it.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you look through the spyglass, you can see invisible creatures and objects."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "The wielder feels a compulsion to look at everything through the spyglass."
         }
       ]
@@ -8802,11 +8802,11 @@
       "description": "A knotted, oak stave with a heavy knurl on one end.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 staff."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you can touch a creature with the staff to heal it for 1d6 hit points."
         }
       ]
@@ -8818,11 +8818,11 @@
       "description": "A tapered, mithral staff that resonates with arcane power. The tip features an upward- looking eye in a circle of runes.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+3 staff. Can only be wielded by a wizard."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Functions as a wand of dimension door (pg. 59), fireball (pg. 60), sending (pg. 70), and telekinesis (pg. 72). Unlike a wand, the staff remains intact if you roll a 1 on your spellcasting checks. Hostile spells targeting you are DC 18 to cast."
         }
       ]
@@ -8834,15 +8834,15 @@
       "description": "A curved scepter tipped with a ruby-eyed, flaring cobra head.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 staff."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "All snakes regard you with a friendly attitude unless you do something to upset them. Once per day, you can throw the staff to the ground. It becomes a giant snake for 5 rounds that obeys your mental commands. If the giant snake goes to 0 HP, it reverts into a staff."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "You have disadvantage on attacks and casting hostile spells targeting snakes."
         }
       ]
@@ -8854,11 +8854,11 @@
       "description": "A chipped and rusting blade with an oiled leather grip.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+2 longsword."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The sword is unbreakable and can carve through any material. The owner can summon the sword to their hand if it's on the same plane."
         }
       ]
@@ -8870,7 +8870,7 @@
       "description": "A towering, brass platform mounted with countless cogs and gears speckled in blue- green rust.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "A handle turns The Kytherian Mechanism's mighty wheels, but it doesn't function until its seven missing Kytherian Cogs are replaced. Once functional, activating the mechanism allows the operator to undo one event of their choosing from history. Then, the seven Kytherian Cogs magically scatter to far-flung locations."
         }
       ]
@@ -8882,7 +8882,7 @@
       "description": "A black, leatherbound tome with a grinning demon face embossed on the cover.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "A chaotic being who reads this tome gains a level and learns the Diabolic language. A non-chaotic being who reads this book must pass a DC 18 Wisdom check or lose one level. After being read, the tome teleports to a far-flung location."
         }
       ]
@@ -8894,11 +8894,11 @@
       "description": "A hand-drawn bestiary of the multiverse's most notable creatures and people.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "When you read the tome, you learn three True Names (pg. 319) of three beings you choose. Your True Name also appears in the book after reading it."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Neutral. Pedantic, fussy. The book constantly tries to escape its owner and can telepathically reach out a near distance to any creature."
         }
       ]
@@ -8910,11 +8910,11 @@
       "description": "A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Each day, a random wizard spell scroll appears inside the tome, replacing the spell scroll from the prior day."
         },
         {
-          "name": "Personality.",
+          "name": "Personality",
           "description": "Neutral. Instructive, technical. Drones on about the obscure points of spellcasting and has an opinion on every wizard's technique."
         }
       ]
@@ -8926,7 +8926,7 @@
       "description": "A brass-plated book with pages of etched copper leaf.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The tome contains one each of the following scrolls: burning hands (pg. 56), fireball (pg. 60), and prismatic orb (pg. 67)."
         }
       ]
@@ -8938,11 +8938,11 @@
       "description": "A three-pronged, mithral harpoon studded with pearls.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+2 spear."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You can breathe underwater, as well as speak to and understand wild sea creatures. Once per day, you can cast control water (pg. 57) with a +4 bonus."
         }
       ]
@@ -8954,7 +8954,7 @@
       "description": "The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "You have advantage on attack rolls and spellcasting checks targeting a creature whose True Name you utter."
         }
       ]
@@ -8966,11 +8966,11 @@
       "description": "The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This wand contains the spells animate dead (pg. 54) and create undead (pg. 58)."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Each time you use the wand to cast a spell, you take 1d4 points of Constitution damage. If you reach 0 Constitution from this effect, you die and turn into a zombie."
         }
       ]
@@ -8982,11 +8982,11 @@
       "description": "A thin, weighty rod of dark iron inscribed with spiraling runes.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This wand contains the spells dispel magic (pg. 59) and protection from energy (pg. 68)."
         },
         {
-          "name": "Curse.",
+          "name": "Curse",
           "description": "Each time you fail a spellcasting check with this wand, you also lose the ability to cast a random spell you know until you complete a rest."
         }
       ]
@@ -8998,7 +8998,7 @@
       "description": "An opalescent ox horn capped with a golden mouthpiece.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Only a lawful being can wield the horn. Once per day, you can blow the horn to cast rebuke unholy (pg. 69) with a +4 bonus. A demon or devil who hears the horn has disadvantage on its Charisma check vs. your rebuke unholy spellcasting check."
         }
       ]
@@ -9010,11 +9010,11 @@
       "description": "A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 warhammer. +2 if wielded by a dwarf."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "This weapon has the thrown property (pg. 37) to a near distance. It always returns to your hand after being thrown. Your attacks with this weapon deal double damage against giants."
         }
       ]
@@ -9026,7 +9026,7 @@
       "description": "A dark circle of cloth that seems to create a tunnel through the surface it lies upon.",
       "traits": [
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "The Well of Many Worlds folds open on a flat surface into a 6-foot wide hole. Creatures can jump into the hole once per day each to be transported to a random plane of existence."
         }
       ]
@@ -9038,11 +9038,11 @@
       "description": "A chainmail shirt of black, mithral links that trails a long cloak of writhing shadows.",
       "traits": [
         {
-          "name": "Bonus.",
+          "name": "Bonus",
           "description": "+1 mithral chainmail."
         },
         {
-          "name": "Benefit.",
+          "name": "Benefit",
           "description": "Once per day, you may cause an attack that hits you to miss instead."
         }
       ]
