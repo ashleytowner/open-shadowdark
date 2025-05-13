@@ -39,8 +39,8 @@ app.get('/spells', (req, res) => {
 		spells = spells.filter(spell => {
 			return spell.name.toLowerCase().indexOf(req.query.search.toLowerCase()) !== -1
 		});
-		res.render('list', { title: 'Spells', items: spells, search: req.query.search || '' });
 	}
+	res.render('list', { title: 'Spells', items: spells, search: req.query.search || '' });
 });
 
 app.listen(3000, () => {
