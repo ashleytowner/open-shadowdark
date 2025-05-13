@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="https://unpkg.com/htmx.org@2.0.4" integrity="sha384-HGfztofotfshcF7+8n44JQL2oJmowVChPTg48S+jvZoztPfvwD79OC/LTtG6dMp+" crossorigin="anonymous"></script>
+		<title><%= name %></title>
+	</head>
+	<body>
+		<h1><%= name %></h1>
+		<p><em><%= description %></em></p>
+		<p>
+			<strong>AC</strong> <%= armor_class %>,
+			<strong>HP</strong> <%= hit_points %>,
+			<strong>ATK</strong> <%= attacks %>,
+			<strong>MV</strong> <%= movement %>,
+			<strong>S</strong> <%= strength %>,
+			<strong>D</strong> <%= dexterity %>,
+			<strong>C</strong> <%= constitution %>,
+			<strong>I</strong> <%= intelligence %>,
+			<strong>W</strong> <%= wisdom %>,
+			<strong>Ch</strong> <%= charisma %>,
+			<strong>AL</strong> <%= alignment %>,
+			<strong>LV</strong> <%= level %>
+		</p>
+		<% traits.forEach(trait => { %>
+			<p><strong><%= trait.name %></strong>. <%= trait.description %></p>
+		<% }) %>
+	</body>
+</html>
