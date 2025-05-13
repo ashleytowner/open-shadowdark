@@ -28,5 +28,8 @@
 		<% traits.forEach(trait => { %>
 			<p><strong><%= trait.name %></strong>. <%= trait.description %></p>
 		<% }) %>
+		<button hx-get="" hx-headers='{"Accept": "application/json"}' hx-target="#output" hx-swap="innerHTML">JSON</button>
+		<button hx-get="" hx-headers='{"Accept": "text/markdown"}' hx-target="#output" hx-swap="innerHTML">Markdown</button>
+		<code><pre id="output"></pre></code>
 	</body>
 </html>

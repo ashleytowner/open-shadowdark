@@ -47,6 +47,9 @@ app.get("/monster/:slug", (req, res) => {
 		res.render('monster', monster);
 	} else if (req.accepts('application/json')) {
 		res.json(monster);
+	} else if (req.accepts('text/markdown')) {
+		res.set('Content-Type', 'text/markdown');
+		res.render('monster-md', monster);
 	}
 });
 
@@ -74,6 +77,9 @@ app.get("/spell/:slug", (req, res) => {
 		res.render('spell', spell);
 	} else if (req.accepts('application/json')) {
 		res.json(spell);
+	} else if (req.accepts('text/markdown')) {
+		res.set('Content-Type', 'text/markdown');
+		res.render('spell-md', spell);
 	}
 });
 
@@ -101,6 +107,9 @@ app.get("/item/:slug", (req, res) => {
 		res.render('item', item);
 	} else if (req.accepts('application/json')) {
 		res.json(item);
+	} else if (req.accepts('text/markdown')) {
+		res.set('Content-Type', 'text/markdown');
+		res.render('item-md', item);
 	}
 });
 
