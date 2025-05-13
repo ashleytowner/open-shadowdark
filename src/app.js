@@ -18,6 +18,7 @@ app.get("/", (req, res) => {
     title: "Open ShadowDark",
     body: "",
     dangerousBody: body,
+		license: core.license
   });
 });
 
