@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.2.0...v1.3.0) (2025-05-13)
+
+
+### Features
+
+* Add magic items ([aca3411](https://github.com/ashleytowner/open-shadowdark/commit/aca34119b33fe8f03f848c678e900edc1c61f9f1))
+* Added source & license text where appropriate ([42bce55](https://github.com/ashleytowner/open-shadowdark/commit/42bce55315817979d186f4ba5e94f907c2ed1478))
+
+
+### Bug Fixes
+
+* spell layout ([b47d504](https://github.com/ashleytowner/open-shadowdark/commit/b47d504e1091366099aca929ff17b2d8dd61f584))
+
 ## [1.2.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.1.0...v1.2.0) (2025-05-13)
 
 
