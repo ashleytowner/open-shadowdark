@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ashleytowner/open-shadowdark/issues"
   },
-  "homepage": "https://github.com/ashleytowner/open-shadowdark#readme"
+  "homepage": "https://github.com/ashleytowner/open-shadowdark#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "nodemon": "^3.1.10"
+  }
 }
