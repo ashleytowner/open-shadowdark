@@ -20,7 +20,8 @@
 	"homepage": "https://github.com/ashleytowner/open-shadowdark#readme",
 	"dependencies": {
 		"ejs": "^3.1.10",
-		"express": "^5.1.0"
+		"express": "^5.1.0",
+		"prettier": "^3.5.3"
 	},
 	"devDependencies": {
 		"@types/express": "^5.0.1",
