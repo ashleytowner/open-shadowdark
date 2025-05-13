@@ -43,7 +43,11 @@ app.get("/monsters", (req, res) => {
 app.get("/monster/:slug", (req, res) => {
   const slug = req.params.slug;
   const monster = core.monsters.find((monster) => monster.slug === slug);
-  res.render("monster", monster);
+	if (req.accepts('text/html')) {
+		res.render('monster', monster);
+	} else if (req.accepts('application/json')) {
+		res.json(monster);
+	}
 });
 
 app.get("/spells", (req, res) => {
@@ -66,7 +70,11 @@ app.get("/spells", (req, res) => {
 app.get("/spell/:slug", (req, res) => {
   const slug = req.params.slug;
   const spell = core.spells.find((spell) => spell.slug === slug);
-  res.render("spell", { ...spell, classes: spell.classes.join(", ") });
+	if (req.accepts('text/html')) {
+		res.render('spell', spell);
+	} else if (req.accepts('application/json')) {
+		res.json(spell);
+	}
 });
 
 app.get("/items", (req, res) => {
@@ -89,8 +97,11 @@ app.get("/items", (req, res) => {
 app.get("/item/:slug", (req, res) => {
   const slug = req.params.slug;
   const item = core.items.find((item) => item.slug === slug);
-	console.log(item)
-  res.render("item", item);
+	if (req.accepts('text/html')) {
+		res.render('item', item);
+	} else if (req.accepts('application/json')) {
+		res.json(item);
+	}
 });
 
 app.listen(3000, () => {
