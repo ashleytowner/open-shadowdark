@@ -33,6 +33,16 @@ app.get('/monster/:slug', (req, res) => {
 	res.render('monster', monster);
 });
 
+app.get('/spells', (req, res) => {
+	let spells = core.spells;
+	if (req.query.search) {
+		spells = spells.filter(spell => {
+			return spell.name.toLowerCase().indexOf(req.query.search.toLowerCase()) !== -1
+		});
+		res.render('list', { title: 'Spells', items: spells, search: req.query.search || '' });
+	}
+});
+
 app.listen(3000, () => {
 	console.log('listening on port 3000');
 });
