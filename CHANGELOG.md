@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ashleytowner/open-shadowdark/compare/v1.0.0...v1.0.1) (2025-05-13)
+
+
+### Bug Fixes
+
+* Added start command ([474e71c](https://github.com/ashleytowner/open-shadowdark/commit/474e71cf4545b6b45d1936eec81cf78ecb44eb4e))
+
 ## 1.0.0 (2025-05-13)
 
 
