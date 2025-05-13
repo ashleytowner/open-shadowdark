@@ -1,5 +1,6 @@
 {
   "name": "Egg Of The Cockatrice",
+  "slug": "egg_of_the_cockatrice",
   "source": "Shadowdark Core Rules",
   "description": "A blue, hard egg as big as a coconut and heavy as a stone.",
   "traits": [
@@ -11,6 +12,7 @@
 }
 {
   "name": "Ring Of Ramlaat",
+  "slug": "ring_of_ramlaat",
   "source": "Shadowdark Core Rules",
   "description": "A bone-carved ring with a ram skull. Its horns twist forward and red lights glow in its eye sockets.",
   "traits": [
@@ -26,6 +28,7 @@
 }
 {
   "name": "True Name",
+  "slug": "true_name",
   "source": "Shadowdark Core Rules",
   "description": "The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.",
   "traits": [
@@ -37,6 +40,7 @@
 }
 {
   "name": "Shield Of The Lion",
+  "slug": "shield_of_the_lion",
   "source": "Shadowdark Core Rules",
   "description": "This shield is carved as a roaring lion's face with a flowing mane.",
   "traits": [
@@ -52,6 +56,7 @@
 }
 {
   "name": "Spyglass Of True Sight",
+  "slug": "spyglass_of_true_sight",
   "source": "Shadowdark Core Rules",
   "description": "A brass, telescoping lens with magical runes carved on it.",
   "traits": [
@@ -67,6 +72,7 @@
 }
 {
   "name": "Onyx Destrier",
+  "slug": "onyx_destrier",
   "source": "Shadowdark Core Rules",
   "description": "A polished, ebony statuette of a running horse.",
   "traits": [
@@ -78,6 +84,7 @@
 }
 {
   "name": "Potion Of Vitality",
+  "slug": "potion_of_vitality",
   "source": "Shadowdark Core Rules",
   "description": "A crimson elixir that gently thumps with a heartbeat.",
   "traits": [
@@ -93,6 +100,7 @@
 }
 {
   "name": "Cloak Of The Bat",
+  "slug": "cloak_of_the_bat",
   "source": "Shadowdark Core Rules",
   "description": "A leathery, black cloak that has a ragged hem and a hood with pointed ears.",
   "traits": [
@@ -108,6 +116,7 @@
 }
 {
   "name": "Warhammer Of The Dwarf Lords",
+  "slug": "warhammer_of_the_dwarf_lords",
   "source": "Shadowdark Core Rules",
   "description": "A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun.",
   "traits": [
@@ -123,6 +132,7 @@
 }
 {
   "name": "Robe Of The Sorcerer",
+  "slug": "robe_of_the_sorcerer",
   "source": "Shadowdark Core Rules",
   "description": "A black leather robe with a shadowed cowl and clawed clasps on thin, mithral chains.",
   "traits": [
@@ -134,6 +144,7 @@
 }
 {
   "name": "Bag Of Holding",
+  "slug": "bag_of_holding",
   "source": "Shadowdark Core Rules",
   "description": "A worn, leather pouch with tight drawstrings.",
   "traits": [
@@ -149,6 +160,7 @@
 }
 {
   "name": "Hourglass Of The Black Sands",
+  "slug": "hourglass_of_the_black_sands",
   "source": "Shadowdark Core Rules",
   "description": "An ancient hourglass running with obsidian sand.",
   "traits": [
@@ -160,6 +172,7 @@
 }
 {
   "name": "Blade Of Vengeance",
+  "slug": "blade_of_vengeance",
   "source": "Shadowdark Core Rules",
   "description": "A gray blade with a diamond- cut ruby in the pommel. It whistles sharply with each slice.",
   "traits": [
@@ -179,6 +192,7 @@
 }
 {
   "name": "Potion Of Giant Strength",
+  "slug": "potion_of_giant_strength",
   "source": "Shadowdark Core Rules",
   "description": "A clay jar holding a stew of green, leafy sludge.",
   "traits": [
@@ -190,6 +204,7 @@
 }
 {
   "name": "Magic Ink",
+  "slug": "magic_ink",
   "source": "Shadowdark Core Rules",
   "description": "A pot of glossy, black ink that disappears as it dries.",
   "traits": [
@@ -201,6 +216,7 @@
 }
 {
   "name": "Nightcloak Armor",
+  "slug": "nightcloak_armor",
   "source": "Shadowdark Core Rules",
   "description": "Matte black leathers enchanted to deepen and darken shadows.",
   "traits": [
@@ -216,6 +232,7 @@
 }
 {
   "name": "Boots Of Hovering",
+  "slug": "boots_of_hovering",
   "source": "Shadowdark Core Rules",
   "description": "Brown, sturdy boots polished to a sheen. Small, silver wings adorn the heels.",
   "traits": [
@@ -227,6 +244,7 @@
 }
 {
   "name": "Hat Of The Hound",
+  "slug": "hat_of_the_hound",
   "source": "Shadowdark Core Rules",
   "description": "A rounded, jaunty bowler hat.",
   "traits": [
@@ -238,6 +256,7 @@
 }
 {
   "name": "Braks Book of Misspells",
+  "slug": "braks_book_of_misspells",
   "source": "Shadowdark Core Rules",
   "description": "A tome bound in ratskin that bears a jagged, glowing rune.",
   "traits": [
@@ -249,6 +268,7 @@
 }
 {
   "name": "Silver Mace Of Wrath",
+  "slug": "silver_mace_of_wrath",
   "source": "Shadowdark Core Rules",
   "description": "A tarnished, silver mace with seven flanges in the shape of crescent moons.",
   "traits": [
@@ -264,6 +284,7 @@
 }
 {
   "name": "Cloak Of Elvenkind",
+  "slug": "cloak_of_elvenkind",
   "source": "Shadowdark Core Rules",
   "description": "A hooded, billowing cloak that shifts colors to match its surroundings.",
   "traits": [
@@ -275,6 +296,7 @@
 }
 {
   "name": "Shield Of The Crusader",
+  "slug": "shield_of_the_crusader",
   "source": "Shadowdark Core Rules",
   "description": "A weighty kite shield painted with a faded, crimson cross.",
   "traits": [
@@ -290,6 +312,7 @@
 }
 {
   "name": "Staff Of The Cobra",
+  "slug": "staff_of_the_cobra",
   "source": "Shadowdark Core Rules",
   "description": "A curved scepter tipped with a ruby-eyed, flaring cobra head.",
   "traits": [
@@ -309,6 +332,7 @@
 }
 {
   "name": "Bead Of Force",
+  "slug": "bead_of_force",
   "source": "Shadowdark Core Rules",
   "description": "A marble with a blue ring of light glowing softly inside it.",
   "traits": [
@@ -320,6 +344,7 @@
 }
 {
   "name": "Shortsword Of The Thief",
+  "slug": "shortsword_of_the_thief",
   "source": "Shadowdark Core Rules",
   "description": "A stubby, gray blade riddled with notches and scars.",
   "traits": [
@@ -335,6 +360,7 @@
 }
 {
   "name": "Potion Of Flying",
+  "slug": "potion_of_flying",
   "source": "Shadowdark Core Rules",
   "description": "A sunny liquid with bubbles that flash and pop like tiny stars.",
   "traits": [
@@ -346,6 +372,7 @@
 }
 {
   "name": "Tome Of Hadebe",
+  "slug": "tome_of_hadebe",
   "source": "Shadowdark Core Rules",
   "description": "A brass-plated book with pages of etched copper leaf.",
   "traits": [
@@ -357,6 +384,7 @@
 }
 {
   "name": "Boots Of Dancing",
+  "slug": "boots_of_dancing",
   "source": "Shadowdark Core Rules",
   "description": "Fine, supple boots of sheepskin.",
   "traits": [
@@ -368,6 +396,7 @@
 }
 {
   "name": "Wraith Chain",
+  "slug": "wraith_chain",
   "source": "Shadowdark Core Rules",
   "description": "A chainmail shirt of black, mithral links that trails a long cloak of writhing shadows.",
   "traits": [
@@ -383,6 +412,7 @@
 }
 {
   "name": "Potion Of Extirpation",
+  "slug": "potion_of_extirpation",
   "source": "Shadowdark Core Rules",
   "description": "An acrid, tarry substance in an iron flask with a lead stopper.",
   "traits": [
@@ -398,6 +428,7 @@
 }
 {
   "name": "Well Of Many Worlds",
+  "slug": "well_of_many_worlds",
   "source": "Shadowdark Core Rules",
   "description": "A dark circle of cloth that seems to create a tunnel through the surface it lies upon.",
   "traits": [
@@ -409,6 +440,7 @@
 }
 {
   "name": "Ring Of Invisibility",
+  "slug": "ring_of_invisibility",
   "source": "Shadowdark Core Rules",
   "description": "A simple, gold band polished to a warm shine.",
   "traits": [
@@ -424,6 +456,7 @@
 }
 {
   "name": "Trident Of The Seas",
+  "slug": "trident_of_the_seas",
   "source": "Shadowdark Core Rules",
   "description": "A three-pronged, mithral harpoon studded with pearls.",
   "traits": [
@@ -439,6 +472,7 @@
 }
 {
   "name": "Crystal Ball",
+  "slug": "crystal_ball",
   "source": "Shadowdark Core Rules",
   "description": "A flawless glass orb with roiling images swirling inside it.",
   "traits": [
@@ -450,6 +484,7 @@
 }
 {
   "name": "Pipe Of The Rolling Hills",
+  "slug": "pipe_of_the_rolling_hills",
   "source": "Shadowdark Core Rules",
   "description": "A long, curved pipe that smells of cloves and resin.",
   "traits": [
@@ -461,6 +496,7 @@
 }
 {
   "name": "Braks Cube of Perfection",
+  "slug": "braks_cube_of_perfection",
   "source": "Shadowdark Core Rules",
   "description": "A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.",
   "traits": [
@@ -472,6 +508,7 @@
 }
 {
   "name": "Staff Of Healing",
+  "slug": "staff_of_healing",
   "source": "Shadowdark Core Rules",
   "description": "A knotted, oak stave with a heavy knurl on one end.",
   "traits": [
@@ -487,6 +524,7 @@
 }
 {
   "name": "Ring Of Feather Falling",
+  "slug": "ring_of_feather_falling",
   "source": "Shadowdark Core Rules",
   "description": "A pearly ring carved in the likeness of an owl feather.",
   "traits": [
@@ -502,6 +540,7 @@
 }
 {
   "name": "Circlet Of Wisdom",
+  "slug": "circlet_of_wisdom",
   "source": "Shadowdark Core Rules",
   "description": "A thin, silver circlet set with a shimmering, blue pearl.",
   "traits": [
@@ -513,6 +552,7 @@
 }
 {
   "name": "Potion Of Forgetfulness",
+  "slug": "potion_of_forgetfulness",
   "source": "Shadowdark Core Rules",
   "description": "A pink draught that swirls with a counter-clockwise current.",
   "traits": [
@@ -524,6 +564,7 @@
 }
 {
   "name": "Staff Of Ord",
+  "slug": "staff_of_ord",
   "source": "Shadowdark Core Rules",
   "description": "A tapered, mithral staff that resonates with arcane power. The tip features an upward- looking eye in a circle of runes.",
   "traits": [
@@ -539,6 +580,7 @@
 }
 {
   "name": "Amulet Of Vitality",
+  "slug": "amulet_of_vitality",
   "source": "Shadowdark Core Rules",
   "description": "A gold amulet with a red ruby teardrop at its center.",
   "traits": [
@@ -550,6 +592,7 @@
 }
 {
   "name": "Portable Hole",
+  "slug": "portable_hole",
   "source": "Shadowdark Core Rules",
   "description": "A black, velvet square of cloth that unfolds into a wide circle.",
   "traits": [
@@ -565,6 +608,7 @@
 }
 {
   "name": "Armor Of The Oni",
+  "slug": "armor_of_the_oni",
   "source": "Shadowdark Core Rules",
   "description": "Black plate mail of lacquered, ironwood panels. The helm's visor is the face of a snarling oni.",
   "traits": [
@@ -584,6 +628,7 @@
 }
 {
   "name": "Memnons Blazing Javelin",
+  "slug": "memnons_blazing_javelin",
   "source": "Shadowdark Core Rules",
   "description": "This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.",
   "traits": [
@@ -599,6 +644,7 @@
 }
 {
   "name": "The Kytherian Mechanism",
+  "slug": "the_kytherian_mechanism",
   "source": "Shadowdark Core Rules",
   "description": "A towering, brass platform mounted with countless cogs and gears speckled in blue- green rust.",
   "traits": [
@@ -610,6 +656,7 @@
 }
 {
   "name": "Scimitar Of The Ash Moon",
+  "slug": "scimitar_of_the_ash_moon",
   "source": "Shadowdark Core Rules",
   "description": "This wide, curved blade has a snarling efreeti head on the bronze pommel.",
   "traits": [
@@ -625,6 +672,7 @@
 }
 {
   "name": "Potion Of Polymorph",
+  "slug": "potion_of_polymorph",
   "source": "Shadowdark Core Rules",
   "description": "A pickled newt floats in this lavender flask of clear liquid.",
   "traits": [
@@ -636,6 +684,7 @@
 }
 {
   "name": "War Horn Of The Angels",
+  "slug": "war_horn_of_the_angels",
   "source": "Shadowdark Core Rules",
   "description": "An opalescent ox horn capped with a golden mouthpiece.",
   "traits": [
@@ -647,6 +696,7 @@
 }
 {
   "name": "Bag Of Devouring",
+  "slug": "bag_of_devouring",
   "source": "Shadowdark Core Rules",
   "description": "A worn, leather pouch with tight drawstrings.",
   "traits": [
@@ -658,6 +708,7 @@
 }
 {
   "name": "Robe Of The Druid",
+  "slug": "robe_of_the_druid",
   "source": "Shadowdark Core Rules",
   "description": "A green velvet robe with a deep hood and hems embroidered with silver leaves and vines.",
   "traits": [
@@ -669,6 +720,7 @@
 }
 {
   "name": "Mirror Of Mischief",
+  "slug": "mirror_of_mischief",
   "source": "Shadowdark Core Rules",
   "description": "A full-length mirror polished to a gleaming shine. Grinning, silver demons grasp the mirror, their claws forming its frame.",
   "traits": [
@@ -680,6 +732,7 @@
 }
 {
   "name": "Bracers Of Defense",
+  "slug": "bracers_of_defense",
   "source": "Shadowdark Core Rules",
   "description": "Steel bracers traced with dwarvish runes of protection.",
   "traits": [
@@ -691,6 +744,7 @@
 }
 {
   "name": "Hat Of Intellect",
+  "slug": "hat_of_intellect",
   "source": "Shadowdark Core Rules",
   "description": "A floppy, pointed hat with a wide brim.",
   "traits": [
@@ -702,6 +756,7 @@
 }
 {
   "name": "Goblin Bomb",
+  "slug": "goblin_bomb",
   "source": "Shadowdark Core Rules",
   "description": "A preserved rat stuffed with an explosive charge and a fuse.",
   "traits": [
@@ -713,6 +768,7 @@
 }
 {
   "name": "Sword Of The Ancients",
+  "slug": "sword_of_the_ancients",
   "source": "Shadowdark Core Rules",
   "description": "A chipped and rusting blade with an oiled leather grip.",
   "traits": [
@@ -728,6 +784,7 @@
 }
 {
   "name": "Necrotic Mace Of Withering",
+  "slug": "necrotic_mace_of_withering",
   "source": "Shadowdark Core Rules",
   "description": "A wrought iron mace tipped with a heavy, screaming skull. Black ichor runs from the skull's eyes when the mace is used to channel necrotic energy.",
   "traits": [
@@ -747,6 +804,7 @@
 }
 {
   "name": "Ring Of Fireballs",
+  "slug": "ring_of_fireballs",
   "source": "Shadowdark Core Rules",
   "description": "A bronze loop with claws holding a red marble. A fiery miasma swirls inside the glass.",
   "traits": [
@@ -758,6 +816,7 @@
 }
 {
   "name": "Pearl Of Power",
+  "slug": "pearl_of_power",
   "source": "Shadowdark Core Rules",
   "description": "A fat, opalescent pearl glowing with an inner radiance.",
   "traits": [
@@ -769,6 +828,7 @@
 }
 {
   "name": "Armor Of Saint Terragnis",
+  "slug": "armor_of_saint_terragnis",
   "source": "Shadowdark Core Rules",
   "description": "Golden plate mail carved from head to toe with warrior angels.",
   "traits": [
@@ -784,6 +844,7 @@
 }
 {
   "name": "Helm Of Mind Reading",
+  "slug": "helm_of_mind_reading",
   "source": "Shadowdark Core Rules",
   "description": "A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.",
   "traits": [
@@ -795,6 +856,7 @@
 }
 {
   "name": "Kytherian Cog",
+  "slug": "kytherian_cog",
   "source": "Shadowdark Core Rules",
   "description": "A coin-sized, toothed wheel buffed to a silvery shine.",
   "traits": [
@@ -806,6 +868,7 @@
 }
 {
   "name": "Alabaster Destrier",
+  "slug": "alabaster_destrier",
   "source": "Shadowdark Core Rules",
   "description": "A smooth, pearly statuette of a running horse.",
   "traits": [
@@ -817,6 +880,7 @@
 }
 {
   "name": "Boots Of The Cat",
+  "slug": "boots_of_the_cat",
   "source": "Shadowdark Core Rules",
   "description": "Gray, doeskin boots as thin and soft as slippers.",
   "traits": [
@@ -828,6 +892,7 @@
 }
 {
   "name": "Scarab Of Protection",
+  "slug": "scarab_of_protection",
   "source": "Shadowdark Core Rules",
   "description": "A brooch made from a horned scarab beetle dipped in gold.",
   "traits": [
@@ -839,6 +904,7 @@
 }
 {
   "name": "Wand Of Unlife",
+  "slug": "wand_of_unlife",
   "source": "Shadowdark Core Rules",
   "description": "The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.",
   "traits": [
@@ -854,6 +920,7 @@
 }
 {
   "name": "The Malediction Infernal",
+  "slug": "the_malediction_infernal",
   "source": "Shadowdark Core Rules",
   "description": "A black, leatherbound tome with a grinning demon face embossed on the cover.",
   "traits": [
@@ -865,6 +932,7 @@
 }
 {
   "name": "Necklace Of Charm",
+  "slug": "necklace_of_charm",
   "source": "Shadowdark Core Rules",
   "description": "A gold, fishbone chain that shimmers with subtle beauty.",
   "traits": [
@@ -876,6 +944,7 @@
 }
 {
   "name": "Dagger Of The Goblin Hero",
+  "slug": "dagger_of_the_goblin_hero",
   "source": "Shadowdark Core Rules",
   "description": "A curved dagger with a half- moon notch at the blade's base.",
   "traits": [
@@ -891,6 +960,7 @@
 }
 {
   "name": "Tome Mordanticus",
+  "slug": "tome_mordanticus",
   "source": "Shadowdark Core Rules",
   "description": "A hand-drawn bestiary of the multiverse's most notable creatures and people.",
   "traits": [
@@ -906,6 +976,7 @@
 }
 {
   "name": "Bracers Of Archery",
+  "slug": "bracers_of_archery",
   "source": "Shadowdark Core Rules",
   "description": "Leather bracers embossed with soaring hawks.",
   "traits": [
@@ -917,6 +988,7 @@
 }
 {
   "name": "Potion Of Invisibility",
+  "slug": "potion_of_invisibility",
   "source": "Shadowdark Core Rules",
   "description": "This glass vial appears to be empty, but a liquid audibly splashes around inside it.",
   "traits": [
@@ -928,6 +1000,7 @@
 }
 {
   "name": "Flying Carpet",
+  "slug": "flying_carpet",
   "source": "Shadowdark Core Rules",
   "description": "A richly woven, red carpet with gold tassels.",
   "traits": [
@@ -943,6 +1016,7 @@
 }
 {
   "name": "Gauntlets Of Might",
+  "slug": "gauntlets_of_might",
   "source": "Shadowdark Core Rules",
   "description": "Heavy, bronze gauntlets with engravings of Herculean giants.",
   "traits": [
@@ -954,6 +1028,7 @@
 }
 {
   "name": "Longbow Of The Elven Kings",
+  "slug": "longbow_of_the_elven_kings",
   "source": "Shadowdark Core Rules",
   "description": "A deeply curved longbow with deer antler reinforcements.",
   "traits": [
@@ -973,6 +1048,7 @@
 }
 {
   "name": "Bag Of Badgers",
+  "slug": "bag_of_badgers",
   "source": "Shadowdark Core Rules",
   "description": "A gray, fraying sack matted with white, bristly hair.",
   "traits": [
@@ -984,6 +1060,7 @@
 }
 {
   "name": "Ophidian Armor",
+  "slug": "ophidian_armor",
   "source": "Shadowdark Core Rules",
   "description": "Glistening, smooth leather of dappled emerald scales.",
   "traits": [
@@ -999,6 +1076,7 @@
 }
 {
   "name": "Wand Of Warding",
+  "slug": "wand_of_warding",
   "source": "Shadowdark Core Rules",
   "description": "A thin, weighty rod of dark iron inscribed with spiraling runes.",
   "traits": [
@@ -1014,6 +1092,7 @@
 }
 {
   "name": "Horned Helm Of Ramlaat",
+  "slug": "horned_helm_of_ramlaat",
   "source": "Shadowdark Core Rules",
   "description": "A bloodstained helm made of a ram's skull.",
   "traits": [
@@ -1029,6 +1108,7 @@
 }
 {
   "name": "Memnons Discordant Blade",
+  "slug": "memnons_discordant_blade",
   "source": "Shadowdark Core Rules",
   "description": "This barbed greatsword's red blade trails a shower of sparks when swung to strike.",
   "traits": [
@@ -1048,6 +1128,7 @@
 }
 {
   "name": "Tome Of Gehemna",
+  "slug": "tome_of_gehemna",
   "source": "Shadowdark Core Rules",
   "description": "A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.",
   "traits": [
@@ -1063,6 +1144,7 @@
 }
 {
   "name": "Moonwrought Chainmail",
+  "slug": "moonwrought_chainmail",
   "source": "Shadowdark Core Rules",
   "description": "A luminous jacket of chainmail as lightweight as a silk shirt.",
   "traits": [
@@ -1078,6 +1160,7 @@
 }
 {
   "name": "Amulet Of Secrecy",
+  "slug": "amulet_of_secrecy",
   "source": "Shadowdark Core Rules",
   "description": "A heavy, flat pendant carved with a lidded eye.",
   "traits": [
@@ -1093,6 +1176,7 @@
 }
 {
   "name": "Immovable Rod",
+  "slug": "immovable_rod",
   "source": "Shadowdark Core Rules",
   "description": "A short, iron rod with a button on one end.",
   "traits": [
@@ -1104,6 +1188,7 @@
 }
 {
   "name": "Jewel Of Barbalt",
+  "slug": "jewel_of_barbalt",
   "source": "Shadowdark Core Rules",
   "description": "A coconut-sized ruby cut with a thousand facets.",
   "traits": [
@@ -1119,6 +1204,7 @@
 }
 {
   "name": "Genie Lamp",
+  "slug": "genie_lamp",
   "source": "Shadowdark Core Rules",
   "description": "A tarnished, brass oil lamp.",
   "traits": [
@@ -1130,6 +1216,7 @@
 }
 {
   "name": "Potion Of Healing",
+  "slug": "potion_of_healing",
   "source": "Shadowdark Core Rules",
   "description": "A glass bottle with a fizzy, lemon-vanilla liquid inside.",
   "traits": [
@@ -1141,6 +1228,7 @@
 }
 {
   "name": "Potion Of Legendary Deeds",
+  "slug": "potion_of_legendary_deeds",
   "source": "Shadowdark Core Rules",
   "description": "A golden elixir that resonates with a faint, angelic chord.",
   "traits": [
@@ -1152,6 +1240,7 @@
 }
 {
   "name": "Pipes Of The Sewers",
+  "slug": "pipes_of_the_sewers",
   "source": "Shadowdark Core Rules",
   "description": "A set of tarnished, brass pan pipes with seven cylinders.",
   "traits": [
@@ -1167,6 +1256,7 @@
 }
 {
   "name": "Robe Of The Archmage",
+  "slug": "robe_of_the_archmage",
   "source": "Shadowdark Core Rules",
   "description": "A red silk robe with a wide, gold- hemmed mantle. Golden eyes and moons dust its sleeves.",
   "traits": [
@@ -1178,6 +1268,7 @@
 }
 {
   "name": "Sphere Of Annihilation",
+  "slug": "sphere_of_annihilation",
   "source": "Shadowdark Core Rules",
   "description": "A three-foot, spherical void of pure darkness that hovers above the ground.",
   "traits": [
@@ -1189,6 +1280,7 @@
 }
 {
   "name": "Obsidian Witchknife",
+  "slug": "obsidian_witchknife",
   "source": "Shadowdark Core Rules",
   "description": "A glinting, obsidian blade that trails black smoke in thin curls.",
   "traits": [
@@ -1204,6 +1296,7 @@
 }
 {
   "name": "Greataxe Of The Horde",
+  "slug": "greataxe_of_the_horde",
   "source": "Shadowdark Core Rules",
   "description": "A jagged greataxe carved from a weighty dragon bone.",
   "traits": [
@@ -1223,6 +1316,7 @@
 }
 {
   "name": "Gloves Of Agility",
+  "slug": "gloves_of_agility",
   "source": "Shadowdark Core Rules",
   "description": "Thin, leather gloves that seem to meld with the wearer's hands.",
   "traits": [

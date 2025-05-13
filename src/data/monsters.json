@@ -1,5 +1,6 @@
 {
   "name": "Demon, Marilith",
+  "slug": "demon_marilith",
   "source": "Shadowdark Core Rules",
   "description": "Hissing, armored women with six limbs and the lower bodies of giant snakes. Six whirling blades flash in their hands.",
   "armor_class": 17,
@@ -24,6 +25,7 @@
 }
 {
   "name": "Demon, Vrock",
+  "slug": "demon_vrock",
   "source": "Shadowdark Core Rules",
   "description": "Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of mangy feathers.",
   "armor_class": 14,
@@ -52,7 +54,8 @@
 }
 {
   "name": "Cave Brute",
-  "source": "",
+  "slug": "cave_brute",
+  "source": "Shadowdark Core Rules",
   "description": "A hulking, insectoid beast with long mandibles, four eyes, and thick arms covered in bristles.",
   "armor_class": 14,
   "armor_type": null,
@@ -76,6 +79,7 @@
 }
 {
   "name": "Assassin",
+  "slug": "assassin",
   "source": "Shadowdark Core Rules",
   "description": "A black-cloaked, skulking killer.",
   "armor_class": 15,
@@ -100,6 +104,7 @@
 }
 {
   "name": "Strangler",
+  "slug": "strangler",
   "source": "Shadowdark Core Rules",
   "description": "A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claws.",
   "armor_class": 12,
@@ -128,6 +133,7 @@
 }
 {
   "name": "Remorhaz",
+  "slug": "remorhaz",
   "source": "Shadowdark Core Rules",
   "description": "Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arctic climates.",
   "armor_class": 16,
@@ -160,6 +166,7 @@
 }
 {
   "name": "Hobgoblin",
+  "slug": "hobgoblin",
   "source": "Shadowdark Core Rules",
   "description": "A sturdy, tall goblin with russet skin. Militant and strategic.",
   "armor_class": 15,
@@ -184,6 +191,7 @@
 }
 {
   "name": "Troll",
+  "slug": "troll",
   "source": "Shadowdark Core Rules",
   "description": "Green, lanky giants with warty skin and territorial rage. Lair in deep forests and swamps.",
   "armor_class": 12,
@@ -208,6 +216,7 @@
 }
 {
   "name": "Frog, Giant",
+  "slug": "frog_giant",
   "source": "Shadowdark Core Rules",
   "description": "Human-sized frogs with warty skin and long, sticky tongues.",
   "armor_class": 12,
@@ -232,6 +241,7 @@
 }
 {
   "name": "Orc",
+  "slug": "orc",
   "source": "Shadowdark Core Rules",
   "description": "A tusked, tall humanoid with gray skin and pointed ears.",
   "armor_class": 15,
@@ -256,7 +266,8 @@
 }
 {
   "name": "Snake, Cobra",
-  "source": "",
+  "slug": "snake_cobra",
+  "source": "Shadowdark Core Rules",
   "description": "A weaving serpent with a neck hood and lethal venom.",
   "armor_class": 12,
   "armor_type": null,
@@ -280,6 +291,7 @@
 }
 {
   "name": "Elemental, Fire Lesser",
+  "slug": "elemental_fire_lesser",
   "source": "Shadowdark Core Rules",
   "description": "A roaring column of flames.",
   "armor_class": 15,
@@ -308,6 +320,7 @@
 }
 {
   "name": "Void Spider",
+  "slug": "void_spider",
   "source": "Shadowdark Core Rules",
   "description": "Pale, horse-sized arachnids that become ghostly and intangible.",
   "armor_class": 13,
@@ -340,6 +353,7 @@
 }
 {
   "name": "Bat, Giant",
+  "slug": "bat_giant",
   "source": "Shadowdark Core Rules",
   "description": "Leathery, eagle-sized mammal with a taste for flesh.",
   "armor_class": 12,
@@ -359,6 +373,7 @@
 }
 {
   "name": "Snake, Swarm",
+  "slug": "snake_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A roiling wave of snakes darting and flowing across the ground.",
   "armor_class": 12,
@@ -383,6 +398,7 @@
 }
 {
   "name": "Octopus, Giant",
+  "slug": "octopus_giant",
   "source": "Shadowdark Core Rules",
   "description": "Octopi as large as sailing skiffs.",
   "armor_class": 13,
@@ -411,6 +427,7 @@
 }
 {
   "name": "Azer",
+  "slug": "azer",
   "source": "Shadowdark Core Rules",
   "description": "Dwarves with bronze, metallic skin and flames in place of hair. Gifted blacksmiths.",
   "armor_class": 15,
@@ -435,7 +452,8 @@
 }
 {
   "name": "Wyvern",
-  "source": "",
+  "slug": "wyvern",
+  "source": "Shadowdark Core Rules",
   "description": "Dragon-cousins with a large tail stinger, mottled lizard skin, and leathery wings.",
   "armor_class": 15,
   "armor_type": null,
@@ -459,6 +477,7 @@
 }
 {
   "name": "Siren",
+  "slug": "siren",
   "source": "Shadowdark Core Rules",
   "description": "Baleful fey with dove wings and iridescent fish scales. Their singing entrances listeners.",
   "armor_class": 12,
@@ -483,7 +502,8 @@
 }
 {
   "name": "Devil, Imp",
-  "source": "",
+  "slug": "devil_imp",
+  "source": "Shadowdark Core Rules",
   "description": "Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly demeanors.",
   "armor_class": 13,
   "armor_type": null,
@@ -515,6 +535,7 @@
 }
 {
   "name": "Kraken",
+  "slug": "kraken",
   "source": "Shadowdark Core Rules",
   "description": "Primordial, tentacled leviathans the size of war galleons. They live in the lightless depths of the deep ocean.",
   "armor_class": 18,
@@ -551,6 +572,7 @@
 }
 {
   "name": "Vulture",
+  "slug": "vulture",
   "source": "Shadowdark Core Rules",
   "description": "Scavenger birds with black feathers, hunched backs, and bald heads.",
   "armor_class": 10,
@@ -575,7 +597,8 @@
 }
 {
   "name": "Shadow",
-  "source": "",
+  "slug": "shadow",
+  "source": "Shadowdark Core Rules",
   "description": "Flitting, sentient shadows in the vague shape of a human.",
   "armor_class": 12,
   "armor_type": null,
@@ -599,6 +622,7 @@
 }
 {
   "name": "Archangel",
+  "slug": "archangel",
   "source": "Shadowdark Core Rules",
   "description": "A radiant being with a crown of fire, snowy wings, golden armor, and a blazing greatsword.",
   "armor_class": 18,
@@ -627,6 +651,7 @@
 }
 {
   "name": "Bat, Swarm",
+  "slug": "bat_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A whirling cloud of screeching, bloodthirsty bats.",
   "armor_class": 12,
@@ -646,6 +671,7 @@
 }
 {
   "name": "Ghoul",
+  "slug": "ghoul",
   "source": "Shadowdark Core Rules",
   "description": "Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces.",
   "armor_class": 11,
@@ -674,6 +700,7 @@
 }
 {
   "name": "Skeleton",
+  "slug": "skeleton",
   "source": "Shadowdark Core Rules",
   "description": "A bleach-boned skeleton with red pinpoints of light in its eyes.",
   "armor_class": 13,
@@ -698,6 +725,7 @@
 }
 {
   "name": "Devil, Erinyes",
+  "slug": "devil_erinyes",
   "source": "Shadowdark Core Rules",
   "description": "Raven-winged, resplendent beings in polished, black armor and helms with curved horns.",
   "armor_class": 17,
@@ -722,6 +750,7 @@
 }
 {
   "name": "Chuul",
+  "slug": "chuul",
   "source": "Shadowdark Core Rules",
   "description": "Brown, horse-sized lobster bugs with tentacles and pincers.",
   "armor_class": 15,
@@ -746,6 +775,7 @@
 }
 {
   "name": "Scarab, Swarm",
+  "slug": "scarab_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A chittering cloud of iridescent, oval-shaped beetles.",
   "armor_class": 13,
@@ -765,6 +795,7 @@
 }
 {
   "name": "Bulette",
+  "slug": "bulette",
   "source": "Shadowdark Core Rules",
   "description": "A hulking, shark-sized lizard with a steely, arrow-shaped carapace and a massive gullet.",
   "armor_class": 17,
@@ -789,6 +820,7 @@
 }
 {
   "name": "Centipede, Swarm",
+  "slug": "centipede_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A crawling mass of weaving, sinuous centipedes.",
   "armor_class": 11,
@@ -813,6 +845,7 @@
 }
 {
   "name": "Snake, Giant",
+  "slug": "snake_giant",
   "source": "Shadowdark Core Rules",
   "description": "An enormous, mottled serpent that can swallow a cow whole.",
   "armor_class": 12,
@@ -837,6 +870,7 @@
 }
 {
   "name": "Dragon, Fire",
+  "slug": "dragon_fire",
   "source": "Shadowdark Core Rules",
   "description": "Blood-red scales cover the hide of this mighty, volcanic wyrm. Leaping flames glow at the back of its throat.",
   "armor_class": 18,
@@ -865,6 +899,7 @@
 }
 {
   "name": "Drow, Drider",
+  "slug": "drow_drider",
   "source": "Shadowdark Core Rules",
   "description": "A monstrosity with the body of a giant spider and torso of a drow.",
   "armor_class": 16,
@@ -893,6 +928,7 @@
 }
 {
   "name": "Plesiosaurus",
+  "slug": "plesiosaurus",
   "source": "Shadowdark Core Rules",
   "description": "Aquatic reptiles as big as elephants. Flat flippers and narrow, toothy maws on long necks.",
   "armor_class": 13,
@@ -912,6 +948,7 @@
 }
 {
   "name": "Deep One",
+  "slug": "deep_one",
   "source": "Shadowdark Core Rules",
   "description": "Cultish, amphibious fish-people with bulbous eyes. They lurk in deep water and sunless caverns.",
   "armor_class": 13,
@@ -936,7 +973,8 @@
 }
 {
   "name": "Devil, Cubi",
-  "source": "",
+  "slug": "devil_cubi",
+  "source": "Shadowdark Core Rules",
   "description": "Entrancing humanoids with bat wings and devilish charm.",
   "armor_class": 14,
   "armor_type": null,
@@ -968,6 +1006,7 @@
 }
 {
   "name": "Golem, Iron",
+  "slug": "golem_iron",
   "source": "Shadowdark Core Rules",
   "description": "A bulky iron suit that squeals and sparks with each step.",
   "armor_class": 19,
@@ -996,6 +1035,7 @@
 }
 {
   "name": "Golem, Flesh",
+  "slug": "golem_flesh",
   "source": "Shadowdark Core Rules",
   "description": "A ghastly monstrosity made of sewn-together corpses.",
   "armor_class": 9,
@@ -1024,6 +1064,7 @@
 }
 {
   "name": "Demon, Dretch",
+  "slug": "demon_dretch",
   "source": "Shadowdark Core Rules",
   "description": "Green, pig-faced demons with thick claws and an oily stench.",
   "armor_class": 12,
@@ -1048,6 +1089,7 @@
 }
 {
   "name": "Mage",
+  "slug": "mage",
   "source": "Shadowdark Core Rules",
   "description": "Trained wizards who are often members of a sorcerous order.",
   "armor_class": 11,
@@ -1088,6 +1130,7 @@
 }
 {
   "name": "Dragon, Forest",
+  "slug": "dragon_forest",
   "source": "Shadowdark Core Rules",
   "description": "The smell of wet loam follows this dragon. Its jade scales bristle with barbed thorns.",
   "armor_class": 16,
@@ -1116,6 +1159,7 @@
 }
 {
   "name": "Gelatinous Cube",
+  "slug": "gelatinous_cube",
   "source": "Shadowdark Core Rules",
   "description": "A translucent cube of slime that silently mows through tunnels.",
   "armor_class": 11,
@@ -1148,6 +1192,7 @@
 }
 {
   "name": "Panther",
+  "slug": "panther",
   "source": "Shadowdark Core Rules",
   "description": "Supple large cats with blue- black fur. Stealthy hunters.",
   "armor_class": 14,
@@ -1167,6 +1212,7 @@
 }
 {
   "name": "Hag, Night",
+  "slug": "hag_night",
   "source": "Shadowdark Core Rules",
   "description": "A purple-skinned, stooped woman with stringy, white hair and a mouth full of iron teeth.",
   "armor_class": 14,
@@ -1195,6 +1241,7 @@
 }
 {
   "name": "Darkmantle",
+  "slug": "darkmantle",
   "source": "Shadowdark Core Rules",
   "description": "A floating, black octopus with rows of red eyes and a webbed skirt of tentacles.",
   "armor_class": 13,
@@ -1219,6 +1266,7 @@
 }
 {
   "name": "Mimic",
+  "slug": "mimic",
   "source": "Shadowdark Core Rules",
   "description": "Beasts that look like objects.",
   "armor_class": 12,
@@ -1243,6 +1291,7 @@
 }
 {
   "name": "Demon, Balor",
+  "slug": "demon_balor",
   "source": "Shadowdark Core Rules",
   "description": "Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty swords and cracking whips of fire can slice through stone.",
   "armor_class": 19,
@@ -1275,6 +1324,7 @@
 }
 {
   "name": "Ape",
+  "slug": "ape",
   "source": "Shadowdark Core Rules",
   "description": "Hooting, omnivorous apes that live in trees.",
   "armor_class": 12,
@@ -1294,6 +1344,7 @@
 }
 {
   "name": "Devil, Horned",
+  "slug": "devil_horned",
   "source": "Shadowdark Core Rules",
   "description": "Iron-scaled hellions as big as ogres with weighty ram horns, lashing tails, and leathery wings. They are opportunistic and craven in battle.",
   "armor_class": 16,
@@ -1318,6 +1369,7 @@
 }
 {
   "name": "Gnoll",
+  "slug": "gnoll",
   "source": "Shadowdark Core Rules",
   "description": "Barbaric, opportunistic hyena- folk who range in large packs.",
   "armor_class": 12,
@@ -1342,6 +1394,7 @@
 }
 {
   "name": "Void Spawn",
+  "slug": "void_spawn",
   "source": "Shadowdark Core Rules",
   "description": "Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a nest of tentacles.",
   "armor_class": 13,
@@ -1370,7 +1423,8 @@
 }
 {
   "name": "Viperian",
-  "source": "",
+  "slug": "viperian",
+  "source": "Shadowdark Core Rules",
   "description": "Lithe, snake-headed people with cobra hoods and emerald green scales covering their bodies.",
   "armor_class": 13,
   "armor_type": null,
@@ -1389,6 +1443,7 @@
 }
 {
   "name": "Minotaur",
+  "slug": "minotaur",
   "source": "Shadowdark Core Rules",
   "description": "Ferocious bull-men with hooves and curved horns. They live in mazelike tunnels.",
   "armor_class": 14,
@@ -1413,6 +1468,7 @@
 }
 {
   "name": "Centipede, Giant",
+  "slug": "centipede_giant",
   "source": "Shadowdark Core Rules",
   "description": "Blood-red, feathery centipedes the size of a human arm. Their bite injects a burning poison that cramps muscles.",
   "armor_class": 11,
@@ -1437,6 +1493,7 @@
 }
 {
   "name": "Demon, Glabrezu",
+  "slug": "demon_glabrezu",
   "source": "Shadowdark Core Rules",
   "description": "Horse-headed, fanged creatures who walk upright and have four arms; two shriveled, and two ending in hulking pincers.",
   "armor_class": 15,
@@ -1461,6 +1518,7 @@
 }
 {
   "name": "Rat",
+  "slug": "rat",
   "source": "Shadowdark Core Rules",
   "description": "Rangy, plague-carrying rodents that infest underground places.",
   "armor_class": 10,
@@ -1485,6 +1543,7 @@
 }
 {
   "name": "Goblin",
+  "slug": "goblin",
   "source": "Shadowdark Core Rules",
   "description": "A short, hairless humanoid with green skin and pointy ears.",
   "armor_class": 11,
@@ -1509,6 +1568,7 @@
 }
 {
   "name": "Elemental, Water Lesser",
+  "slug": "elemental_water_lesser",
   "source": "Shadowdark Core Rules",
   "description": "A crashing vortex of water.",
   "armor_class": 15,
@@ -1537,6 +1597,7 @@
 }
 {
   "name": "Tyrannosaurus",
+  "slug": "tyrannosaurus",
   "source": "Shadowdark Core Rules",
   "description": "Towering, bipedal lizards with a massive head, jaws, and neck.",
   "armor_class": 13,
@@ -1556,6 +1617,7 @@
 }
 {
   "name": "Rat, Giant",
+  "slug": "rat_giant",
   "source": "Shadowdark Core Rules",
   "description": "Cunning rats as large as cats. Mangy fur and wormlike tails.",
   "armor_class": 11,
@@ -1580,6 +1642,7 @@
 }
 {
   "name": "Animated Armor",
+  "slug": "animated_armor",
   "source": "Shadowdark Core Rules",
   "description": "An old suit of armor magically animated by a vengeful spirit.",
   "armor_class": 15,
@@ -1604,6 +1667,7 @@
 }
 {
   "name": "Duergar",
+  "slug": "duergar",
   "source": "Shadowdark Core Rules",
   "description": "Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in somber castles deep within the earth filled with stolen treasures and enslaved prisoners.",
   "armor_class": 15,
@@ -1636,6 +1700,7 @@
 }
 {
   "name": "Spider",
+  "slug": "spider",
   "source": "Shadowdark Core Rules",
   "description": "Silent, web-weaving arachnids with a flesh-dissolving venom.",
   "armor_class": 11,
@@ -1660,6 +1725,7 @@
 }
 {
   "name": "Cloaker",
+  "slug": "cloaker",
   "source": "Shadowdark Core Rules",
   "description": "A midnight blue manta ray with a bony tail and crescent-shaped maw above its belly. It swoops through deep, lightless caverns.",
   "armor_class": 13,
@@ -1688,6 +1754,7 @@
 }
 {
   "name": "Wererat",
+  "slug": "wererat",
   "source": "Shadowdark Core Rules",
   "description": "A slinking, rat-faced humanoid covered in mangy fur.",
   "armor_class": 13,
@@ -1716,6 +1783,7 @@
 }
 {
   "name": "Ettercap",
+  "slug": "ettercap",
   "source": "Shadowdark Core Rules",
   "description": "Bipedal, eight-eyed spiderfolk with spindly legs and purple fur.",
   "armor_class": 12,
@@ -1740,6 +1808,7 @@
 }
 {
   "name": "Grimlow",
+  "slug": "grimlow",
   "source": "Shadowdark Core Rules",
   "description": "A tall, oval-shaped mammal. A giant, half-moon maw hides on its belly beneath its gray fur.",
   "armor_class": 12,
@@ -1764,6 +1833,7 @@
 }
 {
   "name": "Centaur",
+  "slug": "centaur",
   "source": "Shadowdark Core Rules",
   "description": "Herd-dwelling beings with the upper body of a human and lower body of a horse.",
   "armor_class": 12,
@@ -1783,6 +1853,7 @@
 }
 {
   "name": "Smilodon",
+  "slug": "smilodon",
   "source": "Shadowdark Core Rules",
   "description": "Prehistoric tigers with long canine fangs. They hunt in grasslands and ice fields.",
   "armor_class": 12,
@@ -1802,6 +1873,7 @@
 }
 {
   "name": "Apprentice",
+  "slug": "apprentice",
   "source": "Shadowdark Core Rules",
   "description": "A cloaked magician with a thin, freshly bound spellbook.",
   "armor_class": 11,
@@ -1830,6 +1902,7 @@
 }
 {
   "name": "Wraith",
+  "slug": "wraith",
   "source": "Shadowdark Core Rules",
   "description": "A shadowy spirit seething with anger and malice. Its presence is unsettling to animals.",
   "armor_class": 14,
@@ -1862,6 +1935,7 @@
 }
 {
   "name": "Scorpion",
+  "slug": "scorpion",
   "source": "Shadowdark Core Rules",
   "description": "Desert-dwelling arachnids with pincers and curved tail stingers.",
   "armor_class": 11,
@@ -1886,6 +1960,7 @@
 }
 {
   "name": "Ape, Snow",
+  "slug": "ape_snow",
   "source": "Shadowdark Core Rules",
   "description": "White-haired, carnivorous gorillas that stalk the high mountains and live in caves.",
   "armor_class": 13,
@@ -1910,6 +1985,7 @@
 }
 {
   "name": "Purple Worm",
+  "slug": "purple_worm",
   "source": "Shadowdark Core Rules",
   "description": "A massive worm as tall as a castle keep. Has a rotating maw and is covered in purple chitin.",
   "armor_class": 18,
@@ -1938,6 +2014,7 @@
 }
 {
   "name": "Soldier",
+  "slug": "soldier",
   "source": "Shadowdark Core Rules",
   "description": "An armed footsoldier trained in the ways of battlefield combat.",
   "armor_class": 15,
@@ -1957,6 +2034,7 @@
 }
 {
   "name": "Shark, Megalodon",
+  "slug": "shark_megalodon",
   "source": "Shadowdark Core Rules",
   "description": "Primordial sharks the size of whales. Savage hunters.",
   "armor_class": 13,
@@ -1981,6 +2059,7 @@
 }
 {
   "name": "Priest",
+  "slug": "priest",
   "source": "Shadowdark Core Rules",
   "description": "A respected member of a clergy who leads holy rituals and rites.",
   "armor_class": 15,
@@ -2017,6 +2096,7 @@
 }
 {
   "name": "Wolf, Dire",
+  "slug": "wolf_dire",
   "source": "Shadowdark Core Rules",
   "description": "A massive wolf with spines of black bone along its brow ridge and back.",
   "armor_class": 12,
@@ -2041,6 +2121,7 @@
 }
 {
   "name": "Hag, Sea",
+  "slug": "hag_sea",
   "source": "Shadowdark Core Rules",
   "description": "A green, sunken-faced woman. Seaweed hair and oozing flesh.",
   "armor_class": 15,
@@ -2069,6 +2150,7 @@
 }
 {
   "name": "Bandit",
+  "slug": "bandit",
   "source": "Shadowdark Core Rules",
   "description": "Hard-bitten rogue in tattered leathers and a hooded cloak.",
   "armor_class": 13,
@@ -2093,6 +2175,7 @@
 }
 {
   "name": "Pegasus",
+  "slug": "pegasus",
   "source": "Shadowdark Core Rules",
   "description": "Winged horses with noble bearings and pearly white coats.",
   "armor_class": 12,
@@ -2112,6 +2195,7 @@
 }
 {
   "name": "Bugbear",
+  "slug": "bugbear",
   "source": "Shadowdark Core Rules",
   "description": "Brutish, bat-eared goblinoids covered in brown fur.",
   "armor_class": 13,
@@ -2136,6 +2220,7 @@
 }
 {
   "name": "Giant, Cloud",
+  "slug": "giant_cloud",
   "source": "Shadowdark Core Rules",
   "description": "Pale, angular giants with blue-gray hair, light eyes, and silk robes. They do not allow outsiders into their enclaves.",
   "armor_class": 15,
@@ -2160,6 +2245,7 @@
 }
 {
   "name": "Angel, Principi",
+  "slug": "angel_principi",
   "source": "Shadowdark Core Rules",
   "description": "Serene humans sculpted from alabaster. Golden orbs for eyes.",
   "armor_class": 16,
@@ -2188,6 +2274,7 @@
 }
 {
   "name": "Goblin, Boss",
+  "slug": "goblin_boss",
   "source": "Shadowdark Core Rules",
   "description": "A scarred goblin with knotted muscles and a crown of iron.",
   "armor_class": 14,
@@ -2212,6 +2299,7 @@
 }
 {
   "name": "Triceratops",
+  "slug": "triceratops",
   "source": "Shadowdark Core Rules",
   "description": "Plodding herbivores with a wide, bony skull frill and three horns.",
   "armor_class": 17,
@@ -2236,6 +2324,7 @@
 }
 {
   "name": "Boar",
+  "slug": "boar",
   "source": "Shadowdark Core Rules",
   "description": "Ornery wild pig with bristly, russet hair and yellowed tusks.",
   "armor_class": 12,
@@ -2260,6 +2349,7 @@
 }
 {
   "name": "Salamander",
+  "slug": "salamander",
   "source": "Shadowdark Core Rules",
   "description": "Fire-colored lizardfolk with long tails. Flame-like frills run down their backs.",
   "armor_class": 13,
@@ -2288,6 +2378,7 @@
 }
 {
   "name": "Goblin, Shaman",
+  "slug": "goblin_shaman",
   "source": "Shadowdark Core Rules",
   "description": "A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat pelts.",
   "armor_class": 12,
@@ -2324,6 +2415,7 @@
 }
 {
   "name": "Invisible Stalker",
+  "slug": "invisible_stalker",
   "source": "Shadowdark Core Rules",
   "description": "Intelligent creatures made of flowing air. Often bound to the bidding of evil sorcerers for their peerless tracking ability.",
   "armor_class": 13,
@@ -2356,6 +2448,7 @@
 }
 {
   "name": "Phoenix",
+  "slug": "phoenix",
   "source": "Shadowdark Core Rules",
   "description": "Huge, soaring eagles made of searing flames. Intelligent and imbued with immortal magic.",
   "armor_class": 16,
@@ -2392,6 +2485,7 @@
 }
 {
   "name": "Naga",
+  "slug": "naga",
   "source": "Shadowdark Core Rules",
   "description": "Magic-wielding cobras towering ten feet high. Once a dominant species, they are now rare and reclusive, bitter to the last.",
   "armor_class": 16,
@@ -2428,6 +2522,7 @@
 }
 {
   "name": "Gorgon",
+  "slug": "gorgon",
   "source": "Shadowdark Core Rules",
   "description": "A snorting bull made entirely of iron plating. A cloud of green fog billows from its nostrils.",
   "armor_class": 18,
@@ -2456,6 +2551,7 @@
 }
 {
   "name": "Gargoyle",
+  "slug": "gargoyle",
   "source": "Shadowdark Core Rules",
   "description": "Leering, winged fiends that look like stone statues. They can hold perfectly still for long stretches of time.",
   "armor_class": 16,
@@ -2480,6 +2576,7 @@
 }
 {
   "name": "Shark",
+  "slug": "shark",
   "source": "Shadowdark Core Rules",
   "description": "Bloodthirsty apex predators of the sea. Gray, torpedo-like body.",
   "armor_class": 11,
@@ -2499,6 +2596,7 @@
 }
 {
   "name": "Griffon",
+  "slug": "griffon",
   "source": "Shadowdark Core Rules",
   "description": "Winged hunters with the head of an eagle and body of a lion. Their favored food is horses.",
   "armor_class": 12,
@@ -2518,6 +2616,7 @@
 }
 {
   "name": "Wolf",
+  "slug": "wolf",
   "source": "Shadowdark Core Rules",
   "description": "A giant canine with a gray pelt, yellow eyes, and dripping jaws.",
   "armor_class": 12,
@@ -2542,6 +2641,7 @@
 }
 {
   "name": "Devil, Barbed",
+  "slug": "devil_barbed",
   "source": "Shadowdark Core Rules",
   "description": "Lanky, green-mottled fiends bristling with hooked spines.",
   "armor_class": 13,
@@ -2566,6 +2666,7 @@
 }
 {
   "name": "Otyugh",
+  "slug": "otyugh",
   "source": "Shadowdark Core Rules",
   "description": "Stumpy, three-legged beasts with barbed tentacles and vast mouths. Drawn by rot and filth.",
   "armor_class": 13,
@@ -2590,6 +2691,7 @@
 }
 {
   "name": "Ghast",
+  "slug": "ghast",
   "source": "Shadowdark Core Rules",
   "description": "Greater ghouls who retain the intelligence they had in life.",
   "armor_class": 11,
@@ -2622,6 +2724,7 @@
 }
 {
   "name": "Moose",
+  "slug": "moose",
   "source": "Shadowdark Core Rules",
   "description": "A towering, brown-haired grazer with weighty, flat antlers.",
   "armor_class": 11,
@@ -2641,6 +2744,7 @@
 }
 {
   "name": "Giant, Goat",
+  "slug": "giant_goat",
   "source": "Shadowdark Core Rules",
   "description": "Highland-dwelling, barbaric giants with goatlike legs, horns, and horizontal pupils.",
   "armor_class": 12,
@@ -2660,6 +2764,7 @@
 }
 {
   "name": "Archmage",
+  "slug": "archmage",
   "source": "Shadowdark Core Rules",
   "description": "A wizened magic-user crackling with arcane power.",
   "armor_class": 12,
@@ -2704,6 +2809,7 @@
 }
 {
   "name": "Pirate",
+  "slug": "pirate",
   "source": "Shadowdark Core Rules",
   "description": "Seafaring scoundrels who live to steal and hoard treasure.",
   "armor_class": 12,
@@ -2723,6 +2829,7 @@
 }
 {
   "name": "Elf",
+  "slug": "elf",
   "source": "Shadowdark Core Rules",
   "description": "Ethereal, ageless fey-people infused with ancient magic.",
   "armor_class": 13,
@@ -2747,6 +2854,7 @@
 }
 {
   "name": "The Ten-Eyed Oracle",
+  "slug": "the_ten-eyed_oracle",
   "source": "Shadowdark Core Rules",
   "description": "A floating mass of rubbery skin crusted with barnacles. Its ten eyestalks writhe like snakes, and a deep, circular scar mars its central body, blinding what was once a large eye above a lipless maw. The Ten-Eyed Oracle stalks the Shadowdark, burbling mad prophesies and somehow moving freely between the lightless fathoms of the earth. The keepers of the deep lore suspect The Ten-Eyed Oracle was once a benevolent ally of mankind, but an unknown calamity drove it to insanity and reckless hatred.",
   "armor_class": 17,
@@ -2775,6 +2883,7 @@
 }
 {
   "name": "Unicorn",
+  "slug": "unicorn",
   "source": "Shadowdark Core Rules",
   "description": "A silvery horse with a flowing mane and a single spiral horn.",
   "armor_class": 12,
@@ -2799,6 +2908,7 @@
 }
 {
   "name": "Chimera",
+  "slug": "chimera",
   "source": "Shadowdark Core Rules",
   "description": "A monstrous beast with a half-goat, half-lion body, wide dragon wings, and the heads of a goat, lion, and dragon.",
   "armor_class": 16,
@@ -2823,6 +2933,7 @@
 }
 {
   "name": "Giant, Stone",
+  "slug": "giant_stone",
   "source": "Shadowdark Core Rules",
   "description": "Lean, sinewy giants with stony skin and deep-set eyes. They are quiet and poised, often sitting motionless for days at a time.",
   "armor_class": 17,
@@ -2847,6 +2958,7 @@
 }
 {
   "name": "Elemental, Air Lesser",
+  "slug": "elemental_air_lesser",
   "source": "Shadowdark Core Rules",
   "description": "A howling tornado of wind.",
   "armor_class": 16,
@@ -2875,7 +2987,8 @@
 }
 {
   "name": "Guard",
-  "source": "",
+  "slug": "guard",
+  "source": "Shadowdark Core Rules",
   "description": "A sentry equipped with sturdy weapons and armor.",
   "armor_class": 15,
   "armor_type": "chainmail + shield",
@@ -2894,6 +3007,7 @@
 }
 {
   "name": "Peasant",
+  "slug": "peasant",
   "source": "Shadowdark Core Rules",
   "description": "A commoner in worn clothes.",
   "armor_class": 10,
@@ -2913,6 +3027,7 @@
 }
 {
   "name": "Brachiosaurus",
+  "slug": "brachiosaurus",
   "source": "Shadowdark Core Rules",
   "description": "Colossal, long-necked tree grazers. Slow and peaceful.",
   "armor_class": 13,
@@ -2932,6 +3047,7 @@
 }
 {
   "name": "Worg",
+  "slug": "worg",
   "source": "Shadowdark Core Rules",
   "description": "Bat-faced wolves that speak Goblin and often serve as war mounts for goblinkind.",
   "armor_class": 11,
@@ -2951,6 +3067,7 @@
 }
 {
   "name": "Couatl",
+  "slug": "couatl",
   "source": "Shadowdark Core Rules",
   "description": "A human-sized snake with scales made of jewels and a corona of iridescent feathers.",
   "armor_class": 16,
@@ -2983,6 +3100,7 @@
 }
 {
   "name": "Dragon, Swamp",
+  "slug": "dragon_swamp",
   "source": "Shadowdark Core Rules",
   "description": "This black, wingless beast slithers through dank swamps.",
   "armor_class": 16,
@@ -3007,6 +3125,7 @@
 }
 {
   "name": "Lion",
+  "slug": "lion",
   "source": "Shadowdark Core Rules",
   "description": "Tawny great cats that hunt in open plains. Males have manes.",
   "armor_class": 12,
@@ -3026,6 +3145,7 @@
 }
 {
   "name": "Will-o'-wisp",
+  "slug": "will-o-wisp",
   "source": "Shadowdark Core Rules",
   "description": "A bobbing marsh light animated by an evil spirit. It tries to lead the living into danger.",
   "armor_class": 13,
@@ -3050,6 +3170,7 @@
 }
 {
   "name": "Lizardfolk",
+  "slug": "lizardfolk",
   "source": "Shadowdark Core Rules",
   "description": "Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps and rivers.",
   "armor_class": 14,
@@ -3069,6 +3190,7 @@
 }
 {
   "name": "Spider, Swarm",
+  "slug": "spider_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A scurrying carpet of spiders.",
   "armor_class": 13,
@@ -3093,6 +3215,7 @@
 }
 {
   "name": "Ghost",
+  "slug": "ghost",
   "source": "Shadowdark Core Rules",
   "description": "A wavering spirit with a face contorted in rage or sadness.",
   "armor_class": 13,
@@ -3129,6 +3252,7 @@
 }
 {
   "name": "Nightmare",
+  "slug": "nightmare",
   "source": "Shadowdark Core Rules",
   "description": "Black warhorses with flaming manes, hooves, and eyes.",
   "armor_class": 13,
@@ -3153,6 +3277,7 @@
 }
 {
   "name": "Hell Hound",
+  "slug": "hell_hound",
   "source": "Shadowdark Core Rules",
   "description": "Black wolfhounds with red eyes and jaws dripping with flames.",
   "armor_class": 13,
@@ -3181,6 +3306,7 @@
 }
 {
   "name": "Druid",
+  "slug": "druid",
   "source": "Shadowdark Core Rules",
   "description": "A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep viridian.",
   "armor_class": 11,
@@ -3221,6 +3347,7 @@
 }
 {
   "name": "Brain Eater",
+  "slug": "brain_eater",
   "source": "Shadowdark Core Rules",
   "description": "Purple, gaunt humanoids with squidlike heads and four face tentacles. They live in complex, alien societies underground and eat humanoid brains.",
   "armor_class": 14,
@@ -3257,6 +3384,7 @@
 }
 {
   "name": "Gladiator",
+  "slug": "gladiator",
   "source": "Shadowdark Core Rules",
   "description": "Veteran warriors seasoned in arena fights to the death.",
   "armor_class": 16,
@@ -3276,6 +3404,7 @@
 }
 {
   "name": "Crocodile",
+  "slug": "crocodile",
   "source": "Shadowdark Core Rules",
   "description": "Fat, scaly reptiles with stumpy legs and long, thrashing tails.",
   "armor_class": 14,
@@ -3295,6 +3424,7 @@
 }
 {
   "name": "Violet Fungus",
+  "slug": "violet_fungus",
   "source": "Shadowdark Core Rules",
   "description": "Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompose living flesh.",
   "armor_class": 7,
@@ -3314,6 +3444,7 @@
 }
 {
   "name": "Roc",
+  "slug": "roc",
   "source": "Shadowdark Core Rules",
   "description": "Dragon-sized hawks that nest in remote mountains.",
   "armor_class": 15,
@@ -3338,7 +3469,8 @@
 }
 {
   "name": "Vampire Spawn",
-  "source": "",
+  "slug": "vampire_spawn",
+  "source": "Shadowdark Core Rules",
   "description": "Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty and savage. They rarely leave a victim alive.",
   "armor_class": 13,
   "armor_type": "leather",
@@ -3370,6 +3502,7 @@
 }
 {
   "name": "Efreeti",
+  "slug": "efreeti",
   "source": "Shadowdark Core Rules",
   "description": "Blood-red, towering humanoids formed of lava and ash. Short, black horns and snarling grins.",
   "armor_class": 15,
@@ -3402,6 +3535,7 @@
 }
 {
   "name": "Kobold",
+  "slug": "kobold",
   "source": "Shadowdark Core Rules",
   "description": "Puny, scaled coyote-lizards that dwell underground.",
   "armor_class": 13,
@@ -3426,6 +3560,7 @@
 }
 {
   "name": "Giant, Frost",
+  "slug": "giant_frost",
   "source": "Shadowdark Core Rules",
   "description": "Blue-skinned warriors with broad shoulders and braided hair. They sound war horns during their frequent raids to pillage nearby settlements.",
   "armor_class": 14,
@@ -3450,6 +3585,7 @@
 }
 {
   "name": "Rime Walker",
+  "slug": "rime_walker",
   "source": "Shadowdark Core Rules",
   "description": "Human-shaped beings formed from black space ice. Their eyes are two flickering, white lights.",
   "armor_class": 16,
@@ -3478,6 +3614,7 @@
 }
 {
   "name": "Hippopotamus",
+  "slug": "hippopotamus",
   "source": "Shadowdark Core Rules",
   "description": "Ornery river-beasts as large as cows with round, purple bodies and bulbous snouts.",
   "armor_class": 12,
@@ -3502,6 +3639,7 @@
 }
 {
   "name": "Elemental, Earth Lesser",
+  "slug": "elemental_earth_lesser",
   "source": "Shadowdark Core Rules",
   "description": "A thundering pillar of earth.",
   "armor_class": 17,
@@ -3530,6 +3668,7 @@
 }
 {
   "name": "Golem, Clay",
+  "slug": "golem_clay",
   "source": "Shadowdark Core Rules",
   "description": "A towering, faceless humanoid shaped from glistening clay.",
   "armor_class": 14,
@@ -3558,6 +3697,7 @@
 }
 {
   "name": "Rust Monster",
+  "slug": "rust_monster",
   "source": "Shadowdark Core Rules",
   "description": "A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal.",
   "armor_class": 13,
@@ -3582,6 +3722,7 @@
 }
 {
   "name": "Hydra",
+  "slug": "hydra",
   "source": "Shadowdark Core Rules",
   "description": "A towering, amphibious reptile with a bouquet of snake heads writhing on long necks.",
   "armor_class": 15,
@@ -3606,7 +3747,8 @@
 }
 {
   "name": "Viperian, Wizard",
-  "source": "",
+  "slug": "viperian_wizard",
+  "source": "Shadowdark Core Rules",
   "description": "Thin viperians with scales tinged in black. They wear silk robes and silver, serpentine jewelry.",
   "armor_class": 13,
   "armor_type": null,
@@ -3642,6 +3784,7 @@
 }
 {
   "name": "Rat, Dire",
+  "slug": "rat_dire",
   "source": "Shadowdark Core Rules",
   "description": "Child-sized, savage rats bristling with bony face and spine ridges.",
   "armor_class": 12,
@@ -3666,6 +3809,7 @@
 }
 {
   "name": "Wolf, Winter",
+  "slug": "wolf_winter",
   "source": "Shadowdark Core Rules",
   "description": "Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of eternal winter.",
   "armor_class": 12,
@@ -3694,6 +3838,7 @@
 }
 {
   "name": "Dragon, Frost",
+  "slug": "dragon_frost",
   "source": "Shadowdark Core Rules",
   "description": "Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds of steam hiss from its ice-rimed jaws.",
   "armor_class": 17,
@@ -3722,6 +3867,7 @@
 }
 {
   "name": "Elephant",
+  "slug": "elephant",
   "source": "Shadowdark Core Rules",
   "description": "Mighty mammals with tough hide, flappy ears, and a trunk.",
   "armor_class": 14,
@@ -3746,6 +3892,7 @@
 }
 {
   "name": "Doppelganger",
+  "slug": "doppelganger",
   "source": "Shadowdark Core Rules",
   "description": "Gray, featureless humanoids that delight in sowing chaos.",
   "armor_class": 12,
@@ -3774,7 +3921,8 @@
 }
 {
   "name": "Scorpion, Giant",
-  "source": "",
+  "slug": "scorpion_giant",
+  "source": "Shadowdark Core Rules",
   "description": "Chitin-plated scorpions as big as camels.",
   "armor_class": 14,
   "armor_type": null,
@@ -3802,6 +3950,7 @@
 }
 {
   "name": "Thief",
+  "slug": "thief",
   "source": "Shadowdark Core Rules",
   "description": "A cat burglar in a black cloak.",
   "armor_class": 13,
@@ -3830,6 +3979,7 @@
 }
 {
   "name": "Giant, Fire",
+  "slug": "giant_fire",
   "source": "Shadowdark Core Rules",
   "description": "Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron plate mail studded with bronze rivets.",
   "armor_class": 15,
@@ -3854,6 +4004,7 @@
 }
 {
   "name": "Elemental, Air Greater",
+  "slug": "elemental_air_greater",
   "source": "Shadowdark Core Rules",
   "description": "A howling tornado of wind.",
   "armor_class": 16,
@@ -3882,6 +4033,7 @@
 }
 {
   "name": "Dragon, Sea",
+  "slug": "dragon_sea",
   "source": "Shadowdark Core Rules",
   "description": "A warm sea breeze blows around this amphibious, gold- scaled wyrm. A beard of tendrils covers its snout, and a blue mane billows along its neck.",
   "armor_class": 17,
@@ -3910,7 +4062,8 @@
 }
 {
   "name": "Gorilla",
-  "source": "",
+  "slug": "gorilla",
+  "source": "Shadowdark Core Rules",
   "description": "Mighty, jungle-dwelling apes.",
   "armor_class": 12,
   "armor_type": null,
@@ -3929,6 +4082,7 @@
 }
 {
   "name": "Jellyfish",
+  "slug": "jellyfish",
   "source": "Shadowdark Core Rules",
   "description": "Hand-sized, purple sea jellies with stinging tentacles.",
   "armor_class": 11,
@@ -3953,6 +4107,7 @@
 }
 {
   "name": "Roper",
+  "slug": "roper",
   "source": "Shadowdark Core Rules",
   "description": "Ravenous monstrosities that look like cave rocks when their single eye and maw are closed.",
   "armor_class": 14,
@@ -3989,6 +4144,7 @@
 }
 {
   "name": "Medusa",
+  "slug": "medusa",
   "source": "Shadowdark Core Rules",
   "description": "Immortal women with coiling snakes for hair and scaled skin.",
   "armor_class": 14,
@@ -4021,7 +4177,8 @@
 }
 {
   "name": "Stingbat",
-  "source": "",
+  "slug": "stingbat",
+  "source": "Shadowdark Core Rules",
   "description": "Darting, orange insect-bat with four wings and needlelike beak.",
   "armor_class": 12,
   "armor_type": null,
@@ -4045,6 +4202,7 @@
 }
 {
   "name": "Horse",
+  "slug": "horse",
   "source": "Shadowdark Core Rules",
   "description": "Powerful, swift herd animals that roam open plains.",
   "armor_class": 11,
@@ -4064,6 +4222,7 @@
 }
 {
   "name": "Shambling Mound",
+  "slug": "shambling_mound",
   "source": "Shadowdark Core Rules",
   "description": "Fetid piles of slimy vegetation animated to life by lightning.",
   "armor_class": 14,
@@ -4092,6 +4251,7 @@
 }
 {
   "name": "Gray Ooze",
+  "slug": "gray_ooze",
   "source": "Shadowdark Core Rules",
   "description": "Slick puddles the color of stone.",
   "armor_class": 11,
@@ -4120,6 +4280,7 @@
 }
 {
   "name": "Sahuagin",
+  "slug": "sahuagin",
   "source": "Shadowdark Core Rules",
   "description": "Humanoids with sea-green skin, webbed limbs, and shark teeth. Vicious hunters.",
   "armor_class": 14,
@@ -4144,6 +4305,7 @@
 }
 {
   "name": "Aboleth",
+  "slug": "aboleth",
   "source": "Shadowdark Core Rules",
   "description": "Enormous, antediluvian catfish covered in slime and tentacles. They hate all intelligent beings.",
   "armor_class": 16,
@@ -4176,6 +4338,7 @@
 }
 {
   "name": "Dragon, Desert",
+  "slug": "dragon_desert",
   "source": "Shadowdark Core Rules",
   "description": "The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of brass and lapis lazuli shimmer in the baking heat.",
   "armor_class": 17,
@@ -4208,6 +4371,7 @@
 }
 {
   "name": "Giant, Storm",
+  "slug": "giant_storm",
   "source": "Shadowdark Core Rules",
   "description": "Regal titans with sea-green skin, flowing white hair, and thundering voices. They breathe water as easily as air.",
   "armor_class": 15,
@@ -4236,6 +4400,7 @@
 }
 {
   "name": "Mastiff",
+  "slug": "mastiff",
   "source": "Shadowdark Core Rules",
   "description": "Muscled guard dogs with fierce loyalty to their pack or owners.",
   "armor_class": 11,
@@ -4255,6 +4420,7 @@
 }
 {
   "name": "Angel, Domini",
+  "slug": "angel_domini",
   "source": "Shadowdark Core Rules",
   "description": "Winged, flawless humans glowing with bronze sunlight.",
   "armor_class": 17,
@@ -4279,6 +4445,7 @@
 }
 {
   "name": "Obe-Ixx Of Azarumne",
+  "slug": "obe-ixx_of_azarumne",
   "source": "Shadowdark Core Rules",
   "description": "A pale, angular woman in translucent plte mail fashioned from giant scorpion chitin. Obe-Ixx, daughter of Azarumne, rose up from the prehistoric barbarian tribes of Tal-Yool to conquer all in her path. One day, she stood at the steps of an obsidian ziggurat deep within the trackless jungle. Forty nights later, Obe-Ixx emerged as the ur-vampire, bloodlust made flesh. Her dynasty would rise and fall again and again over the coming millennia.",
   "armor_class": 18,
@@ -4323,6 +4490,7 @@
 }
 {
   "name": "The Wandering Merchant",
+  "slug": "the_wandering_merchant",
   "source": "Shadowdark Core Rules",
   "description": "A cheerful merchant who appears to be a hale, middle-aged human man with a handlebar mustache. He wears a white shirt, breeches, and leather apron, and he hauls a towering backpack bursting at the seams. Few know the merchant's true nature and origins, though some theorize he is an immortal being or a god (they are not entirely incorrect). The Wandering Merchant always has something useful, far-flung, or incredible to sell at a reasonable price, and there's no telling when or where he'll show up next...",
   "armor_class": 16,
@@ -4371,6 +4539,7 @@
 }
 {
   "name": "Pterodactyl",
+  "slug": "pterodactyl",
   "source": "Shadowdark Core Rules",
   "description": "Long-beaked beasts with wide, triangular wings. Large enough to carry off a human.",
   "armor_class": 14,
@@ -4395,6 +4564,7 @@
 }
 {
   "name": "Grick",
+  "slug": "grick",
   "source": "Shadowdark Core Rules",
   "description": "A huge worm with four suckered tentacles and a snapping beak.",
   "armor_class": 14,
@@ -4423,6 +4593,7 @@
 }
 {
   "name": "Bear, Polar",
+  "slug": "bear_polar",
   "source": "Shadowdark Core Rules",
   "description": "A mighty, white bear that thrives in arctic environments.",
   "armor_class": 13,
@@ -4451,6 +4622,7 @@
 }
 {
   "name": "Cave Creeper",
+  "slug": "cave_creeper",
   "source": "Shadowdark Core Rules",
   "description": "Chittering, green centipedes the size of horses. Their grasping tentacles are coated in a paralytic venom.",
   "armor_class": 12,
@@ -4475,6 +4647,7 @@
 }
 {
   "name": "Fairy",
+  "slug": "fairy",
   "source": "Shadowdark Core Rules",
   "description": "Miniature fey folk with fluttering moth or butterfly wings.",
   "armor_class": 13,
@@ -4499,6 +4672,7 @@
 }
 {
   "name": "Scarecrow",
+  "slug": "scarecrow",
   "source": "Shadowdark Core Rules",
   "description": "Ragged clothes and a painted burlap head stuffed with straw. Possessed by a malicious spirit.",
   "armor_class": 12,
@@ -4523,6 +4697,7 @@
 }
 {
   "name": "Berserker",
+  "slug": "berserker",
   "source": "Shadowdark Core Rules",
   "description": "Howling, battleraging warriors.",
   "armor_class": 12,
@@ -4547,6 +4722,7 @@
 }
 {
   "name": "Orc, Chieftain",
+  "slug": "orc_chieftain",
   "source": "Shadowdark Core Rules",
   "description": "An imposing orc with scars crisscrossing its body.",
   "armor_class": 14,
@@ -4571,6 +4747,7 @@
 }
 {
   "name": "Wasp, Giant",
+  "slug": "wasp_giant",
   "source": "Shadowdark Core Rules",
   "description": "Man-sized wasps with glossy, yellow-striped abdomens.",
   "armor_class": 13,
@@ -4595,6 +4772,7 @@
 }
 {
   "name": "Naga, Bone",
+  "slug": "naga_bone",
   "source": "Shadowdark Core Rules",
   "description": "Mindless, skeletal husks of nagas reanimated by sorcery.",
   "armor_class": 13,
@@ -4619,6 +4797,7 @@
 }
 {
   "name": "Sphinx",
+  "slug": "sphinx",
   "source": "Shadowdark Core Rules",
   "description": "A winged, leonine oracle who can see into time and space and often speaks in riddles. Lives in isolated mountains.",
   "armor_class": 16,
@@ -4663,6 +4842,7 @@
 }
 {
   "name": "Rat, Swarm",
+  "slug": "rat_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A screeching tidal wave of clawing and biting rats.",
   "armor_class": 10,
@@ -4687,6 +4867,7 @@
 }
 {
   "name": "Crab, Giant",
+  "slug": "crab_giant",
   "source": "Shadowdark Core Rules",
   "description": "A wagon-sized, armored crab with two crushing pincers.",
   "armor_class": 15,
@@ -4711,6 +4892,7 @@
 }
 {
   "name": "Cultist",
+  "slug": "cultist",
   "source": "Shadowdark Core Rules",
   "description": "A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god.",
   "armor_class": 14,
@@ -4739,6 +4921,7 @@
 }
 {
   "name": "Rot Flower",
+  "slug": "rot_flower",
   "source": "Shadowdark Core Rules",
   "description": "Carnivorous flowers as large as a human. They reek of carrion.",
   "armor_class": 9,
@@ -4763,6 +4946,7 @@
 }
 {
   "name": "Wight",
+  "slug": "wight",
   "source": "Shadowdark Core Rules",
   "description": "A pale, armored undead warrior with sinister intelligence.",
   "armor_class": 14,
@@ -4791,6 +4975,7 @@
 }
 {
   "name": "Primordial Slime",
+  "slug": "primordial_slime",
   "source": "Shadowdark Core Rules",
   "description": "A mass of clear ooze strobing with sick pulses of violet light.",
   "armor_class": 9,
@@ -4819,6 +5004,7 @@
 }
 {
   "name": "Treant",
+  "slug": "treant",
   "source": "Shadowdark Core Rules",
   "description": "Peaceful, slow-moving trees with merry eyes and tremulous voices. They protect the forest.",
   "armor_class": 14,
@@ -4843,7 +5029,8 @@
 }
 {
   "name": "Hippogriff",
-  "source": "",
+  "slug": "hippogriff",
+  "source": "Shadowdark Core Rules",
   "description": "Fierce, winged creatures with the lower body of a horse and upper body of a giant eagle.",
   "armor_class": 13,
   "armor_type": null,
@@ -4862,6 +5049,7 @@
 }
 {
   "name": "Acolyte",
+  "slug": "acolyte",
   "source": "Shadowdark Core Rules",
   "description": "A religious trainee who knows basic rites and rituals.",
   "armor_class": 12,
@@ -4886,6 +5074,7 @@
 }
 {
   "name": "Reaver",
+  "slug": "reaver",
   "source": "Shadowdark Core Rules",
   "description": "A knight in blackened armor riddled with cruel barbs.",
   "armor_class": 17,
@@ -4910,6 +5099,7 @@
 }
 {
   "name": "Elemental, Water Greater",
+  "slug": "elemental_water_greater",
   "source": "Shadowdark Core Rules",
   "description": "A crashing vortex of water.",
   "armor_class": 15,
@@ -4938,6 +5128,7 @@
 }
 {
   "name": "Manta Ray, Giant",
+  "slug": "manta_ray_giant",
   "source": "Shadowdark Core Rules",
   "description": "Swooping manta rays as large as longboats. Gentle and intelligent enough to be trained.",
   "armor_class": 13,
@@ -4962,6 +5153,7 @@
 }
 {
   "name": "Oni",
+  "slug": "oni",
   "source": "Shadowdark Core Rules",
   "description": "Cunning and sorcerous ogre- demons with shaggy white hair, blue skin, and yellow eyes.",
   "armor_class": 11,
@@ -4998,6 +5190,7 @@
 }
 {
   "name": "Cockatrice",
+  "slug": "cockatrice",
   "source": "Shadowdark Core Rules",
   "description": "A molting, lizard-chicken hybrid with a crimson, razorlike crest.",
   "armor_class": 11,
@@ -5022,6 +5215,7 @@
 }
 {
   "name": "Troll, Frost",
+  "slug": "troll_frost",
   "source": "Shadowdark Core Rules",
   "description": "Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic lands and frozen boreal forests.",
   "armor_class": 13,
@@ -5050,6 +5244,7 @@
 }
 {
   "name": "Giant, Hill",
+  "slug": "giant_hill",
   "source": "Shadowdark Core Rules",
   "description": "Fleshy hulks with leathery skin and broad, sloping foreheads. Cruel, boorish, and dim-witted.",
   "armor_class": 11,
@@ -5069,6 +5264,7 @@
 }
 {
   "name": "Beastman",
+  "slug": "beastman",
   "source": "Shadowdark Core Rules",
   "description": "A cave hominid with scraggly fur and a stone-tipped spear.",
   "armor_class": 12,
@@ -5093,6 +5289,7 @@
 }
 {
   "name": "The Tarrasque",
+  "slug": "the_tarrasque",
   "source": "Shadowdark Core Rules",
   "description": "A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diamond-hard, spiked carapace. It towers overhead like a mountain, able to swallow entire villages in one gulp. The tarrasque hibernates deep in the earth or at the bottom of the sea for centuries, only awakening long enough to fill its vast belly in an indiscriminate rampage of terror and destruction. There is only one tarrasque, and it is the most dreaded creature to walk the earth.",
   "armor_class": 22,
@@ -5145,6 +5342,7 @@
 }
 {
   "name": "Mummy",
+  "slug": "mummy",
   "source": "Shadowdark Core Rules",
   "description": "A desiccated, linen-wrapped zombie. It was created with an intricate embalming ritual used only upon the most worthy warriors or rulers.",
   "armor_class": 13,
@@ -5177,6 +5375,7 @@
 }
 {
   "name": "Drow",
+  "slug": "drow",
   "source": "Shadowdark Core Rules",
   "description": "A graceful, shadowy elf that pounces like a spider.",
   "armor_class": 16,
@@ -5205,6 +5404,7 @@
 }
 {
   "name": "Mordanticus The Flayed",
+  "slug": "mordanticus_the_flayed",
   "source": "Shadowdark Core Rules",
   "description": "A skinless mummy-lich wearing a crown set with nine bright gems. Once the head of the ancient, wizardly order of Gehemna, Mordanticus now lives in secret within the sanctum of Gehemna's reigning archmage. He has served as an advisor and historian for centuries, but an enduring enchantment prevents him from speaking of two topics: his origins, and the Ten-Eyed Oracle.",
   "armor_class": 17,
@@ -5265,6 +5465,7 @@
 }
 {
   "name": "Hag, Weald",
+  "slug": "hag_weald",
   "source": "Shadowdark Core Rules",
   "description": "Eyes dark as moonless nights, skin made of rotting wood, hair of tangled roots and vines.",
   "armor_class": 14,
@@ -5293,6 +5494,7 @@
 }
 {
   "name": "Rhinoceros",
+  "slug": "rhinoceros",
   "source": "Shadowdark Core Rules",
   "description": "Gray-skinned bulls with single nose horns. Dwell in grasslands.",
   "armor_class": 14,
@@ -5317,7 +5519,8 @@
 }
 {
   "name": "Viperian, Ophid",
-  "source": "",
+  "slug": "viperian_ophid",
+  "source": "Shadowdark Core Rules",
   "description": "A giant anaconda body merges into a humanoid torso with a large snake head. It wears golden torcs and strings of glittering moonstones.",
   "armor_class": 14,
   "armor_type": null,
@@ -5341,6 +5544,7 @@
 }
 {
   "name": "Leprechaun",
+  "slug": "leprechaun",
   "source": "Shadowdark Core Rules",
   "description": "Impish fey who favor green garb and love fooling \"tall folk\" with promises of gold.",
   "armor_class": 13,
@@ -5381,6 +5585,7 @@
 }
 {
   "name": "Werewolf",
+  "slug": "werewolf",
   "source": "Shadowdark Core Rules",
   "description": "A bipedal, wolf-faced humanoid covered in brown fur.",
   "armor_class": 12,
@@ -5409,7 +5614,8 @@
 }
 {
   "name": "Velociraptor",
-  "source": "",
+  "slug": "velociraptor",
+  "source": "Shadowdark Core Rules",
   "description": "Fast, turkey-sized raptors with vicious toe claws. Pack hunters.",
   "armor_class": 13,
   "armor_type": null,
@@ -5433,6 +5639,7 @@
 }
 {
   "name": "Badger",
+  "slug": "badger",
   "source": "Shadowdark Core Rules",
   "description": "Fierce, clawed burrowers with black-and-white face stripes.",
   "armor_class": 11,
@@ -5457,6 +5664,7 @@
 }
 {
   "name": "Mushroomfolk",
+  "slug": "mushroomfolk",
   "source": "Shadowdark Core Rules",
   "description": "Lumbering humanoids with spongy, elongated bodies and toadstools on their heads.",
   "armor_class": 13,
@@ -5485,6 +5693,7 @@
 }
 {
   "name": "Knight",
+  "slug": "knight",
   "source": "Shadowdark Core Rules",
   "description": "A warrior in shining plate mail and the surcoat of a knightly order.",
   "armor_class": 17,
@@ -5509,6 +5718,7 @@
 }
 {
   "name": "Manticore",
+  "slug": "manticore",
   "source": "Shadowdark Core Rules",
   "description": "Human-faced lions with bat wings and cruelly spiked tails. They speak halting Thanian and love devouring human flesh.",
   "armor_class": 14,
@@ -5533,6 +5743,7 @@
 }
 {
   "name": "Dryad",
+  "slug": "dryad",
   "source": "Shadowdark Core Rules",
   "description": "A coy, emerald-skinned fey covered in leaves. It bonds with and protects a tree.",
   "armor_class": 13,
@@ -5561,6 +5772,7 @@
 }
 {
   "name": "Merfolk",
+  "slug": "merfolk",
   "source": "Shadowdark Core Rules",
   "description": "Ocean dwellers with human upper bodies and long fish tails.",
   "armor_class": 11,
@@ -5580,6 +5792,7 @@
 }
 {
   "name": "Angel, Seraph",
+  "slug": "angel_seraph",
   "source": "Shadowdark Core Rules",
   "description": "Beautiful, luminous humanoids with white-feathered wings.",
   "armor_class": 14,
@@ -5604,6 +5817,7 @@
 }
 {
   "name": "Dung Beetle, Giant",
+  "slug": "dung_beetle_giant",
   "source": "Shadowdark Core Rules",
   "description": "A trundling, barrel-sized beetle with a T-shaped horn.",
   "armor_class": 13,
@@ -5628,6 +5842,7 @@
 }
 {
   "name": "Gnome, Deep",
+  "slug": "gnome_deep",
   "source": "Shadowdark Core Rules",
   "description": "Gray-skinned, white-haired fey the size of halflings. They hunt for gems and rare cave flora.",
   "armor_class": 14,
@@ -5652,6 +5867,7 @@
 }
 {
   "name": "Archdevil",
+  "slug": "archdevil",
   "source": "Shadowdark Core Rules",
   "description": "A stunningly beautiful, horned human with burning, red eyes and a halo of seven black stars. Two stitched-up gashes weep blood from its shoulder blades.",
   "armor_class": 19,
@@ -5684,6 +5900,7 @@
 }
 {
   "name": "Leech, Giant",
+  "slug": "leech_giant",
   "source": "Shadowdark Core Rules",
   "description": "A glossy black, blood-drinking slug as large as a cat.",
   "armor_class": 9,
@@ -5708,6 +5925,7 @@
 }
 {
   "name": "Piranha, Swarm",
+  "slug": "piranha_swarm",
   "source": "Shadowdark Core Rules",
   "description": "A school of flat, silvery fish with vicious fangs.",
   "armor_class": 12,
@@ -5732,6 +5950,7 @@
 }
 {
   "name": "Spider, Giant",
+  "slug": "spider_giant",
   "source": "Shadowdark Core Rules",
   "description": "Bulbous abdomen and eight, spindly legs. Dwells high in trees or caves and ambushes prey, capturing them to eat later.",
   "armor_class": 13,
@@ -5756,6 +5975,7 @@
 }
 {
   "name": "Black Pudding",
+  "slug": "black_pudding",
   "source": "Shadowdark Core Rules",
   "description": "A black, ice-cold mass of sludge.",
   "armor_class": 9,
@@ -5784,6 +6004,7 @@
 }
 {
   "name": "Gibbering Mouther",
+  "slug": "gibbering_mouther",
   "source": "Shadowdark Core Rules",
   "description": "Crawling masses of slime with dozens of screeching, lipless mouths and wet eyeballs.",
   "armor_class": 8,
@@ -5812,7 +6033,8 @@
 }
 {
   "name": "Rakshasa",
-  "source": "",
+  "slug": "rakshasa",
+  "source": "Shadowdark Core Rules",
   "description": "Demonic illusionists whose true form is of a humanlike great cat with backwards hands.",
   "armor_class": 16,
   "armor_type": null,
@@ -5844,6 +6066,7 @@
 }
 {
   "name": "Harpy",
+  "slug": "harpy",
   "source": "Shadowdark Core Rules",
   "description": "Horrific, winged women with vulture-like lower bodies. They keen a hypnotic song.",
   "armor_class": 13,
@@ -5868,7 +6091,8 @@
 }
 {
   "name": "Golem, Stone",
-  "source": "",
+  "slug": "golem_stone",
+  "source": "Shadowdark Core Rules",
   "description": "A wide-limbed, lumbering statue that shakes the ground.",
   "armor_class": 18,
   "armor_type": null,
@@ -5896,6 +6120,7 @@
 }
 {
   "name": "Basilisk",
+  "slug": "basilisk",
   "source": "Shadowdark Core Rules",
   "description": "Massive, muscled lizards with six legs and gray, tough hide.",
   "armor_class": 14,
@@ -5920,6 +6145,7 @@
 }
 {
   "name": "Ochre Jelly",
+  "slug": "ochre_jelly",
   "source": "Shadowdark Core Rules",
   "description": "An orange puddle of quivering slime.",
   "armor_class": 9,
@@ -5944,6 +6170,7 @@
 }
 {
   "name": "Mammoth",
+  "slug": "mammoth",
   "source": "Shadowdark Core Rules",
   "description": "Massive, shaggy elephants with tusks that reach the ground.",
   "armor_class": 15,
@@ -5972,7 +6199,8 @@
 }
 {
   "name": "Vampire",
-  "source": "",
+  "slug": "vampire",
+  "source": "Shadowdark Core Rules",
   "description": "Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlight and protect their coffins at all costs.",
   "armor_class": 15,
   "armor_type": null,
@@ -6012,6 +6240,7 @@
 }
 {
   "name": "Camel",
+  "slug": "camel",
   "source": "Shadowdark Core Rules",
   "description": "Ornery, tan-furred desert beasts.",
   "armor_class": 10,
@@ -6031,6 +6260,7 @@
 }
 {
   "name": "Kobold, Sorcerer",
+  "slug": "kobold_sorcerer",
   "source": "Shadowdark Core Rules",
   "description": "A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone strung with beads and feathers.",
   "armor_class": 13,
@@ -6063,6 +6293,7 @@
 }
 {
   "name": "Elemental, Earth Greater",
+  "slug": "elemental_earth_greater",
   "source": "Shadowdark Core Rules",
   "description": "A thundering pillar of earth.",
   "armor_class": 17,
@@ -6091,6 +6322,7 @@
 }
 {
   "name": "Djinni",
+  "slug": "djinni",
   "source": "Shadowdark Core Rules",
   "description": "Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent magic.",
   "armor_class": 14,
@@ -6123,6 +6355,7 @@
 }
 {
   "name": "Lich",
+  "slug": "lich",
   "source": "Shadowdark Core Rules",
   "description": "A wizard who has completed a necromantic ritual to become a mighty, undead sorcerer. Its withered body is draped in moldering, silk robes, and red marshlights burn in its eyes.",
   "armor_class": 16,
@@ -6175,7 +6408,8 @@
 }
 {
   "name": "Ankheg",
-  "source": "",
+  "slug": "ankheg",
+  "source": "Shadowdark Core Rules",
   "description": "Horse-sized, rust-brown insects. They burrow vast, underground warrens into the bedrock.",
   "armor_class": 14,
   "armor_type": null,
@@ -6194,6 +6428,7 @@
 }
 {
   "name": "Drow, Priestess",
+  "slug": "drow_priestess",
   "source": "Shadowdark Core Rules",
   "description": "A statuesque female drow with a crown of metal spider webs and an imperious gaze.",
   "armor_class": 16,
@@ -6234,6 +6469,7 @@
 }
 {
   "name": "Ogre",
+  "slug": "ogre",
   "source": "Shadowdark Core Rules",
   "description": "A massive, dim-witted brute with tusks and a heavy frame. Often lords over goblins or orcs.",
   "armor_class": 9,
@@ -6253,6 +6489,7 @@
 }
 {
   "name": "Cyclops",
+  "slug": "cyclops",
   "source": "Shadowdark Core Rules",
   "description": "Reclusive, one-eyed giants towering 20' high. They live simply on remote farmlands.",
   "armor_class": 11,
@@ -6272,6 +6509,7 @@
 }
 {
   "name": "Zombie",
+  "slug": "zombie",
   "source": "Shadowdark Core Rules",
   "description": "Lurching and decomposed undead that hunt in mobs.",
   "armor_class": 8,
@@ -6300,6 +6538,7 @@
 }
 {
   "name": "Rathgamnon",
+  "slug": "rathgamnon",
   "source": "Shadowdark Core Rules",
   "description": "A pearl-white lion with feathered wings that stands twenty feet tall. Rathgamnon is Madeera the Covenant's mightiest servant; his blank eyes see far into the depths of time and space. He spends all eternity watching the whirl of the stars from the highest mountain in the realm of mortals, waiting for the celestial alignments that prophesy epochs of weal and woe, titanic changes to the balance of power in the cosmos, or threats to the laws of reality itself.",
   "armor_class": 17,
@@ -6352,6 +6591,7 @@
 }
 {
   "name": "Elemental, Fire Greater",
+  "slug": "elemental_fire_greater",
   "source": "Shadowdark Core Rules",
   "description": "A roaring column of flames.",
   "armor_class": 15,
@@ -6380,6 +6620,7 @@
 }
 {
   "name": "Thug",
+  "slug": "thug",
   "source": "Shadowdark Core Rules",
   "description": "A bruised and boorish ruffian.",
   "armor_class": 13,
@@ -6399,6 +6640,7 @@
 }
 {
   "name": "Owlbear",
+  "slug": "owlbear",
   "source": "Shadowdark Core Rules",
   "description": "Cantankerous bears with owl eyes, beaks, and feathers.",
   "armor_class": 13,
@@ -6423,6 +6665,7 @@
 }
 {
   "name": "Bear, Brown",
+  "slug": "bear_brown",
   "source": "Shadowdark Core Rules",
   "description": "A hulking, swaying brute with claws as long as a finger.",
   "armor_class": 13,
