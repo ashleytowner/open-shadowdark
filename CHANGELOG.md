@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.0.0...v1.1.0) (2025-05-13)
+
+
+### Features
+
+* Add stylesheet ([76b80ce](https://github.com/ashleytowner/open-shadowdark/commit/76b80ce42fe92357eff918265faa4092923e25a4))
+* Serve static files ([e32c8a2](https://github.com/ashleytowner/open-shadowdark/commit/e32c8a2561eb04dd0a07f2d0e75d7f6dba6ae574))
+
+
+### Bug Fixes
+
+* Syntax error in core.json ([2416160](https://github.com/ashleytowner/open-shadowdark/commit/2416160ae96a5bfb3b7176b5b5f53e7be3587347))
+
 ## 1.0.0 (2025-05-13)
 
 
