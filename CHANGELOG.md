@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.0.1...v2.1.0) (2025-05-14)
+
+
+### Features
+
+* Add monster traits ([f2b0a57](https://github.com/ashleytowner/open-shadowdark/commit/f2b0a5776915aca204d4d3cfb0640e602e3ef313))
+
+
+### Bug Fixes
+
+* Remove JSON exports for now to avoid outputting sensitive info ([10b496d](https://github.com/ashleytowner/open-shadowdark/commit/10b496d563dd4cfdb2055c7c643032e0137e1584))
+
 ## [2.0.1](https://github.com/ashleytowner/open-shadowdark/compare/v2.0.0...v2.0.1) (2025-05-14)
 
 
