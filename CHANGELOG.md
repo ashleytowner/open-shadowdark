@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.4.0...v2.0.0) (2025-05-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Genericised data loading
+
+### Features
+
+* Added Ashley's homebrew ([7be2c78](https://github.com/ashleytowner/open-shadowdark/commit/7be2c7861d9273f7b6f83bf994ec5c918cb5adb3))
+* Added source listings ([727650d](https://github.com/ashleytowner/open-shadowdark/commit/727650da476e10996d34127f0a46c3f88a795109))
+
+
+### Code Refactoring
+
+* Genericised data loading ([2dc9366](https://github.com/ashleytowner/open-shadowdark/commit/2dc93665229f393d37aa6da7cc6c81966d2b393f))
+
 ## [1.4.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.3.0...v1.4.0) (2025-05-14)
 
 
