@@ -1,8 +1,6 @@
 const copyButtons = document.querySelectorAll('button[data-copy]');
-console.log(copyButtons);
 copyButtons.forEach(button => {
 	button.addEventListener('click', () => {
-		console.log(document.location.href);
 		fetch(document.location.href, {
 			method: 'GET',
 			headers: {

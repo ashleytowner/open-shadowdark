@@ -24,6 +24,9 @@ app.use(express.static(path.join(__dirname, "../public")));
 
   app.get("/:source", async (req, res) => {
     const manifest = getManifest(req.params.source);
+    if (!manifest) {
+      return res.sendStatus(404);
+    }
     res.render("list", {
       title: manifest.source,
       route: req.params.source,
@@ -37,15 +40,18 @@ app.use(express.static(path.join(__dirname, "../public")));
   });
 
   app.get("/:source/:type", async (req, res) => {
-    let { items, manifest } = await getDataList(
-      req.params.source,
-      req.params.type,
-    );
+    const dataList = await getDataList(req.params.source, req.params.type);
+    if (!dataList) {
+      return res.sendStatus(404);
+    }
+    const { items, manifest } = dataList;
+    if (!manifest) {
+      return res.sendStatus(404);
+    }
     if (req.query.search) {
-      items = items.filter((monster) => {
+      items = items.filter((item) => {
         return (
-          monster.name.toLowerCase().indexOf(req.query.search.toLowerCase()) !==
-          -1
+          item.name.toLowerCase().indexOf(req.query.search.toLowerCase()) !== -1
         );
       });
     }
@@ -60,16 +66,23 @@ app.use(express.static(path.join(__dirname, "../public")));
   });
 
   app.get("/:source/:type/:slug", async (req, res) => {
-    const monster = await getDataItem(
+    const dataItem = await getDataItem(
       req.params.source,
       req.params.type,
       req.params.slug,
     );
+    if (!dataItem) {
+      return res.sendStatus(404);
+    }
+    const { item, manifest } = dataItem;
+    if (!manifest) {
+      return res.sendStatus(404);
+    }
     if (req.accepts("text/html")) {
-      res.render(req.params.type, monster);
+      res.render(req.params.type, { ...item, manifest });
     } else if (req.accepts("text/markdown")) {
       res.set("Content-Type", "text/markdown");
-      res.render(`${req.params.type}-md`, monster);
+      res.render(`${req.params.type}-md`, { ...item, manifest });
     }
   });
 

@@ -45,10 +45,14 @@ async function findManifestFiles(dir) {
  */
 async function loadData(dir) {
   const manifests = await findManifestFiles(dir);
-	const sources = manifests.map(manifest => ({ name: manifest.source, slug: manifest.slug }));
+  const sources = manifests.map((manifest) => ({
+    name: manifest.source,
+    slug: manifest.slug,
+  }));
   /**
    * Get a manifest file from the source slug
    * @param {string} source the source slug
+	 * @returns {Manifest | undefined}
    */
   const getManifest = (source) => {
     const matchingManifest = manifests.find(
@@ -64,6 +68,7 @@ async function loadData(dir) {
    * Get a list of a certain type from a certain source
    * @param {string} source the source it comes from
    * @param {string} type the type of object it is
+	 * @returns {Promise<{ items: DataItem[]; manifest: Manifest | undefined } | undefined>}
    */
   const getDataList = async (source, type) => {
     const matchingManifest = getManifest(source);
@@ -81,15 +86,17 @@ async function loadData(dir) {
    * @param {string} source the source it comes from
    * @param {string} type the type of object it is
    * @param {string} slug the slug for the object
+	 * @returns {Promise<{ item: DataItem; manifest: Manifest | undefined } | undefined>}
    */
   const getDataItem = async (source, type, slug) => {
     const { items, manifest } = await getDataList(source, type);
+    /** @type {DataItem} */
     const item = items.find((item) => item.slug === slug);
     if (!item) {
       console.error(`There was no item matching ${slug}`);
       return undefined;
     }
-    return { ...item, manifest };
+    return { item, manifest };
   };
   return { getManifest, getDataList, getDataItem, sources };
 }
