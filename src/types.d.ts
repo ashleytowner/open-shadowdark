@@ -1,5 +1,10 @@
-type DataKey = "monsters" | "magicItems" | "spells";
+type DataKey = "monsters" | "magicItems" | "spells" | "traits";
 type Alignment = "L" | "N" | "C";
+
+type Trait = {
+	name: string;
+	description: string;
+}
 
 type Manifest = {
 	source: string;
@@ -27,10 +32,7 @@ type Monster = {
 	charisma: number;
 	alignment: Alignment;
 	level: number;
-	traits: {
-		name: string;
-		description: string;
-	}[];
+	traits: Trait[];
 };
 
 type Spell = {
@@ -47,10 +49,7 @@ type MagicItem = {
 	name: string;
 	slug: string;
 	description: string;
-	traits: {
-		name: string;
-		description: string;
-	}[];
+	traits: Trait[];
 };
 
-type DataItem = Monster | Spell | MagicItem;
+type DataItem = Monster | Spell | MagicItem | Trait;

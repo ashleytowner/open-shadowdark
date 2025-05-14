@@ -9,6 +9,7 @@
   "data": {
     "monster": "./monsters.json",
     "magicItem": "./magic_items.json",
-    "spell": "./spells.json"
+    "spell": "./spells.json",
+    "trait": "./traits.json"
   }
 }

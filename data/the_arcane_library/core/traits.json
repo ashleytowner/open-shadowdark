@@ -1,0 +1,1677 @@
+[
+  {
+    "name": "Abjure (WIS Spell)",
+    "description": "DC 13. Self. End any hostile magical effects affecting Rathgamnon.",
+    "slug": "abjure_(wis_spell)-0"
+  },
+  {
+    "name": "Abolish (WIS Spell)",
+    "description": "DC 13. One target in far takes 5d8 damage.",
+    "slug": "abolish_(wis_spell)-1"
+  },
+  {
+    "name": "Absorb (INT Spell)",
+    "description": "DC 13. Near, one target. Target loses the ability to cast one random spell until completing a rest, and Mordanticus regains a lost spell of the same tier or less.",
+    "slug": "absorb_(int_spell)-2"
+  },
+  {
+    "name": "Agony (CHA Spell)",
+    "description": "DC 14. One target in near takes 3d8 damage.",
+    "slug": "agony_(cha_spell)-3"
+  },
+  {
+    "name": "Alert",
+    "description": "ADV on checks to detect sneaking or hiding creatures.",
+    "slug": "alert-4"
+  },
+  {
+    "name": "Alert",
+    "description": "Cannot be surprised.",
+    "slug": "alert-5"
+  },
+  {
+    "name": "Ambush",
+    "description": "Deal an extra die of damage when undetected.",
+    "slug": "ambush-6"
+  },
+  {
+    "name": "Amulet of Rahm-Hotep",
+    "description": "In place of attacks, teleport to a random location in the multiverse.",
+    "slug": "amulet_of_rahm-hotep-7"
+  },
+  {
+    "name": "Anchor (WIS Spell)",
+    "description": "DC 14. One target in far DC 18 STR or bound and anchored by chains of golden runes for 1d4 rounds.",
+    "slug": "anchor_(wis_spell)-8"
+  },
+  {
+    "name": "Animate Plants",
+    "description": "1/day, in place of attacks. Vines grab at all enemies within double near of dragon. DC 15 DEX or unable to move 1d4 rounds.",
+    "slug": "animate_plants-9"
+  },
+  {
+    "name": "Animate Tree",
+    "description": "2/day. In place of attacks, one tree within near awakens as a treant ally without this ability. Reverts back in 1 day.",
+    "slug": "animate_tree-10"
+  },
+  {
+    "name": "Anoint (WIS Spell)",
+    "description": "DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds.",
+    "slug": "anoint_(wis_spell)-11"
+  },
+  {
+    "name": "Arcane Armor (INT Spell)",
+    "description": "Self. DC 12. AC 16 for 2d4 rounds.",
+    "slug": "arcane_armor_(int_spell)-12"
+  },
+  {
+    "name": "Attach",
+    "description": "Attach to target; bite auto-hits next round. DC 12 STR on turn to tear off.",
+    "slug": "attach-13"
+  },
+  {
+    "name": "Avalanche",
+    "description": "All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth.",
+    "slug": "avalanche-14"
+  },
+  {
+    "name": "Backstab",
+    "description": "Deal x2 damage against surprised creatures.",
+    "slug": "backstab-15"
+  },
+  {
+    "name": "Banish (INT Spell)",
+    "description": "DC 14, All extradimensional creatures within near DC 15 CHA or sent back to their home planes.",
+    "slug": "banish_(int_spell)-16"
+  },
+  {
+    "name": "Barb",
+    "description": "Each spine sticks, dealing 1d4 damage each round. DC 12 STR check on turn to remove.",
+    "slug": "barb-17"
+  },
+  {
+    "name": "Barkskin (INT Spell)",
+    "description": "Self. DC 13. AC becomes 15 for 5 rounds.",
+    "slug": "barkskin_(int_spell)-18"
+  },
+  {
+    "name": "Beguile (INT Spell)",
+    "description": "DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration.",
+    "slug": "beguile_(int_spell)-19"
+  },
+  {
+    "name": "Berserk",
+    "description": "When at or below 20 HP, +1 slam attack and slams deal double damage.",
+    "slug": "berserk-20"
+  },
+  {
+    "name": "Bewilder",
+    "description": "Creatures within near that see the cave brute's eyes, DC 12 CHA at start of their turn or dazed and no action.",
+    "slug": "bewilder-21"
+  },
+  {
+    "name": "Bind (INT Spell)",
+    "description": "DC 12. One humanoid in far paralyzed 1d4 rounds.",
+    "slug": "bind_(int_spell)-22"
+  },
+  {
+    "name": "Blast (INT Spell)",
+    "description": "DC 12. Far, one target. 2d6 damage.",
+    "slug": "blast_(int_spell)-23"
+  },
+  {
+    "name": "Blast (INT Spell)",
+    "description": "DC 14. One creature in near takes 5d8 damage.",
+    "slug": "blast_(int_spell)-24"
+  },
+  {
+    "name": "Bless",
+    "description": "3/day, touch one target to give it a luck token.",
+    "slug": "bless-25"
+  },
+  {
+    "name": "Blind",
+    "description": "One target within near DC 15 CHA or blinded for 1d4 days.",
+    "slug": "blind-26"
+  },
+  {
+    "name": "Blood Drain",
+    "description": "Obe-Ixx heals 2d8 HP, target permanently loses 1d6 CON. At 0 CON, target dies and rises as a loyal vampire or vampire spawn (Obe-Ixx chooses).",
+    "slug": "blood_drain-27"
+  },
+  {
+    "name": "Blood Drain",
+    "description": "Attach to bitten target; auto-hit the next round. DC 9 STR on turn to remove.",
+    "slug": "blood_drain-28"
+  },
+  {
+    "name": "Blood Drain",
+    "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as vampire or vampire spawn (vampire chooses).",
+    "slug": "blood_drain-29"
+  },
+  {
+    "name": "Blood Drain",
+    "description": "Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as a vampire spawn.",
+    "slug": "blood_drain-30"
+  },
+  {
+    "name": "Bloodlust",
+    "description": "+2 damage with melee weapons (included).",
+    "slug": "bloodlust-31"
+  },
+  {
+    "name": "Bottomless Bag",
+    "description": "Contains 200 gear slots in magical sub-pockets. Weighs as much as a normal backpack. The Wandering Merchant can summon it to himself from anywhere by snapping his fingers.",
+    "slug": "bottomless_bag-32"
+  },
+  {
+    "name": "Bound",
+    "description": "A secret, mundane contingency (such as the touch of a feather) ends the invisible stalker's magical servitude.",
+    "slug": "bound-33"
+  },
+  {
+    "name": "Brutal",
+    "description": "+1 damage with melee weapons (included).",
+    "slug": "brutal-34"
+  },
+  {
+    "name": "Bug Brain (WIS Spell)",
+    "description": "DC 13. Near range, one target. Target's INT drops to 1 for 1d4 rounds.",
+    "slug": "bug_brain_(wis_spell)-35"
+  },
+  {
+    "name": "Camouflage",
+    "description": "Hard to see in cave terrain or rocks.",
+    "slug": "camouflage-36"
+  },
+  {
+    "name": "Cancel (INT Spell)",
+    "description": "DC 13. End one spell affecting a target within near.",
+    "slug": "cancel_(int_spell)-37"
+  },
+  {
+    "name": "Carrion Mist",
+    "description": "Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds.",
+    "slug": "carrion_mist-38"
+  },
+  {
+    "name": "Carrion Stench",
+    "description": "Living creatures DC 12 CON the first time within near or DISADV on attacks and spellcasting for 5 rounds.",
+    "slug": "carrion_stench-39"
+  },
+  {
+    "name": "Carrion Tracker",
+    "description": "Can track dead flesh unerringly within a mile.",
+    "slug": "carrion_tracker-40"
+  },
+  {
+    "name": "Change Shape",
+    "description": "In place of attacks, transform into any similarly-sized creature.",
+    "slug": "change_shape-41"
+  },
+  {
+    "name": "Change Shape",
+    "description": "In place of attacks, transform into any similarly-sized humanoid.",
+    "slug": "change_shape-42"
+  },
+  {
+    "name": "Charge",
+    "description": "Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage.",
+    "slug": "charge-43"
+  },
+  {
+    "name": "Charge",
+    "description": "Move up to double near in straight line and make 1 gore attack. If hit, x3 damage.",
+    "slug": "charge-44"
+  },
+  {
+    "name": "Charge",
+    "description": "In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage.",
+    "slug": "charge-45"
+  },
+  {
+    "name": "Charge",
+    "description": "Move up to double near in straight line and make 1 horn attack. If hit, x3 damage.",
+    "slug": "charge-46"
+  },
+  {
+    "name": "Charm",
+    "description": "One humanoid in near DC 15 CHA or bewitched by cubi for 1d6 hours.",
+    "slug": "charm-47"
+  },
+  {
+    "name": "Charm",
+    "description": "Near, one creature, DC 14 CHA or friendship for 1d8 days.",
+    "slug": "charm-48"
+  },
+  {
+    "name": "Charm",
+    "description": "One humanoid target who can see Obe-Ixx within near, DC 15 CHA or under Obe-Ixx's control for 1d4 days.",
+    "slug": "charm-49"
+  },
+  {
+    "name": "Charm",
+    "description": "One humanoid target who can see vampire within near, DC 15 CHA or under vampire's control for 1d4 days.",
+    "slug": "charm-50"
+  },
+  {
+    "name": "Clever",
+    "description": "+1d4 damage when attacking with surprise.",
+    "slug": "clever-51"
+  },
+  {
+    "name": "Command",
+    "description": "DC 18 CHA to resist an archangel's command.",
+    "slug": "command-52"
+  },
+  {
+    "name": "Conjure Flames (INT Spell)",
+    "description": "DC 12. One target in far takes 2d6 damage.",
+    "slug": "conjure_flames_(int_spell)-53"
+  },
+  {
+    "name": "Constrict",
+    "description": "Contested STR to hold target immobile for one round.",
+    "slug": "constrict-54"
+  },
+  {
+    "name": "Contract",
+    "description": "Can grant mighty boons and patronage on behalf of an archdevil in exchange for a sworn soul. ADV on related Charisma checks.",
+    "slug": "contract-55"
+  },
+  {
+    "name": "Corrosive",
+    "description": "Wood or metal that touches the ooze dissolves on a d6 roll of 1-3.",
+    "slug": "corrosive-56"
+  },
+  {
+    "name": "Corrosive",
+    "description": "Nonmagical metal that touches the ooze dissolves on a d6 roll of 1-3.",
+    "slug": "corrosive-57"
+  },
+  {
+    "name": "Corrosive",
+    "description": "Metal that touches the rust monster is destroyed on a d6 roll of 1-3.",
+    "slug": "corrosive-58"
+  },
+  {
+    "name": "Crown of Darkness",
+    "description": "All hostile spells are reflected at caster with a spellcasting check less than 20.",
+    "slug": "crown_of_darkness-59"
+  },
+  {
+    "name": "Crown of Fire",
+    "description": "Hostile spells targeting the archangel are extreme (DC 18) to cast.",
+    "slug": "crown_of_fire-60"
+  },
+  {
+    "name": "Crown of Gehemna",
+    "description": "3/day, cause a spell being cast within far to fail.",
+    "slug": "crown_of_gehemna-61"
+  },
+  {
+    "name": "Crush",
+    "description": "Deals an extra die of damage if it hits the same target with both claws.",
+    "slug": "crush-62"
+  },
+  {
+    "name": "Crush",
+    "description": "DC 15 STR or target takes 1d8 damage.",
+    "slug": "crush-63"
+  },
+  {
+    "name": "Crush",
+    "description": "DC 15 STR or target takes 2d8 damage.",
+    "slug": "crush-64"
+  },
+  {
+    "name": "Crush",
+    "description": "Tentacle attacks deal double damage against objects.",
+    "slug": "crush-65"
+  },
+  {
+    "name": "Curse",
+    "description": "DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days.",
+    "slug": "curse-66"
+  },
+  {
+    "name": "Curse",
+    "description": "Slam damage can only be healed by level 5+ priest.",
+    "slug": "curse-67"
+  },
+  {
+    "name": "Darkness",
+    "description": "Extinguish all light sources in near.",
+    "slug": "darkness-68"
+  },
+  {
+    "name": "Death Bolt (INT Spell)",
+    "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.",
+    "slug": "death_bolt_(int_spell)-69"
+  },
+  {
+    "name": "Deathtouch (WIS Spell)",
+    "description": "DC 12. 2d4 damage to one creature within close.",
+    "slug": "deathtouch_(wis_spell)-70"
+  },
+  {
+    "name": "Deep Dweller",
+    "description": "Immune to harm from fire and cold. Amphibious.",
+    "slug": "deep_dweller-71"
+  },
+  {
+    "name": "Desiccated",
+    "description": "Can be damaged by fire. Takes x2 damage from it.",
+    "slug": "desiccated-72"
+  },
+  {
+    "name": "Dice of Truth",
+    "description": "A set of three six-sided dice whose rolls cannot be magically or mundanely altered in any way.",
+    "slug": "dice_of_truth-73"
+  },
+  {
+    "name": "Dire Shapechange",
+    "description": "In place of attacks, turn into a giant bat, dire wolf, or back into regular form.",
+    "slug": "dire_shapechange-74"
+  },
+  {
+    "name": "Disease",
+    "description": "DC 15 CON or infected. DC 15 CON each day or lose 1d6 HP (can't heal). Ends on success.",
+    "slug": "disease-75"
+  },
+  {
+    "name": "Disease",
+    "description": "DC 9 CON or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.",
+    "slug": "disease-76"
+  },
+  {
+    "name": "Disease",
+    "description": "DC 12 CON or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.",
+    "slug": "disease-77"
+  },
+  {
+    "name": "Dissolve",
+    "description": "One random piece of non-magical gear the target carries is destroyed.",
+    "slug": "dissolve-78"
+  },
+  {
+    "name": "Dodge",
+    "description": "1/day, an attack that would hit misses instead.",
+    "slug": "dodge-79"
+  },
+  {
+    "name": "Drain",
+    "description": "The target takes 1d6 WIS damage. A target reduced to 0 WIS this way swears its soul to an archdevil.",
+    "slug": "drain-80"
+  },
+  {
+    "name": "Drain",
+    "description": "Target takes 1 STR damage. At 0 STR, target dies and becomes a shadow.",
+    "slug": "drain-81"
+  },
+  {
+    "name": "Drink Pain",
+    "description": "Near range. DC 12 CHA to deal 2d4 damage to a creature; regain that many HP.",
+    "slug": "drink_pain-82"
+  },
+  {
+    "name": "Enervate (INT Spell)",
+    "description": "DC 14. Focus. One target within near is stupefied for the duration.",
+    "slug": "enervate_(int_spell)-83"
+  },
+  {
+    "name": "Engulf",
+    "description": "DC 12 STR or trapped inside cube. Touch attack auto- hits engulfed targets each round. DC 12 STR on turn to escape. Fail checks if paralyzed.",
+    "slug": "engulf-84"
+  },
+  {
+    "name": "Engulf",
+    "description": "If a target is hit by both slams in same round, it is pulled into shambling mound's body and suffocates in 2d4 rounds. DC 15 STR on turn to escape.",
+    "slug": "engulf-85"
+  },
+  {
+    "name": "Enlarge",
+    "description": "1/day, +1d6 damage on melee attacks and ADV on STR checks for 3 rounds.",
+    "slug": "enlarge-86"
+  },
+  {
+    "name": "Enslave",
+    "description": "In place of attacks, one creature within far DC 15 WIS or aboleth controls for 1d4 rounds.",
+    "slug": "enslave-87"
+  },
+  {
+    "name": "Execute",
+    "description": "Deals x3 damage against surprised targets.",
+    "slug": "execute-88"
+  },
+  {
+    "name": "Explosion",
+    "description": "Upon death, creatures within double near of phoenix DC 18 DEX or 10d6 damage.",
+    "slug": "explosion-89"
+  },
+  {
+    "name": "Eyestalk Ray",
+    "description": "Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target).\n1. Charm. DC 15 CHA or become ally for 1d4 rounds.\n2. Hold. DC 15 STR or paralyzed 1d4 rounds.\n3. Sleep. DC 15 WIS or asleep 1d4 rounds.\n4. Polymorph. DC 15 INT or turned into vermin for 1d4 rounds.\n5. Cancel. DC 15 DEX or all magical effects on target end.\n6. Confusion. DC 15 WIS or attack a random ally within near.\n7. Telekinesis. DC 15 STR or hover target up to double near.\n8. Disintegrate. DC 15 DEX or 5d8 damage (object destroyed).\n9. Petrify. DC 15 CON or petrified.\n10. Death. DC 15 CON or drop to 0 HP with a death timer of 1.",
+    "slug": "eyestalk_ray-90"
+  },
+  {
+    "name": "Fade (CHA Spell)",
+    "description": "DC 13. Self. Become invisible for 1d4 rounds.",
+    "slug": "fade_(cha_spell)-91"
+  },
+  {
+    "name": "Fearless",
+    "description": "Immune to morale checks.",
+    "slug": "fearless-92"
+  },
+  {
+    "name": "Feyblood",
+    "description": "ADV on DEX checks while in the natural wilds.",
+    "slug": "feyblood-93"
+  },
+  {
+    "name": "Fire Breath",
+    "description": "Fills a near-sized cube extending from chimera. DC 15 DEX or 4d6 damage.",
+    "slug": "fire_breath-94"
+  },
+  {
+    "name": "Fire Breath",
+    "description": "Fills a double near- sized cube extending from dragon. DC 15 DEX or 6d10 damage.",
+    "slug": "fire_breath-95"
+  },
+  {
+    "name": "Fire Breath",
+    "description": "Fills a near-sized cube extending from hell hound. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds.",
+    "slug": "fire_breath-96"
+  },
+  {
+    "name": "Fireblast (INT Spell)",
+    "description": "DC 14. 4d6 damage to all within a near- sized cube within far.",
+    "slug": "fireblast_(int_spell)-97"
+  },
+  {
+    "name": "Fireblood",
+    "description": "Fire immune.",
+    "slug": "fireblood-98"
+  },
+  {
+    "name": "Flight (INT Spell)",
+    "description": "Self. DC 13. Fly double near for 5 rounds.",
+    "slug": "flight_(int_spell)-99"
+  },
+  {
+    "name": "Float (INT Spell)",
+    "description": "Self. DC 14. Fly double near for 5 rounds.",
+    "slug": "float_(int_spell)-100"
+  },
+  {
+    "name": "Fool's Gold (CHA Spell)",
+    "description": "DC 12. Close. One small object or small group of similar objects. Turn objects into silver or gold pieces. Lasts 1 day.",
+    "slug": "fool's_gold_(cha_spell)-101"
+  },
+  {
+    "name": "Frost Breath",
+    "description": "Fills a near-sized cube extending from winter wolf. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds.",
+    "slug": "frost_breath-102"
+  },
+  {
+    "name": "Frostblood",
+    "description": "Cold immune.",
+    "slug": "frostblood-103"
+  },
+  {
+    "name": "Gas",
+    "description": "All in near DC 12 CON or blinded for 1d4 rounds.",
+    "slug": "gas-104"
+  },
+  {
+    "name": "Gate (WIS Spell)",
+    "description": "DC 14. Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed.",
+    "slug": "gate_(wis_spell)-105"
+  },
+  {
+    "name": "Gibbering",
+    "description": "Creatures within near DC 12 WIS on turn or take a random action (d8): 1-3. do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee.",
+    "slug": "gibbering-106"
+  },
+  {
+    "name": "Godborn",
+    "description": "Hostile spells targeting the medusa are DC 15 to cast.",
+    "slug": "godborn-107"
+  },
+  {
+    "name": "Golem",
+    "description": "Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid.",
+    "slug": "golem-108"
+  },
+  {
+    "name": "Golem",
+    "description": "Immune to damage from fire, cold, or non-magical sources. Healed by electricity.",
+    "slug": "golem-109"
+  },
+  {
+    "name": "Golem",
+    "description": "Immune to damage from cold or non-magical sources. Healed by fire.",
+    "slug": "golem-110"
+  },
+  {
+    "name": "Golem",
+    "description": "Immune to damage from fire, cold, electricity, or non-magical sources.",
+    "slug": "golem-111"
+  },
+  {
+    "name": "Gore",
+    "description": "Deals an extra die of damage if it hits the same target with both tusks.",
+    "slug": "gore-112"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 15 STR or held in pincer. DC 15 STR on turn to break free.",
+    "slug": "grab-113"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 18 STR or target bound in whip. 2d6 damage per round held, DC 18 STR on turn to break free. In place of fire whip attack, balor can fling a grabbed target double near on its turn.",
+    "slug": "grab-114"
+  },
+  {
+    "name": "Grab",
+    "description": "Target is immobilized. DC 15 Strength check on turn to break free.",
+    "slug": "grab-115"
+  },
+  {
+    "name": "Grab",
+    "description": "One target in near DC 15 STR or wrapped in grimlow's tongue and pulled into its mouth. Bite attacks automatically hit the target. Can only grab 1 target at a time. DC 15 STR on turn to break free.",
+    "slug": "grab-116"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 15 STR or immobilized. Tentacle auto-hits each round. DC 15 STR on turn to break free.",
+    "slug": "grab-117"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 15 STR or held. DC 15 STR on turn to break free.",
+    "slug": "grab-118"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 18 STR or target held. DC 18 STR on turn to break free.",
+    "slug": "grab-119"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 15 STR or target trapped in tendril. Tendril auto- hits target next round. DC 15 STR on turn to break free.",
+    "slug": "grab-120"
+  },
+  {
+    "name": "Grab",
+    "description": "DC 12 STR or target held. DC 12 STR on turn to break free.",
+    "slug": "grab-121"
+  },
+  {
+    "name": "Greater Undead",
+    "description": "Immune to morale checks. Only damaged by silver or magical sources.",
+    "slug": "greater_undead-122"
+  },
+  {
+    "name": "Half-Amphibious",
+    "description": "Must be submerged in water every 4 hours or suffocates.",
+    "slug": "half-amphibious-123"
+  },
+  {
+    "name": "Heads",
+    "description": "Choose how many heads the hydra has. Each is LV 2, AC 15, HP 11, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the hydra's turn unless cauterized beforehand. The hydra's LV is all the heads combined.",
+    "slug": "heads-124"
+  },
+  {
+    "name": "Healing Horn",
+    "description": "A touch heals 2d6 HP or ends one curse or disease.",
+    "slug": "healing_horn-125"
+  },
+  {
+    "name": "Healing Touch (WIS Spell)",
+    "description": "DC 11. Heal one creature within close for 1d4 HP.",
+    "slug": "healing_touch_(wis_spell)-126"
+  },
+  {
+    "name": "Healing Touch (WIS Spell)",
+    "description": "DC 11. Heal one creature within close for 2d4 HP.",
+    "slug": "healing_touch_(wis_spell)-127"
+  },
+  {
+    "name": "Hear Thoughts",
+    "description": "Can hear the surface thoughts of all intelligent creatures within near.",
+    "slug": "hear_thoughts-128"
+  },
+  {
+    "name": "Heat Aura",
+    "description": "Creatures within near of phoenix at start of turn DC 15 CON or 2d6 damage.",
+    "slug": "heat_aura-129"
+  },
+  {
+    "name": "Heat Aura",
+    "description": "Creatures in close DC 12 CON on turn or 1d8 damage.",
+    "slug": "heat_aura-130"
+  },
+  {
+    "name": "Hellfire",
+    "description": "DC 18 DEX or 2d8 damage per round until flames extinguished.",
+    "slug": "hellfire-131"
+  },
+  {
+    "name": "Hellfrost (CHA Spell)",
+    "description": "DC 13. All within near-sized cube extending from oni 3d6 damage.",
+    "slug": "hellfrost_(cha_spell)-132"
+  },
+  {
+    "name": "Hiss (INT Spell)",
+    "description": "DC 12. End one spell within far.",
+    "slug": "hiss_(int_spell)-133"
+  },
+  {
+    "name": "Holy Flame (WIS Spell)",
+    "description": "DC 13. Self. Weapons ignite in magic flames and deal an additional 1d6 damage for 5 rounds.",
+    "slug": "holy_flame_(wis_spell)-134"
+  },
+  {
+    "name": "Horn",
+    "description": "All enemies in near DC 15 CHA or paralyzed 1d4 rounds.",
+    "slug": "horn-135"
+  },
+  {
+    "name": "Hypnotize (CHA Spell)",
+    "description": "DC 13. Focus. One target in near range who can see naga is helplessly stupefied for duration.",
+    "slug": "hypnotize_(cha_spell)-136"
+  },
+  {
+    "name": "Ice Aura",
+    "description": "Enemies within near of rime walker DC 12 CON at start of turn or lose action.",
+    "slug": "ice_aura-137"
+  },
+  {
+    "name": "Ice Breath",
+    "description": "Fills a double near- sized cube extending from dragon. DC 15 DEX or 4d8 damage and frozen for 1 round.",
+    "slug": "ice_breath-138"
+  },
+  {
+    "name": "Illusion (CHA Spell)",
+    "description": "DC 11. Create a convincing visual and/ or auditory illusion within near. Lasts until dismissed.",
+    "slug": "illusion_(cha_spell)-139"
+  },
+  {
+    "name": "Imbue (INT Spell)",
+    "description": "Self. DC 13. Staff becomes a +3 magic weapon for 10 rounds.",
+    "slug": "imbue_(int_spell)-140"
+  },
+  {
+    "name": "Impervious",
+    "description": "Fire immune. Only damaged by magical sources.",
+    "slug": "impervious-141"
+  },
+  {
+    "name": "Impervious",
+    "description": "Fire immune.",
+    "slug": "impervious-142"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only damaged by fire.",
+    "slug": "impervious-143"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only damaged by magical sources.",
+    "slug": "impervious-144"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only damaged by magical sources. Fire immune.",
+    "slug": "impervious-145"
+  },
+  {
+    "name": "Impervious",
+    "description": "Immune to damage from acid, cold, or fire.",
+    "slug": "impervious-146"
+  },
+  {
+    "name": "Impervious",
+    "description": "Electricity immune.",
+    "slug": "impervious-147"
+  },
+  {
+    "name": "Impervious",
+    "description": "Nightmare and its rider immune to fire.",
+    "slug": "impervious-148"
+  },
+  {
+    "name": "Impervious",
+    "description": "Immune to fire. Only damaged by magical sources.",
+    "slug": "impervious-149"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only harmed by fire.",
+    "slug": "impervious-150"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower.",
+    "slug": "impervious-151"
+  },
+  {
+    "name": "Impervious",
+    "description": "Immune to cold and fire.",
+    "slug": "impervious-152"
+  },
+  {
+    "name": "Impervious",
+    "description": "Immune to cold.",
+    "slug": "impervious-153"
+  },
+  {
+    "name": "Impervious",
+    "description": "Can only be damaged by magical sources.",
+    "slug": "impervious-154"
+  },
+  {
+    "name": "Impervious",
+    "description": "Fire immune. Healed by electricity.",
+    "slug": "impervious-155"
+  },
+  {
+    "name": "Impervious",
+    "description": "Cold and fire immune.",
+    "slug": "impervious-156"
+  },
+  {
+    "name": "Impervious",
+    "description": "Can only be harmed by magical sources.",
+    "slug": "impervious-157"
+  },
+  {
+    "name": "Impervious",
+    "description": "Only damaged by silver or magic sources.",
+    "slug": "impervious-158"
+  },
+  {
+    "name": "Impervious",
+    "description": "Cold immune.",
+    "slug": "impervious-159"
+  },
+  {
+    "name": "Incorporeal",
+    "description": "In place of attacks, become corporeal or incorporeal.",
+    "slug": "incorporeal-160"
+  },
+  {
+    "name": "Inferno",
+    "description": "All within near DC 15 DEX or 3d8 damage.",
+    "slug": "inferno-161"
+  },
+  {
+    "name": "Ink",
+    "description": "In place of attacks, ink cloud blinds all in near for 1d4 rounds.",
+    "slug": "ink-162"
+  },
+  {
+    "name": "Invisibility",
+    "description": "1/day, turn invisible for 3 rounds. Ends if duergar attacks.",
+    "slug": "invisibility-163"
+  },
+  {
+    "name": "Invisibility (CHA Spell)",
+    "description": "DC 12. Self. Become invisible for 2d4 rounds.",
+    "slug": "invisibility_(cha_spell)-164"
+  },
+  {
+    "name": "Invisible",
+    "description": "Naturally invisible.",
+    "slug": "invisible-165"
+  },
+  {
+    "name": "Iron Hide",
+    "description": "Half damage from non-magical weapons.",
+    "slug": "iron_hide-166"
+  },
+  {
+    "name": "Keen Senses",
+    "description": "Can't be surprised.",
+    "slug": "keen_senses-167"
+  },
+  {
+    "name": "Knock",
+    "description": "DC 9 STR or pushed a close distance and fall down.",
+    "slug": "knock-168"
+  },
+  {
+    "name": "Latch",
+    "description": "Tentacles attach to hit targets, automatically hitting the next round (DC 12 STR on turn to remove 1d4 tentacles). If all four remain latched onto the same humanoid target for 1 round, the target's brain is ripped out and devoured.",
+    "slug": "latch-169"
+  },
+  {
+    "name": "Latch",
+    "description": "Attach to bitten target; bites auto-hit next round. DC 12 STR on turn to tear off.",
+    "slug": "latch-170"
+  },
+  {
+    "name": "Leap",
+    "description": "Jump up to near in height and double near in distance, then make 2 bite attacks.",
+    "slug": "leap-171"
+  },
+  {
+    "name": "Legendary",
+    "description": "Only damaged by magical sources. Hostile spells targeting Rathgamnon are DC 18 to cast.",
+    "slug": "legendary-172"
+  },
+  {
+    "name": "Legendary",
+    "description": "Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast.",
+    "slug": "legendary-173"
+  },
+  {
+    "name": "Legendary",
+    "description": "Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast.",
+    "slug": "legendary-174"
+  },
+  {
+    "name": "Legendary",
+    "description": "Only damaged by magical sources. Hostile spells targeting The Wandering Merchant are DC 18 to cast.",
+    "slug": "legendary-175"
+  },
+  {
+    "name": "Legendary Undead",
+    "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Mordanticus are DC 18 to cast.",
+    "slug": "legendary_undead-176"
+  },
+  {
+    "name": "Legendary Undead",
+    "description": "Immune to morale checks. Only damaged by magical sources. Hostile spells targeting Obe-Ixx are DC 18 to cast.",
+    "slug": "legendary_undead-177"
+  },
+  {
+    "name": "Levitate (INT Spell)",
+    "description": "DC 12. Close. Focus. Hover near for duration, vertical movement only.",
+    "slug": "levitate_(int_spell)-178"
+  },
+  {
+    "name": "Life Drain",
+    "description": "1d4 CON damage. Death if reduced to 0 CON.",
+    "slug": "life_drain-179"
+  },
+  {
+    "name": "Lightning Bolt",
+    "description": "3/day, 5' wide line extending far from giant. All creatures in line DC 15 DEX or 5d10 damage. DISADV on check if in water.",
+    "slug": "lightning_bolt-180"
+  },
+  {
+    "name": "Lightning Bolt",
+    "description": "Straight line (5' wide) extending far from kraken. DC 15 DEX or 6d6 damage.",
+    "slug": "lightning_bolt-181"
+  },
+  {
+    "name": "Lightning Breath",
+    "description": "A straight line (5' wide) extending double near from dragon. DC 15 DEX or 4d8 damage (DISADV on check if wearing metal armor).",
+    "slug": "lightning_breath-182"
+  },
+  {
+    "name": "Lop",
+    "description": "On a natural attack roll of 18-20, behead the target.",
+    "slug": "lop-183"
+  },
+  {
+    "name": "Lycanthropy",
+    "description": "If 12 or more damage from the same wererat, contract lycanthropy.",
+    "slug": "lycanthropy-184"
+  },
+  {
+    "name": "Lycanthropy",
+    "description": "If 12 or more damage from the same werewolf, contract lycanthropy.",
+    "slug": "lycanthropy-185"
+  },
+  {
+    "name": "Magic Bolt (INT Spell)",
+    "description": "DC 11. 1d4 damage to one target within far.",
+    "slug": "magic_bolt_(int_spell)-186"
+  },
+  {
+    "name": "Meld",
+    "description": "Step inside bonded tree.",
+    "slug": "meld-187"
+  },
+  {
+    "name": "Melt",
+    "description": "Non-magical metal objects that touch the remorhaz melt on a d6 roll of 1-3.",
+    "slug": "melt-188"
+  },
+  {
+    "name": "Mesmerism",
+    "description": "Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid.",
+    "slug": "mesmerism-189"
+  },
+  {
+    "name": "Mind Blast",
+    "description": "Fills a near-sized cube extending from brain eater. DC 15 INT or 3d6 damage and paralyzed 1d4 rounds.",
+    "slug": "mind_blast-190"
+  },
+  {
+    "name": "Mind Control",
+    "description": "One target in near DC 15 CHA or brain eater controls for 1d4 rounds.",
+    "slug": "mind_control-191"
+  },
+  {
+    "name": "Mirage",
+    "description": "1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits dragon or illusions.",
+    "slug": "mirage-192"
+  },
+  {
+    "name": "Mist (CHA Spell)",
+    "description": "DC 13. Self. Turn into mist that can fly double near. Lasts 2d4 rounds.",
+    "slug": "mist_(cha_spell)-193"
+  },
+  {
+    "name": "Mithralskin (INT Spell)",
+    "description": "Self. DC 14. AC becomes 18 for 5 rounds.",
+    "slug": "mithralskin_(int_spell)-194"
+  },
+  {
+    "name": "Moonbite Properties",
+    "description": "+2 _greatsword_, thrown weapon, returns after being thrown. Spells to heal damage it inflicts are DC 15 to cast.",
+    "slug": "moonbite_properties-195"
+  },
+  {
+    "name": "Moonlight Aura",
+    "description": "Hostile spells targeting the principi are DC 15.",
+    "slug": "moonlight_aura-196"
+  },
+  {
+    "name": "Necrosis",
+    "description": "DC 15 CON or go to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP to due to this effect.",
+    "slug": "necrosis-197"
+  },
+  {
+    "name": "Necrosis",
+    "description": "DC 15 CON or drop to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP due to this effect.",
+    "slug": "necrosis-198"
+  },
+  {
+    "name": "Null (INT Spell)",
+    "description": "Self. DC 14. Hostile spells targeting lich are DC 18 to cast. Lasts 1d4 rounds.",
+    "slug": "null_(int_spell)-199"
+  },
+  {
+    "name": "Oath",
+    "description": "3/day, ADV on a roll made in service of knight's order.",
+    "slug": "oath-200"
+  },
+  {
+    "name": "Omens (WIS Spell)",
+    "description": "DC 12. Self. ADV on all actions for 1d4 rounds.",
+    "slug": "omens_(wis_spell)-201"
+  },
+  {
+    "name": "Pack Hunter",
+    "description": "Deals +1 damage while an ally is close.",
+    "slug": "pack_hunter-202"
+  },
+  {
+    "name": "Paralysis",
+    "description": "DC 15 CON or paralyzed 1d4 rounds.",
+    "slug": "paralysis-203"
+  },
+  {
+    "name": "Paralyze",
+    "description": "DC 12 CON or paralyzed 1d4 rounds.",
+    "slug": "paralyze-204"
+  },
+  {
+    "name": "Parry",
+    "description": "Trade 2 longsword attacks next round to deflect a melee attack that would hit.",
+    "slug": "parry-205"
+  },
+  {
+    "name": "Permanent Death",
+    "description": "Cannot be permanently killed unless a wish spell is cast on it while it is at 0 HP.",
+    "slug": "permanent_death-206"
+  },
+  {
+    "name": "Petrify",
+    "description": "Any creature that touches the basilisk or meets its gaze, DC 15 CON or petrified.",
+    "slug": "petrify-207"
+  },
+  {
+    "name": "Petrify",
+    "description": "DC 12 CON or petrified.",
+    "slug": "petrify-208"
+  },
+  {
+    "name": "Petrify",
+    "description": "Any creature (including medusa) who looks directly at medusa, DC 15 CON or petrified.",
+    "slug": "petrify-209"
+  },
+  {
+    "name": "Petrifying Breath",
+    "description": "Fills a near- sized cube extending from gorgon. DC 15 CON or petrified (gorgons immune).",
+    "slug": "petrifying_breath-210"
+  },
+  {
+    "name": "Phalanx",
+    "description": "+1 to attacks and AC when in close range of an allied hobgoblin.",
+    "slug": "phalanx-211"
+  },
+  {
+    "name": "Phantoms",
+    "description": "1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions.",
+    "slug": "phantoms-212"
+  },
+  {
+    "name": "Phase",
+    "description": "Once per round, become corporeal or incorporeal.",
+    "slug": "phase-213"
+  },
+  {
+    "name": "Phase (INT Spell)",
+    "description": "DC 13. Self. Teleport up to one mile.",
+    "slug": "phase_(int_spell)-214"
+  },
+  {
+    "name": "Phylactery",
+    "description": "Can't be killed while spirit vessel (an object) is intact.",
+    "slug": "phylactery-215"
+  },
+  {
+    "name": "Phylactery",
+    "description": "Cannot be killed while spirit vessel (a diamond) is intact.",
+    "slug": "phylactery-216"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or paralyzed 1d4 rounds.",
+    "slug": "poison-217"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or fall into natural, deep sleep for 1d8 hours.",
+    "slug": "poison-218"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or target's eyes go jet black and it turns on its allies for 1d4 rounds. DC 15 WIS on turn to end effect.",
+    "slug": "poison-219"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or fitful sleep for 1d4 hours.",
+    "slug": "poison-220"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or sleep.",
+    "slug": "poison-221"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or paralyzed 1d4 rounds.",
+    "slug": "poison-222"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or fall into deep sleep for 1d4 hours.",
+    "slug": "poison-223"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or drop to 0 hit points in 1d4 rounds.",
+    "slug": "poison-224"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or go to 0 HP.",
+    "slug": "poison-225"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 9 CON or go to 0 HP.",
+    "slug": "poison-226"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or go to 0 HP.",
+    "slug": "poison-227"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 18 CON or go to 0 HP with a death timer of 1.",
+    "slug": "poison-228"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or go to 0 HP in 1d4 rounds.",
+    "slug": "poison-229"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 9 CON or take 1d4 damage.",
+    "slug": "poison-230"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or paralyzed 1d4 hours.",
+    "slug": "poison-231"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 12 CON or drop to 0 HP in 1d4 rounds.",
+    "slug": "poison-232"
+  },
+  {
+    "name": "Poison",
+    "description": "DC 15 CON or take 2d10 damage.",
+    "slug": "poison-233"
+  },
+  {
+    "name": "Poison Breath",
+    "description": "Fills a near-sized cube extending from dragon. DC 15 CON or 3d8 damage.",
+    "slug": "poison_breath-234"
+  },
+  {
+    "name": "Poison Breath",
+    "description": "All within near, DC 15 CON or 8d6 damage.",
+    "slug": "poison_breath-235"
+  },
+  {
+    "name": "Poison Web",
+    "description": "One target stuck in place and 1d4 damage/round. DC 12 DEX on turn to escape.",
+    "slug": "poison_web-236"
+  },
+  {
+    "name": "Portent (WIS Spell)",
+    "description": "DC 14. Lasts 2d4 rounds. One target in near has advantage or disadvantage on all attack rolls and checks.",
+    "slug": "portent_(wis_spell)-237"
+  },
+  {
+    "name": "Possess",
+    "description": "Must be corporeal. One target, close range. Contested CHA check. If ghost wins, it inhabits target's body and controls it for 2d4 rounds.",
+    "slug": "possess-238"
+  },
+  {
+    "name": "Pull",
+    "description": "In place of a tendril attack, pull a grabbed target a near distance.",
+    "slug": "pull-239"
+  },
+  {
+    "name": "Rage",
+    "description": "1/day, immune to morale checks, +1d4 damage (3 rounds).",
+    "slug": "rage-240"
+  },
+  {
+    "name": "Rampage",
+    "description": "In place of attacks, move far in a straight line and make one bite attack. On a hit, triple damage.",
+    "slug": "rampage-241"
+  },
+  {
+    "name": "Rebirth",
+    "description": "A red-hot egg remains after death. Phoenix hatches from it in 1d4 days.",
+    "slug": "rebirth-242"
+  },
+  {
+    "name": "Rebuke (WIS Spell)",
+    "description": "DC 13. Focus. Chaotic creatures cannot attack priest or come within near range for duration.",
+    "slug": "rebuke_(wis_spell)-243"
+  },
+  {
+    "name": "Reckoning",
+    "description": "Any creature who steals from The Wandering Merchant develops a curse. Over the next 2d8 days, that creature turns into a cockatrice. This curse can only be lifted by a wish spell or by returning the stolen goods.",
+    "slug": "reckoning-244"
+  },
+  {
+    "name": "Reflective Carapace",
+    "description": "Immune to rays, blasts, or bolts of energy. 1:6 chance these are reflected back at their originator.",
+    "slug": "reflective_carapace-245"
+  },
+  {
+    "name": "Regenerate",
+    "description": "Regains 2d6 HP on its turn unless its wounds are cauterized with fire or acid.",
+    "slug": "regenerate-246"
+  },
+  {
+    "name": "Regenerate",
+    "description": "Regains 2d6 HP on its turn unless its wounds are cauterized with acid.",
+    "slug": "regenerate-247"
+  },
+  {
+    "name": "Regeneration",
+    "description": "Regains 4d10 lost HP at the beginning of its turn.",
+    "slug": "regeneration-248"
+  },
+  {
+    "name": "Relentless",
+    "description": "If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead.",
+    "slug": "relentless-249"
+  },
+  {
+    "name": "Restore",
+    "description": "In place of attacks, touch one creature to remove a curse, affliction, or heal 3d8 HP.",
+    "slug": "restore-250"
+  },
+  {
+    "name": "Riddle (WIS Spell)",
+    "description": "DC 12. One target in far DC 15 INT or stupefied 1d4 rounds.",
+    "slug": "riddle_(wis_spell)-251"
+  },
+  {
+    "name": "Roar",
+    "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or be rendered blind and speechless for 1d4 days.",
+    "slug": "roar-252"
+  },
+  {
+    "name": "Roar",
+    "description": "In place of attacks, all creatures who can hear within far DC 18 CHA or paralyzed 1d4 rounds.",
+    "slug": "roar-253"
+  },
+  {
+    "name": "Rubbery",
+    "description": "Half damage from stabbing weapons.",
+    "slug": "rubbery-254"
+  },
+  {
+    "name": "Savage",
+    "description": "ADV on attacks against creatures below half their HP.",
+    "slug": "savage-255"
+  },
+  {
+    "name": "Scorpion Sting (CHA Spell)",
+    "description": "DC 11. Near range, one target. 1d6 damage and target has DISADV on next attack roll or check.",
+    "slug": "scorpion_sting_(cha_spell)-256"
+  },
+  {
+    "name": "Scream",
+    "description": "Creatures who hear in double near DC 12 CHA or paralyzed for 1d4 rounds.",
+    "slug": "scream-257"
+  },
+  {
+    "name": "Screech",
+    "description": "Enemies within double near DC 15 WIS or DISADV on attacks and checks 1d4 rounds.",
+    "slug": "screech-258"
+  },
+  {
+    "name": "Screech",
+    "description": "All enemies in double near DC 12 WIS or DISADV on checks and attacks for 1d4 rounds.",
+    "slug": "screech-259"
+  },
+  {
+    "name": "Sever",
+    "description": "On a natural attack roll of 18+, the attack also severs a random limb. 1d6: 1. Head, 2-4. Arm, 5-6. Leg.",
+    "slug": "sever-260"
+  },
+  {
+    "name": "Shadow Leap (INT Spell)",
+    "description": "Self. DC 14. Teleport up to 100 miles.",
+    "slug": "shadow_leap_(int_spell)-261"
+  },
+  {
+    "name": "Shapechange",
+    "description": "Instantly change to look like any other humanoid.",
+    "slug": "shapechange-262"
+  },
+  {
+    "name": "Shapechange",
+    "description": "In place of attacks, turn into a bat, wolf, or back into regular form.",
+    "slug": "shapechange-263"
+  },
+  {
+    "name": "Shapeshift",
+    "description": "In place of attacks, turn into any humanoid or back into original form.",
+    "slug": "shapeshift-264"
+  },
+  {
+    "name": "Sigil of Doom (INT Spell)",
+    "description": "DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.",
+    "slug": "sigil_of_doom_(int_spell)-265"
+  },
+  {
+    "name": "Skitter (WIS Spell)",
+    "description": "DC 12. Self. Climb like a spider for 5 rounds.",
+    "slug": "skitter_(wis_spell)-266"
+  },
+  {
+    "name": "Slippery",
+    "description": "Hostile spells targeting the leprechaun are DC 15 to cast.",
+    "slug": "slippery-267"
+  },
+  {
+    "name": "Slow",
+    "description": "Far range, one target. DC 15 CON or speed halved 1d4 rds.",
+    "slug": "slow-268"
+  },
+  {
+    "name": "Smog Breath",
+    "description": "Fills a near-sized cube extending from dragon. DC 15 CON or 2d10 damage and blinded for 1 round.",
+    "slug": "smog_breath-269"
+  },
+  {
+    "name": "Snare (INT Spell)",
+    "description": "DC 13. Focus. One humanoid target within near paralyzed for duration.",
+    "slug": "snare_(int_spell)-270"
+  },
+  {
+    "name": "Snuff (WIS Spell)",
+    "description": "DC 12. Extinguish all light sources (even magical) within near.",
+    "slug": "snuff_(wis_spell)-271"
+  },
+  {
+    "name": "Song",
+    "description": "Enemies who can hear within double near DC 12 CHA or dazed and drawn to harpy for 1d4 rounds. Immune for 1 day if passed check.",
+    "slug": "song-272"
+  },
+  {
+    "name": "Song",
+    "description": "Enemies who can hear within double near DC 15 CHA or paralyzed 1d4 rounds. Immune for 1 day if passed check.",
+    "slug": "song-273"
+  },
+  {
+    "name": "Soulbind",
+    "description": "All targets within near DC 20 CHA or fall under control of archdevil for 1d4 rounds. DC 20 CHA on turn to end the effect.",
+    "slug": "soulbind-274"
+  },
+  {
+    "name": "Spider Swarm (CHA Spell)",
+    "description": "DC 12. A spider swarm appears within near. Stays 1d4 rounds. Follows sorcerer's commands.",
+    "slug": "spider_swarm_(cha_spell)-275"
+  },
+  {
+    "name": "Spikes",
+    "description": "Manticores have 4d6 tail spikes. They regrow each day.",
+    "slug": "spikes-276"
+  },
+  {
+    "name": "Split",
+    "description": "If cut or chopped, split into two smaller oozes (divide remaining HP between both). Can split up to four times.",
+    "slug": "split-277"
+  },
+  {
+    "name": "Statue",
+    "description": "When standing still, looks exactly like a suit of armor.",
+    "slug": "statue-278"
+  },
+  {
+    "name": "Stealthy",
+    "description": "ADV on checks to sneak and hide.",
+    "slug": "stealthy-279"
+  },
+  {
+    "name": "Stealthy",
+    "description": "ADV on DEX checks to sneak and hide.",
+    "slug": "stealthy-280"
+  },
+  {
+    "name": "Steam Breath",
+    "description": "Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage.",
+    "slug": "steam_breath-281"
+  },
+  {
+    "name": "Stick",
+    "description": "DC 15 STR or adhere to target; auto-hit with bite. DC 15 STR on turn to remove.",
+    "slug": "stick-282"
+  },
+  {
+    "name": "Stink Bomb (WIS Spell)",
+    "description": "DC 12. One target within far 2d4 damage and DC 12 CON or DISADV on next check/attack.",
+    "slug": "stink_bomb_(wis_spell)-283"
+  },
+  {
+    "name": "Stone Hide",
+    "description": "Half damage from stabbing and cutting weapons.",
+    "slug": "stone_hide-284"
+  },
+  {
+    "name": "Stone Meld",
+    "description": "2/day, underground only. Turn invisible for 3 rounds.",
+    "slug": "stone_meld-285"
+  },
+  {
+    "name": "Storm",
+    "description": "Seas become violently turbulent in 1 mile radius around kraken. Lasts 2d4 rounds. Seaborne vessels have a 1:6 chance of capsizing each round.",
+    "slug": "storm-286"
+  },
+  {
+    "name": "Stormblood",
+    "description": "Electricity immune.",
+    "slug": "stormblood-287"
+  },
+  {
+    "name": "Strange Lands",
+    "description": "The Wandering Merchant does not suffer any ill effects from the natural environment he does not wish to suffer.",
+    "slug": "strange_lands-288"
+  },
+  {
+    "name": "Strangle",
+    "description": "Deals x2 damage against surprised creatures.",
+    "slug": "strangle-289"
+  },
+  {
+    "name": "Stumpy",
+    "description": "ADV on STR checks to grab or drag other creatures.",
+    "slug": "stumpy-290"
+  },
+  {
+    "name": "Summon Bear (INT Spell)",
+    "description": "DC 14. Summon a loyal brown bear that appears within near. It stays for 5 rounds.",
+    "slug": "summon_bear_(int_spell)-291"
+  },
+  {
+    "name": "Summon Cobra (INT Spell)",
+    "description": "DC 13. Summon 1d4 loyal cobras that appear within near. They leave in 1d4 rounds.",
+    "slug": "summon_cobra_(int_spell)-292"
+  },
+  {
+    "name": "Summon Spiders (WIS Spell)",
+    "description": "DC 14. Summon 2d4 loyal giant spiders that appear within near. They stay for 5 rounds.",
+    "slug": "summon_spiders_(wis_spell)-293"
+  },
+  {
+    "name": "Sunblind",
+    "description": "Blinded in bright light.",
+    "slug": "sunblind-294"
+  },
+  {
+    "name": "Supreme Undead",
+    "description": "Immune to morale checks. Only damaged by magical sources.",
+    "slug": "supreme_undead-295"
+  },
+  {
+    "name": "Swallow",
+    "description": "On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Worm regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.",
+    "slug": "swallow-296"
+  },
+  {
+    "name": "Swallow",
+    "description": "On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Remorhaz regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.",
+    "slug": "swallow-297"
+  },
+  {
+    "name": "Swallow",
+    "description": "DC 18 STR or swallowed whole. Total darkness inside and 4d10 damage per round. Tarrasque regurgitates all swallowed if dealt at least 30 damage in one round to the inside of its gullet.",
+    "slug": "swallow-298"
+  },
+  {
+    "name": "Telepathic",
+    "description": "Read the thought,s of all creatures within far.",
+    "slug": "telepathic-299"
+  },
+  {
+    "name": "Telepathic",
+    "description": "Speak mentally with creatures within double near.",
+    "slug": "telepathic-300"
+  },
+  {
+    "name": "Telepathy",
+    "description": "Can secretly hear the surface thoughts of all humanoids within near.",
+    "slug": "telepathy-301"
+  },
+  {
+    "name": "Tendrils",
+    "description": "Four total. AC 18 each. 4+ damage to one severs it.",
+    "slug": "tendrils-302"
+  },
+  {
+    "name": "Terrify",
+    "description": "A creature who first sees her true form DC 15 CHA or DISADV on attacks 1d4 rounds.",
+    "slug": "terrify-303"
+  },
+  {
+    "name": "Thick Fur",
+    "description": "Cold immune.",
+    "slug": "thick_fur-304"
+  },
+  {
+    "name": "Thunderclap (INT Spell)",
+    "description": "DC 13. Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction.",
+    "slug": "thunderclap_(int_spell)-305"
+  },
+  {
+    "name": "Time Bend (WIS Spell)",
+    "description": "DC 14. One target in near frozen in time for 1d4 rounds.",
+    "slug": "time_bend_(wis_spell)-306"
+  },
+  {
+    "name": "Time Stop (WIS Spell)",
+    "description": "DC 15. Self. Time freezes for everyone except Rathgamnon for 1d4 rounds. Everything that occurs during the time freeze happens simultaneously when the spell ends.",
+    "slug": "time_stop_(wis_spell)-307"
+  },
+  {
+    "name": "Tongue",
+    "description": "1 creature in near DC 12 DEX or pulled to close range.",
+    "slug": "tongue-308"
+  },
+  {
+    "name": "Toxin",
+    "description": "DC 12 CON or paralyzed 1d4 rounds.",
+    "slug": "toxin-309"
+  },
+  {
+    "name": "Toxin",
+    "description": "DC 15 CON or paralyzed 1d4 rounds.",
+    "slug": "toxin-310"
+  },
+  {
+    "name": "Toxin",
+    "description": "DC 9 CON or paralyzed 1d4 rounds.",
+    "slug": "toxin-311"
+  },
+  {
+    "name": "Toxin",
+    "description": "DC 12 CON or unconscious for 1d4 rounds.",
+    "slug": "toxin-312"
+  },
+  {
+    "name": "Toxin",
+    "description": "DC 12 CON or paralyzed for 1d4 rounds.",
+    "slug": "toxin-313"
+  },
+  {
+    "name": "Tracking",
+    "description": "Can always sense the direction of its chosen quarry.",
+    "slug": "tracking-314"
+  },
+  {
+    "name": "True Name (INT Spell)",
+    "description": "DC 15. Near. Learn the *True Name* of target.",
+    "slug": "true_name_(int_spell)-315"
+  },
+  {
+    "name": "Truesight",
+    "description": "Can see all invisible creatures and objects.",
+    "slug": "truesight-316"
+  },
+  {
+    "name": "Undead",
+    "description": "Immune to morale checks.",
+    "slug": "undead-317"
+  },
+  {
+    "name": "Unmake (WIS Spell)",
+    "description": "DC 13. One target in far takes 3d8 damage.",
+    "slug": "unmake_(wis_spell)-318"
+  },
+  {
+    "name": "Ur-Vampire",
+    "description": "Must sleep in sarcophagus at least once per moon cycle or loses 2d8 HP per day that cannot heal until sleeping in sacrophagus. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart while at 0 HP with a wooden stake carved from a tree from the Tal-Yool jungle.",
+    "slug": "ur-vampire-319"
+  },
+  {
+    "name": "Vampire",
+    "description": "Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.",
+    "slug": "vampire-320"
+  },
+  {
+    "name": "Venom",
+    "description": "DC 9 CON or go to 0 HP.",
+    "slug": "venom-321"
+  },
+  {
+    "name": "Venom (INT Spell)",
+    "description": "DC 12. One target in far takes 2d8 damage.",
+    "slug": "venom_(int_spell)-322"
+  },
+  {
+    "name": "Void Step (INT Spell)",
+    "description": "Self and up to 4 willing targets. DC 15. Teleport up to 100 miles.",
+    "slug": "void_step_(int_spell)-323"
+  },
+  {
+    "name": "Wall of Flame",
+    "description": "1/day, 20' high curtain of fire, double near length. Touching it deals 4d8 damage. Lasts 2d4 rounds.",
+    "slug": "wall_of_flame-324"
+  },
+  {
+    "name": "Water Spout",
+    "description": "Fills a near-sized cube within far. DC 15 STR or creatures inside flung 2d100 feet in a random direction.",
+    "slug": "water_spout-325"
+  },
+  {
+    "name": "Weakness",
+    "description": "A crossbow bolt under the effects of the holy weapon spell kills the rakshasa.",
+    "slug": "weakness-326"
+  },
+  {
+    "name": "Web (WIS Spell)",
+    "description": "DC 13. A near- sized cube of webs within far immobilizes all inside it for 5 rounds. DC 15 STR on turn to break free.",
+    "slug": "web_(wis_spell)-327"
+  },
+  {
+    "name": "Whirlpool",
+    "description": "All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape.",
+    "slug": "whirlpool-328"
+  },
+  {
+    "name": "Whirlwind",
+    "description": "Transform into a lashing tornado. All enemies within near DC 18 DEX or thrown 2d100 feet in a random direction.",
+    "slug": "whirlwind-329"
+  },
+  {
+    "name": "Whirlwind",
+    "description": "All within close DC 15 DEX or flung 2d20 feet in random direction.",
+    "slug": "whirlwind-330"
+  },
+  {
+    "name": "Whispers (CHA Spell)",
+    "description": "DC 12. Hostile spells cast on one target in near are DC 9 for 1d4 rounds.",
+    "slug": "whispers_(cha_spell)-331"
+  },
+  {
+    "name": "Whispers (INT Spell)",
+    "description": "DC 14. Focus. All enemies within near of viperian wizard have DISADV on spellcasting checks for the duration.",
+    "slug": "whispers_(int_spell)-332"
+  },
+  {
+    "name": "Wish",
+    "description": "Cast wish once a week for a mortal, no spellcasting check.",
+    "slug": "wish-333"
+  },
+  {
+    "name": "Wither (INT Spell)",
+    "description": "DC 14. 4d8 damage to enemies within a near-sized cube centered on lich.",
+    "slug": "wither_(int_spell)-334"
+  }
+]

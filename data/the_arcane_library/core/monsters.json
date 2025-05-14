@@ -5614,8 +5614,8 @@
         "description": "Only damaged by magical sources. Hostile spells targeting The Ten-Eyed Oracle are DC 18 to cast."
       },
       {
-        "name": "Eyestalk Ray.** Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target). 1. **Charm.** DC 15 CHA or become ally for 1d4 rounds. 2. **Hold.** DC 15 STR or paralyzed 1d4 rounds. 3. **Sleep.** DC 15 WIS or asleep 1d4 rounds. 4. **Polymorph.** DC 15 INT or turned into vermin for 1d4 rounds. 5. **Cancel.** DC 15 DEX or all magical effects on target end. 6. **Confusion.** DC 15 WIS or attack a random ally within near. 7. **Telekinesis.** DC 15 STR or hover target up to double near. 8. **Disintegrate.** DC 15 DEX or 5d8 damage (object destroyed). 9. **Petrify.** DC 15 CON or petrified. 10. **Death",
-        "description": "DC 15 CON or drop to 0 HP with a death timer of 1."
+        "name": "Eyestalk Ray",
+        "description": "Each ray can shoot once per round and target one creature or an object up to 1,000 pounds (up to four on same target).\n1. Charm. DC 15 CHA or become ally for 1d4 rounds.\n2. Hold. DC 15 STR or paralyzed 1d4 rounds.\n3. Sleep. DC 15 WIS or asleep 1d4 rounds.\n4. Polymorph. DC 15 INT or turned into vermin for 1d4 rounds.\n5. Cancel. DC 15 DEX or all magical effects on target end.\n6. Confusion. DC 15 WIS or attack a random ally within near.\n7. Telekinesis. DC 15 STR or hover target up to double near.\n8. Disintegrate. DC 15 DEX or 5d8 damage (object destroyed).\n9. Petrify. DC 15 CON or petrified.\n10. Death. DC 15 CON or drop to 0 HP with a death timer of 1."
       }
     ]
   },
