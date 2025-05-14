@@ -5,6 +5,8 @@ html, etc) of open shadowdark content. This includes first-party things covered
 under the third-party license. It also includes third-party content that is
 under an open license. See each data file for the license which pertains to it
 
+It is currently accessible at [openshadowdark.com](https://www.openshadowdark.com/).
+
 ## Included Sources
 
 The sources that can be included here are only sources which allow their content
