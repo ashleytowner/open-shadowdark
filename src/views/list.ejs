@@ -9,15 +9,19 @@
 	</head>
 	<body>
 		<h1><%= title %></h1>
-		<form method="GET" action="">
-			<input type="search" name="search" value="<%= search %>"/>
-			<input type="submit" value="Search" />
-		</form>
+		<% if (typeof searchEnabled === 'boolean' && searchEnabled) { %>
+			<form method="GET" action="">
+				<input type="search" name="search" value="<%= search %>"/>
+				<input type="submit" value="Search" />
+			</form>
+		<% } %>
 		<ul>
 			<% items.forEach((item) => { %>
 				<li><a href="<%= route %>/<%= item.slug %>"><%= item.name %></a></li>
 			<% }) %>
 		</ul>
-		<p class="legal"><%= manifest.legal %></p>
+		<% if (typeof manifest !== 'undefined') { %>
+			<p class="legal"><%= manifest.legal %></p>
+		<% } %>
 	</body>
 </html>

@@ -1,4 +1,3 @@
-const core = require("./data/core.json");
 const express = require("express");
 const app = express();
 const path = require("path");
@@ -10,23 +9,29 @@ app.set("views", path.join(__dirname, "views"));
 app.use(express.static(path.join(__dirname, "../public")));
 
 (async () => {
-  const { getDataItem, getDataList } = await loadData(
+  const { getManifest, getDataItem, getDataList, sources } = await loadData(
     path.join(__dirname, "../data"),
   );
 
   app.get("/", (req, res) => {
-    const body = `
-		<a href="/monsters">Monsters</a>
-		<a href="/spells">Spells</a>
-		<a href="/items">Magic Items</a>
-	`;
-    res.render("index", {
-      title: "Open ShadowDark",
-      body: "",
-      dangerousBody: body,
-      license: core.license,
-    });
+		res.render("list", {
+			title: 'Sources',
+			route: '',
+			items: sources,
+			search: ''
+		})
   });
+
+	app.get('/:source', async (req, res) => {
+		const manifest = getManifest(req.params.source);
+		res.render("list", {
+			title: manifest.source,
+			route: req.params.source,
+			items: Object.keys(manifest.data).map(key => ({ name: key, slug: key })),
+			manifest,
+			search: ''
+		})
+	});
 
   app.get("/:source/:type", async (req, res) => {
     let { items, manifest } = await getDataList(
@@ -47,6 +52,7 @@ app.use(express.static(path.join(__dirname, "../public")));
       items: items,
       manifest,
       search: req.query.search || "",
+			searchEnabled: true
     });
   });
 

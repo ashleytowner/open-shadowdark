@@ -45,12 +45,12 @@ async function findManifestFiles(dir) {
  */
 async function loadData(dir) {
   const manifests = await findManifestFiles(dir);
+	const sources = manifests.map(manifest => ({ name: manifest.source, slug: manifest.slug }));
   /**
-   * Get a list of a certain type from a certain source
-   * @param {string} source the source it comes from
-   * @param {string} type the type of object it is
+   * Get a manifest file from the source slug
+   * @param {string} source the source slug
    */
-  const getDataList = async (source, type) => {
+  const getManifest = (source) => {
     const matchingManifest = manifests.find(
       (manifest) => manifest.slug === source,
     );
@@ -58,6 +58,15 @@ async function loadData(dir) {
       console.error(`There was no source matching ${source}`);
       return undefined;
     }
+    return matchingManifest;
+  };
+  /**
+   * Get a list of a certain type from a certain source
+   * @param {string} source the source it comes from
+   * @param {string} type the type of object it is
+   */
+  const getDataList = async (source, type) => {
+    const matchingManifest = getManifest(source);
     const filePath = matchingManifest.data[type];
     if (!filePath) {
       console.error(`There was no type matching ${type}`);
@@ -82,7 +91,7 @@ async function loadData(dir) {
     }
     return { ...item, manifest };
   };
-  return { getDataList, getDataItem };
+  return { getManifest, getDataList, getDataItem, sources };
 }
 
 module.exports = loadData;
