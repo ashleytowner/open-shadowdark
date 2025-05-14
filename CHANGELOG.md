@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.3.0...v1.4.0) (2025-05-14)
+
+
+### Features
+
+* Add JSON & MD buttons to all pages ([84fcb80](https://github.com/ashleytowner/open-shadowdark/commit/84fcb80157de5a29f24721fd7f9ea1c5386c83fe))
+* Added markdown as an option, and buttons to fetch ([2b9124f](https://github.com/ashleytowner/open-shadowdark/commit/2b9124f6f74232324c80be76d0f957c13ba87eec))
+* return either JSON or HTML ([04af976](https://github.com/ashleytowner/open-shadowdark/commit/04af9769cc69719b8dd1a0582181ca4663bb19dc))
+
 ## [1.3.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.2.0...v1.3.0) (2025-05-13)
 
 
