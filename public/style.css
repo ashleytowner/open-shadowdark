@@ -5,7 +5,8 @@ body {
 	margin: auto;
 }
 
-.small {
+.small,
+.legal {
 	font-size: 8pt;
 }
 
@@ -33,6 +34,7 @@ b {
 }
 
 .montserrat-regularitalic,
+.legal,
 em,
 i {
   font-family: "Montserrat", sans-serif;

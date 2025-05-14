@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<h1><%= name %></h1>
-		<p class="small montserrat-italic">(<%= source %>)</p>
+		<p class="small montserrat-italic">(<%= manifest.source %>)</p>
 		<p><em><%= description %></em></p>
 		<% traits.forEach(trait => { %>
 			<p><strong><%= trait.name %></strong>. <%= trait.description %></p>
@@ -17,5 +17,6 @@
 		<button data-copy="application/json">JSON</button>
 		<button data-copy="text/markdown">Markdown</button>
 		<script src="/js/copybuttons.js"></script>
+		<p class="legal"><%= manifest.legal %></p>
 	</body>
 </html>

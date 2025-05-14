@@ -1,0 +1,1236 @@
+[
+  {
+    "name": "Alabaster Destrier",
+    "slug": "alabaster_destrier",
+    "description": "A smooth, pearly statuette of a running horse.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, the wielder can speak the command word to turn the statuette into a pegasus that accepts neutral or lawful riders. The statuette remains in this form for 1 hour."
+      }
+    ]
+  },
+  {
+    "name": "Amulet Of Secrecy",
+    "slug": "amulet_of_secrecy",
+    "description": "A heavy, flat pendant carved with a lidded eye.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can't be detected by divination magic such as the scrying spell or a Crystal Ball while wearing this amulet."
+      },
+      {
+        "name": "Curse",
+        "description": "You constantly have the sensation of being watched."
+      }
+    ]
+  },
+  {
+    "name": "Amulet Of Vitality",
+    "slug": "amulet_of_vitality",
+    "description": "A gold amulet with a red ruby teardrop at its center.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Constitution stat becomes 18 (+4) while wearing this amulet."
+      }
+    ]
+  },
+  {
+    "name": "Armor Of Saint Terragnis",
+    "slug": "armor_of_saint_terragnis",
+    "description": "Golden plate mail carved from head to toe with warrior angels.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+3 plate mail. Only a lawful worshipper of Saint Terragnis can wear this armor."
+      },
+      {
+        "name": "Benefit",
+        "description": "Hostile spells that target you are DC 18 to cast. Once per month, you can summon an Avatar of Saint Terragnis (treat as an archangel) to fight by your side for 10 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Armor Of The Oni",
+    "slug": "armor_of_the_oni",
+    "description": "Black plate mail of lacquered, ironwood panels. The helm's visor is the face of a snarling oni.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 plate mail."
+      },
+      {
+        "name": "Benefit",
+        "description": "You can speak and understand Diabolic. Your melee weapon attacks deal +1 damage."
+      },
+      {
+        "name": "Curse",
+        "description": "You have disadvantage on attacks and spellcasting checks against demons."
+      }
+    ]
+  },
+  {
+    "name": "Bag Of Badgers",
+    "slug": "bag_of_badgers",
+    "description": "A gray, fraying sack matted with white, bristly hair.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can reach inside the bag and pull out an angry badger. You can throw the badger up to a near distance. The badger attacks the nearest creature for 3 rounds before waddling away."
+      }
+    ]
+  },
+  {
+    "name": "Bag Of Devouring",
+    "slug": "bag_of_devouring",
+    "description": "A worn, leather pouch with tight drawstrings.",
+    "traits": [
+      {
+        "name": "Curse",
+        "description": "This bag devours and destroys anything placed inside it in 1d6 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Bag Of Holding",
+    "slug": "bag_of_holding",
+    "description": "A worn, leather pouch with tight drawstrings.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "This bag has an interdimensional space inside that can hold up to 10 gear slots."
+      },
+      {
+        "name": "Curse",
+        "description": "Placing this item inside another Bag of Holding or a Portable Hole destroys both items and all held inside them."
+      }
+    ]
+  },
+  {
+    "name": "Bead Of Force",
+    "slug": "bead_of_force",
+    "description": "A marble with a blue ring of light glowing softly inside it.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a resilient sphere spell (pg. 69)."
+      }
+    ]
+  },
+  {
+    "name": "Blade Of Vengeance",
+    "slug": "blade_of_vengeance",
+    "description": "A gray blade with a diamond- cut ruby in the pommel. It whistles sharply with each slice.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+2 bastard sword. Cannot be wielded by undead."
+      },
+      {
+        "name": "Benefit",
+        "description": "You have advantage on attacks against undead creatures with this sword. You can use the sword to cast turn undead once per day (+4 bonus)."
+      },
+      {
+        "name": "Personality",
+        "description": "Lawful. Grim, suspicious. Forged as a failsafe against the Witch-Kings if they should fall to darkness, which they did. Demands they be slain."
+      }
+    ]
+  },
+  {
+    "name": "Boots Of Dancing",
+    "slug": "boots_of_dancing",
+    "description": "Fine, supple boots of sheepskin.",
+    "traits": [
+      {
+        "name": "Curse",
+        "description": "As soon as you don these boots, you begin cavorting and dancing uncontrollably. You move randomly each turn and must pass a DC 15 Dexterity check to remove the boots."
+      }
+    ]
+  },
+  {
+    "name": "Boots Of Hovering",
+    "slug": "boots_of_hovering",
+    "description": "Brown, sturdy boots polished to a sheen. Small, silver wings adorn the heels.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can walk on an insubstantial surface for 1 turn at a time. You fall through the surface if you end your turn on it."
+      }
+    ]
+  },
+  {
+    "name": "Boots Of The Cat",
+    "slug": "boots_of_the_cat",
+    "description": "Gray, doeskin boots as thin and soft as slippers.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9)."
+      }
+    ]
+  },
+  {
+    "name": "Bracers Of Archery",
+    "slug": "bracers_of_archery",
+    "description": "Leather bracers embossed with soaring hawks.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You deal +1 damage with ranged weapons."
+      }
+    ]
+  },
+  {
+    "name": "Bracers Of Defense",
+    "slug": "bracers_of_defense",
+    "description": "Steel bracers traced with dwarvish runes of protection.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You get a +1 bonus to your armor class."
+      }
+    ]
+  },
+  {
+    "name": "Braks Book of Misspells",
+    "slug": "braks_book_of_misspells",
+    "description": "A tome bound in ratskin that bears a jagged, glowing rune.",
+    "traits": [
+      {
+        "name": "Curse",
+        "description": "This spellbook contains one scroll each of acid arrow (pg. 54), fireball (pg. 60), and sleep (pg. 71). When a wizard tries to cast or learn a spell from these scrolls, the spell targets the caster on a success."
+      }
+    ]
+  },
+  {
+    "name": "Braks Cube of Perfection",
+    "slug": "braks_cube_of_perfection",
+    "description": "A tiny cube with paintings of goblins on each face, each one depicting transcendence in a physical or mental trait.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Roll the cube by rolling a d6. Your corresponding stat permanently increases to 18 (+4). 1. Strength. 2. Dexterity. 3. Constitution. 4. Intelligence. 5. Wisdom. 6. Charisma. After being rolled, Brak's Cube of Perfection teleports to a random location in the multiverse."
+      }
+    ]
+  },
+  {
+    "name": "Circlet Of Wisdom",
+    "slug": "circlet_of_wisdom",
+    "description": "A thin, silver circlet set with a shimmering, blue pearl.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Wisdom stat becomes 18 (+4) while wearing this circlet."
+      }
+    ]
+  },
+  {
+    "name": "Cloak Of Elvenkind",
+    "slug": "cloak_of_elvenkind",
+    "description": "A hooded, billowing cloak that shifts colors to match its surroundings.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your checks to hide are always easy (DC 9). Once per day, you can become invisible for 5 rounds. The invisibility ends if you attack or cast a spell."
+      }
+    ]
+  },
+  {
+    "name": "Cloak Of The Bat",
+    "slug": "cloak_of_the_bat",
+    "description": "A leathery, black cloak that has a ragged hem and a hood with pointed ears.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can fly a near distance as your movement while in a shadowy area."
+      },
+      {
+        "name": "Curse",
+        "description": "Each time you use the cloak to fly, roll a d20. On a result of 1, you and your gear turn into a small bat for 3 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Crystal Ball",
+    "slug": "crystal_ball",
+    "description": "A flawless glass orb with roiling images swirling inside it.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Only wizards can use a Crystal Ball. You can use it to cast the scrying spell (pg. 70). If you fail the spellcasting check to cast scrying, the Crystal Ball ceases to function for a day."
+      }
+    ]
+  },
+  {
+    "name": "Dagger Of The Goblin Hero",
+    "slug": "dagger_of_the_goblin_hero",
+    "description": "A curved dagger with a half- moon notch at the blade's base.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 dagger."
+      },
+      {
+        "name": "Benefit",
+        "description": "You can speak Goblin. All goblinoid creatures react to you with a friendly attitude."
+      }
+    ]
+  },
+  {
+    "name": "Egg Of The Cockatrice",
+    "slug": "egg_of_the_cockatrice",
+    "description": "A blue, hard egg as big as a coconut and heavy as a stone.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per week, you can speak a command word that causes a cockatrice to hatch and follow your commands for 5 rounds before flying away. The egg repairs itself over one week."
+      }
+    ]
+  },
+  {
+    "name": "Flying Carpet",
+    "slug": "flying_carpet",
+    "description": "A richly woven, red carpet with gold tassels.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The carpet fits two riders (one is the driver). It can fly double near on the driver's turn."
+      },
+      {
+        "name": "Personality",
+        "description": "Neutral. Playful, mischievous. Enjoys visiting new places and gets restless without a frequent change in location."
+      }
+    ]
+  },
+  {
+    "name": "Gauntlets Of Might",
+    "slug": "gauntlets_of_might",
+    "description": "Heavy, bronze gauntlets with engravings of Herculean giants.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Strength stat becomes 18 (+4) while wearing these gauntlets."
+      }
+    ]
+  },
+  {
+    "name": "Genie Lamp",
+    "slug": "genie_lamp",
+    "description": "A tarnished, brass oil lamp.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Rubbing the lamp causes its resident djinni (50% chance) or efreeti (50% chance) to emerge. A djinni grants its summoner one wish spell (pg. 73) before disappearing. An efreeti does the same, but only after being defeated in combat."
+      }
+    ]
+  },
+  {
+    "name": "Gloves Of Agility",
+    "slug": "gloves_of_agility",
+    "description": "Thin, leather gloves that seem to meld with the wearer's hands.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Dexterity stat becomes 18 (+4) while wearing these gloves."
+      }
+    ]
+  },
+  {
+    "name": "Goblin Bomb",
+    "slug": "goblin_bomb",
+    "description": "A preserved rat stuffed with an explosive charge and a fuse.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can light the bomb's fuse and throw it a near distance. It explodes in 1d4 rounds, dealing 2d8 damage to everything in near range."
+      }
+    ]
+  },
+  {
+    "name": "Greataxe Of The Horde",
+    "slug": "greataxe_of_the_horde",
+    "description": "A jagged greataxe carved from a weighty dragon bone.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+2 greataxe."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can turn a regular hit with this weapon into a critical hit."
+      },
+      {
+        "name": "Curse",
+        "description": "Each time you go below half your hit points, make a DC 12 Charisma check. On a failure, you enter a battle rage for 1d4 rounds and must attack the nearest creature."
+      }
+    ]
+  },
+  {
+    "name": "Hat Of Intellect",
+    "slug": "hat_of_intellect",
+    "description": "A floppy, pointed hat with a wide brim.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Intelligence stat becomes 18 (+4) while wearing this hat."
+      }
+    ]
+  },
+  {
+    "name": "Hat Of The Hound",
+    "slug": "hat_of_the_hound",
+    "description": "A rounded, jaunty bowler hat.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can transform into a mastiff each day for up to 10 rounds total. Your clothing and possessions transform with you."
+      }
+    ]
+  },
+  {
+    "name": "Helm Of Mind Reading",
+    "slug": "helm_of_mind_reading",
+    "description": "A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can cast the detect thoughts spell (pg. 58) three times per day (+4 bonus)."
+      }
+    ]
+  },
+  {
+    "name": "Horned Helm Of Ramlaat",
+    "slug": "horned_helm_of_ramlaat",
+    "description": "A bloodstained helm made of a ram's skull.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "This helm grants you a +1 bonus to your armor class. You have advantage on any check you make to knock down creatures or objects."
+      },
+      {
+        "name": "Curse",
+        "description": "You feel compelled to headbutt delicate objects."
+      }
+    ]
+  },
+  {
+    "name": "Hourglass Of The Black Sands",
+    "slug": "hourglass_of_the_black_sands",
+    "description": "An ancient hourglass running with obsidian sand.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can turn the hourglass when you cast a spell. The spell's effects last 1d4 rounds longer."
+      }
+    ]
+  },
+  {
+    "name": "Immovable Rod",
+    "slug": "immovable_rod",
+    "description": "A short, iron rod with a button on one end.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you click the button, the rod becomes fixed in space (holds 5,000 lbs). Clicking the button again ends the effect."
+      }
+    ]
+  },
+  {
+    "name": "Jewel Of Barbalt",
+    "slug": "jewel_of_barbalt",
+    "description": "A coconut-sized ruby cut with a thousand facets.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You roll a critical success on an 18-20."
+      },
+      {
+        "name": "Curse",
+        "description": "You roll a critical failure on a 1-3."
+      }
+    ]
+  },
+  {
+    "name": "Kytherian Cog",
+    "slug": "kytherian_cog",
+    "description": "A coin-sized, toothed wheel buffed to a silvery shine.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You start every session with a luck token."
+      }
+    ]
+  },
+  {
+    "name": "Longbow Of The Elven Kings",
+    "slug": "longbow_of_the_elven_kings",
+    "description": "A deeply curved longbow with deer antler reinforcements.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 longbow."
+      },
+      {
+        "name": "Benefit",
+        "description": "You have advantage on attacks with this bow against unnatural creatures and outsiders."
+      },
+      {
+        "name": "Personality",
+        "description": "Neutral. Proud, timeless. Believes protecting the natural order is the highest calling. Demands all unnatural creatures be found and slain."
+      }
+    ]
+  },
+  {
+    "name": "Magic Ink",
+    "slug": "magic_ink",
+    "description": "A pot of glossy, black ink that disappears as it dries.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The ink's writing is invisible when cool and can only be seen when warmed up by a nearby source of strong heat. There's enough for 1d4 uses."
+      }
+    ]
+  },
+  {
+    "name": "Memnons Blazing Javelin",
+    "slug": "memnons_blazing_javelin",
+    "description": "This golden javelin occasionally blinks and wavers, briefly turning into a bolt of lightning.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 javelin. Can only be wielded by a chaotic being. If you also wield Memnon's Discordant Blade and Memnon's Entropic Armor, it becomes a +3 javelin."
+      },
+      {
+        "name": "Benefit",
+        "description": "The javelin always returns to your hand after being thrown. Once per day, when you throw this javelin, you can turn it into lightning as per the lightning bolt spell (no spellcasting check)."
+      }
+    ]
+  },
+  {
+    "name": "Memnons Discordant Blade",
+    "slug": "memnons_discordant_blade",
+    "description": "This barbed greatsword's red blade trails a shower of sparks when swung to strike.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 greatsword. Can only be wielded by a chaotic being. If you also wield Memnon's Entropic Armor and Memnon's Blazing Javelin, it becomes a +3 greatsword."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can utterly annihilate one creature of level 9 or less that you damage with this blade. The creature can pass a DC 18 Constitution check to take 3d8 damage instead."
+      },
+      {
+        "name": "Curse",
+        "description": "You cannot relinquish ownership of this blade unless it is taken from you by a creature that defeats you in combat. For each day you do not slay a LV 2 or greater creature with this sword, you lose 1d6 hit points. These are restored only when you kill a LV 2 or greater creature with the sword."
+      }
+    ]
+  },
+  {
+    "name": "Mirror Of Mischief",
+    "slug": "mirror_of_mischief",
+    "description": "A full-length mirror polished to a gleaming shine. Grinning, silver demons grasp the mirror, their claws forming its frame.",
+    "traits": [
+      {
+        "name": "Curse",
+        "description": "The first time a humanoid creature looks into this mirror, the mirror creates an evil and malicious duplicate of them. The duplicate can step from the mirror and is an exact copy of the subject (except for magical gear, which looks identical but is mundane in nature). The evil duplicate can live indefinitely outside the mirror. It attempts to sow chaos in the life of the creature it duplicated."
+      }
+    ]
+  },
+  {
+    "name": "Moonwrought Chainmail",
+    "slug": "moonwrought_chainmail",
+    "description": "A luminous jacket of chainmail as lightweight as a silk shirt.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 mithral chainmail."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can speak the armor's command word. You gain a +1 bonus to your next spellcasting check or ranged attack."
+      }
+    ]
+  },
+  {
+    "name": "Necklace Of Charm",
+    "slug": "necklace_of_charm",
+    "description": "A gold, fishbone chain that shimmers with subtle beauty.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Charisma stat becomes 18 (+4) while wearing this necklace."
+      }
+    ]
+  },
+  {
+    "name": "Necrotic Mace Of Withering",
+    "slug": "necrotic_mace_of_withering",
+    "description": "A wrought iron mace tipped with a heavy, screaming skull. Black ichor runs from the skull's eyes when the mace is used to channel necrotic energy.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 mace. Can only be wielded by a chaotic priest."
+      },
+      {
+        "name": "Benefit",
+        "description": "While holding the mace, you can turn cure wounds spells you cast into harmful magic that instead inflicts the same amount of damage it would heal."
+      },
+      {
+        "name": "Curse",
+        "description": "If you use the mace to cast an inverted cure wounds spell, you are haunted by nightmares that night. You must pass a DC 12 Wisdom check during your next rest or gain no benefit from resting."
+      }
+    ]
+  },
+  {
+    "name": "Nightcloak Armor",
+    "slug": "nightcloak_armor",
+    "description": "Matte black leathers enchanted to deepen and darken shadows.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 leather armor."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you may choose to automatically pass a Dexterity check to hide."
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Witchknife",
+    "slug": "obsidian_witchknife",
+    "description": "A glinting, obsidian blade that trails black smoke in thin curls.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+2 dagger. Cannot be wielded by a lawful being."
+      },
+      {
+        "name": "Benefit",
+        "description": "When you cast a spell while holding this dagger, you may wound yourself with it. Add the amount of damage you take to your spellcasting check."
+      }
+    ]
+  },
+  {
+    "name": "Onyx Destrier",
+    "slug": "onyx_destrier",
+    "description": "A polished, ebony statuette of a running horse.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, the wielder can speak the command word to turn the statuette into a nightmare that accepts neutral or chaotic riders. The statuette remains in this form for 1 hour."
+      }
+    ]
+  },
+  {
+    "name": "Ophidian Armor",
+    "slug": "ophidian_armor",
+    "description": "Glistening, smooth leather of dappled emerald scales.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 leather armor."
+      },
+      {
+        "name": "Benefit",
+        "description": "You have advantage on checks to avoid the effects of poison."
+      }
+    ]
+  },
+  {
+    "name": "Pearl Of Power",
+    "slug": "pearl_of_power",
+    "description": "A fat, opalescent pearl glowing with an inner radiance.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, you may regain the ability to cast a spell you have lost. This cannot restore a spell lost due to a critical spellcasting failure."
+      }
+    ]
+  },
+  {
+    "name": "Pipe Of The Rolling Hills",
+    "slug": "pipe_of_the_rolling_hills",
+    "description": "A long, curved pipe that smells of cloves and resin.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Up to three times per day, regain 1d4 hit points when you smoke this pipe."
+      }
+    ]
+  },
+  {
+    "name": "Pipes Of The Sewers",
+    "slug": "pipes_of_the_sewers",
+    "description": "A set of tarnished, brass pan pipes with seven cylinders.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can play these pipes to summon 2d6 giant rats. The rats obey you for d6 rounds, and then they scatter and flee."
+      },
+      {
+        "name": "Curse",
+        "description": "If you stop playing while the rats are present, they turn on you and attack."
+      }
+    ]
+  },
+  {
+    "name": "Portable Hole",
+    "slug": "portable_hole",
+    "description": "A black, velvet square of cloth that unfolds into a wide circle.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The Portable Hole folds open on a flat surface into a 6-foot wide, 6-foot deep hole. It has 20 gear slots of storage. The hole closes when you fold the cloth into a small square."
+      },
+      {
+        "name": "Curse",
+        "description": "Placing this item inside a Bag of Holding or another Portable Hole destroys both items and all held inside them."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Extirpation",
+    "slug": "potion_of_extirpation",
+    "description": "An acrid, tarry substance in an iron flask with a lead stopper.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can pour the potion on one object or creature filling up to a close area. The target is utterly removed from reality and cannot be returned by anything short of a wish spell."
+      },
+      {
+        "name": "Personality",
+        "description": "Chaotic. Protests loudly while being used and never agrees that the target is the right choice for extirpation."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Flying",
+    "slug": "potion_of_flying",
+    "description": "A sunny liquid with bubbles that flash and pop like tiny stars.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can fly a near distance for 10 rounds when you drink this potion."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Forgetfulness",
+    "slug": "potion_of_forgetfulness",
+    "description": "A pink draught that swirls with a counter-clockwise current.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "If you serve this potion to an intelligent being and that being drinks it, the imbiber permanently forgets one memory of your choosing."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Giant Strength",
+    "slug": "potion_of_giant_strength",
+    "description": "A clay jar holding a stew of green, leafy sludge.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Your Strength becomes 18 (+4) and you deal x2 damage on melee attacks for 10 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Healing",
+    "slug": "potion_of_healing",
+    "description": "A glass bottle with a fizzy, lemon-vanilla liquid inside.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The imbiber of this potion regains hit points based on their level. LV 0-3: 1d6 hit points. LV 4-6: 2d8 hit points. LV 7-9: 3d10 hit points. LV 10+: 4d12 hit points."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Invisibility",
+    "slug": "potion_of_invisibility",
+    "description": "This glass vial appears to be empty, but a liquid audibly splashes around inside it.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you drink this potion, you become invisible for 10 rounds or until you attack or cast a spell."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Legendary Deeds",
+    "slug": "potion_of_legendary_deeds",
+    "description": "A golden elixir that resonates with a faint, angelic chord.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you drink this potion, you gain one level and your XP total resets to zero."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Polymorph",
+    "slug": "potion_of_polymorph",
+    "description": "A pickled newt floats in this lavender flask of clear liquid.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you drink this potion, it casts the polymorph spell (pg. 67) on you with a duration of 1 hour instead of 10 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Potion Of Vitality",
+    "slug": "potion_of_vitality",
+    "description": "A crimson elixir that gently thumps with a heartbeat.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you drink this potion, roll your class's hit points die. You permanently gain that many HP."
+      },
+      {
+        "name": "Curse",
+        "description": "If you drink more than one Potion of Vitality in your lifetime, you must pass a DC 18 Constitution check each time or die instantly."
+      }
+    ]
+  },
+  {
+    "name": "Ring Of Feather Falling",
+    "slug": "ring_of_feather_falling",
+    "description": "A pearly ring carved in the likeness of an owl feather.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, the ring can cast feather fall (pg. 60) on you when you fall."
+      },
+      {
+        "name": "Personality",
+        "description": "Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits."
+      }
+    ]
+  },
+  {
+    "name": "Ring Of Fireballs",
+    "slug": "ring_of_fireballs",
+    "description": "A bronze loop with claws holding a red marble. A fiery miasma swirls inside the glass.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You can pluck the glass marble from the ring and throw it up to a far distance, causing a fireball spell (pg. 60) to bloom at the site of impact. The glass marble regrows after you successfully complete a rest."
+      }
+    ]
+  },
+  {
+    "name": "Ring Of Invisibility",
+    "slug": "ring_of_invisibility",
+    "description": "A simple, gold band polished to a warm shine.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, the ring can cast the invisibility spell (pg. 63) on you."
+      },
+      {
+        "name": "Curse",
+        "description": "There is a cumulative 1% chance each time you rest that your sleep is ruined by apocalyptic nightmares, and you gain no benefit from resting. This resets to a 1% chance each time it triggers."
+      }
+    ]
+  },
+  {
+    "name": "Ring Of Ramlaat",
+    "slug": "ring_of_ramlaat",
+    "description": "A bone-carved ring with a ram skull. Its horns twist forward and red lights glow in its eye sockets.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can enter a rage where you deal double damage for 5 rounds. During the rage, you can't cast spells and enemies have advantage on melee attacks against you."
+      },
+      {
+        "name": "Personality",
+        "description": "Chaotic. Aggressive, overconfident. Seeks to provoke you and your enemies into battle."
+      }
+    ]
+  },
+  {
+    "name": "Robe Of The Archmage",
+    "slug": "robe_of_the_archmage",
+    "description": "A red silk robe with a wide, gold- hemmed mantle. Golden eyes and moons dust its sleeves.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Only a wizard with the Archmage title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. Choose three spells you know. Their spellcasting DC is always 11. You have advantage on casting the disintegrate spell."
+      }
+    ]
+  },
+  {
+    "name": "Robe Of The Druid",
+    "slug": "robe_of_the_druid",
+    "description": "A green velvet robe with a deep hood and hems embroidered with silver leaves and vines.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Only a wizard with the Druid title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. Twice per day, you can regain the ability to cast one lost spell. You have advantage on casting the shapechange spell. When you cast it, its duration is 1 hour instead of focus."
+      }
+    ]
+  },
+  {
+    "name": "Robe Of The Sorcerer",
+    "slug": "robe_of_the_sorcerer",
+    "description": "A black leather robe with a shadowed cowl and clawed clasps on thin, mithral chains.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Only a wizard with the Sorcerer title can wear this robe. Your unarmored AC becomes 15 plus your Dexterity modifier. When you cast a spell that deals damage, add your Intelligence modifier to the total. You have advantage on casting the power word kill spell."
+      }
+    ]
+  },
+  {
+    "name": "Scarab Of Protection",
+    "slug": "scarab_of_protection",
+    "description": "A brooch made from a horned scarab beetle dipped in gold.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "If you die, make a DC 18 Constitution check. If you succeed, you are unconscious instead of dead."
+      }
+    ]
+  },
+  {
+    "name": "Scimitar Of The Ash Moon",
+    "slug": "scimitar_of_the_ash_moon",
+    "description": "This wide, curved blade has a snarling efreeti head on the bronze pommel.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+3 greatsword."
+      },
+      {
+        "name": "Benefit",
+        "description": "If you roll a critical hit with this weapon, the target is beheaded. It dies instantly if decapitation would kill it."
+      }
+    ]
+  },
+  {
+    "name": "Shield Of The Crusader",
+    "slug": "shield_of_the_crusader",
+    "description": "A weighty kite shield painted with a faded, crimson cross.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 shield. Can only be wielded by a lawful being."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can speak a prayer to wreathe the shield in holy flames, granting +2 to your AC for 3 rounds."
+      }
+    ]
+  },
+  {
+    "name": "Shield Of The Lion",
+    "slug": "shield_of_the_lion",
+    "description": "This shield is carved as a roaring lion's face with a flowing mane.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 shield."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can command the lion to animate and bellow a ferocious roar. All hostile creatures within near range must immediately make a morale check."
+      }
+    ]
+  },
+  {
+    "name": "Shortsword Of The Thief",
+    "slug": "shortsword_of_the_thief",
+    "description": "A stubby, gray blade riddled with notches and scars.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 shortsword. +2 if wielded by a halfling or thief."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, regain a luck token you just spent."
+      }
+    ]
+  },
+  {
+    "name": "Silver Mace Of Wrath",
+    "slug": "silver_mace_of_wrath",
+    "description": "A tarnished, silver mace with seven flanges in the shape of crescent moons.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 mace."
+      },
+      {
+        "name": "Benefit",
+        "description": "This weapon deals double damage against creatures with lycanthropy."
+      }
+    ]
+  },
+  {
+    "name": "Sphere Of Annihilation",
+    "slug": "sphere_of_annihilation",
+    "description": "A three-foot, spherical void of pure darkness that hovers above the ground.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "This sphere utterly destroys all matter it touches. Intelligent beings can move the flying sphere a near distance by passing a DC 18 Intelligence check. If multiple creatures vie for control of the sphere, it is a contested Intelligence check instead. Wizards have advantage on this check. The winner moves the sphere a near distance. If the sphere moves into a space occupied by a creature, the being controlling the sphere makes an attack roll against that creature with a +7 bonus. On a hit, the creature is obliterated."
+      }
+    ]
+  },
+  {
+    "name": "Spyglass Of True Sight",
+    "slug": "spyglass_of_true_sight",
+    "description": "A brass, telescoping lens with magical runes carved on it.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you look through the spyglass, you can see invisible creatures and objects."
+      },
+      {
+        "name": "Curse",
+        "description": "The wielder feels a compulsion to look at everything through the spyglass."
+      }
+    ]
+  },
+  {
+    "name": "Staff Of Healing",
+    "slug": "staff_of_healing",
+    "description": "A knotted, oak stave with a heavy knurl on one end.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 staff."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you can touch a creature with the staff to heal it for 1d6 hit points."
+      }
+    ]
+  },
+  {
+    "name": "Staff Of Ord",
+    "slug": "staff_of_ord",
+    "description": "A tapered, mithral staff that resonates with arcane power. The tip features an upward- looking eye in a circle of runes.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+3 staff. Can only be wielded by a wizard."
+      },
+      {
+        "name": "Benefit",
+        "description": "Functions as a wand of dimension door (pg. 59), fireball (pg. 60), sending (pg. 70), and telekinesis (pg. 72). Unlike a wand, the staff remains intact if you roll a 1 on your spellcasting checks. Hostile spells targeting you are DC 18 to cast."
+      }
+    ]
+  },
+  {
+    "name": "Staff Of The Cobra",
+    "slug": "staff_of_the_cobra",
+    "description": "A curved scepter tipped with a ruby-eyed, flaring cobra head.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 staff."
+      },
+      {
+        "name": "Benefit",
+        "description": "All snakes regard you with a friendly attitude unless you do something to upset them. Once per day, you can throw the staff to the ground. It becomes a giant snake for 5 rounds that obeys your mental commands. If the giant snake goes to 0 HP, it reverts into a staff."
+      },
+      {
+        "name": "Curse",
+        "description": "You have disadvantage on attacks and casting hostile spells targeting snakes."
+      }
+    ]
+  },
+  {
+    "name": "Sword Of The Ancients",
+    "slug": "sword_of_the_ancients",
+    "description": "A chipped and rusting blade with an oiled leather grip.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+2 longsword."
+      },
+      {
+        "name": "Benefit",
+        "description": "The sword is unbreakable and can carve through any material. The owner can summon the sword to their hand if it's on the same plane."
+      }
+    ]
+  },
+  {
+    "name": "The Kytherian Mechanism",
+    "slug": "the_kytherian_mechanism",
+    "description": "A towering, brass platform mounted with countless cogs and gears speckled in blue- green rust.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "A handle turns The Kytherian Mechanism's mighty wheels, but it doesn't function until its seven missing Kytherian Cogs are replaced. Once functional, activating the mechanism allows the operator to undo one event of their choosing from history. Then, the seven Kytherian Cogs magically scatter to far-flung locations."
+      }
+    ]
+  },
+  {
+    "name": "The Malediction Infernal",
+    "slug": "the_malediction_infernal",
+    "description": "A black, leatherbound tome with a grinning demon face embossed on the cover.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "A chaotic being who reads this tome gains a level and learns the Diabolic language. A non-chaotic being who reads this book must pass a DC 18 Wisdom check or lose one level. After being read, the tome teleports to a far-flung location."
+      }
+    ]
+  },
+  {
+    "name": "Tome Mordanticus",
+    "slug": "tome_mordanticus",
+    "description": "A hand-drawn bestiary of the multiverse's most notable creatures and people.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "When you read the tome, you learn three True Names (pg. 319) of three beings you choose. Your True Name also appears in the book after reading it."
+      },
+      {
+        "name": "Personality",
+        "description": "Neutral. Pedantic, fussy. The book constantly tries to escape its owner and can telepathically reach out a near distance to any creature."
+      }
+    ]
+  },
+  {
+    "name": "Tome Of Gehemna",
+    "slug": "tome_of_gehemna",
+    "description": "A sturdy, russet volume held by metal clasps. A golden eye in a circle adorns the cover.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Each day, a random wizard spell scroll appears inside the tome, replacing the spell scroll from the prior day."
+      },
+      {
+        "name": "Personality",
+        "description": "Neutral. Instructive, technical. Drones on about the obscure points of spellcasting and has an opinion on every wizard's technique."
+      }
+    ]
+  },
+  {
+    "name": "Tome Of Hadebe",
+    "slug": "tome_of_hadebe",
+    "description": "A brass-plated book with pages of etched copper leaf.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The tome contains one each of the following scrolls: burning hands (pg. 56), fireball (pg. 60), and prismatic orb (pg. 67)."
+      }
+    ]
+  },
+  {
+    "name": "Trident Of The Seas",
+    "slug": "trident_of_the_seas",
+    "description": "A three-pronged, mithral harpoon studded with pearls.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+2 spear."
+      },
+      {
+        "name": "Benefit",
+        "description": "You can breathe underwater, as well as speak to and understand wild sea creatures. Once per day, you can cast control water (pg. 57) with a +4 bonus."
+      }
+    ]
+  },
+  {
+    "name": "True Name",
+    "slug": "true_name",
+    "description": "The secret, unique name borne by a creature and documented in The Covenant. Few creatures know their own True Names.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "You have advantage on attack rolls and spellcasting checks targeting a creature whose True Name you utter."
+      }
+    ]
+  },
+  {
+    "name": "Wand Of Unlife",
+    "slug": "wand_of_unlife",
+    "description": "The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "This wand contains the spells animate dead (pg. 54) and create undead (pg. 58)."
+      },
+      {
+        "name": "Curse",
+        "description": "Each time you use the wand to cast a spell, you take 1d4 points of Constitution damage. If you reach 0 Constitution from this effect, you die and turn into a zombie."
+      }
+    ]
+  },
+  {
+    "name": "Wand Of Warding",
+    "slug": "wand_of_warding",
+    "description": "A thin, weighty rod of dark iron inscribed with spiraling runes.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "This wand contains the spells dispel magic (pg. 59) and protection from energy (pg. 68)."
+      },
+      {
+        "name": "Curse",
+        "description": "Each time you fail a spellcasting check with this wand, you also lose the ability to cast a random spell you know until you complete a rest."
+      }
+    ]
+  },
+  {
+    "name": "War Horn Of The Angels",
+    "slug": "war_horn_of_the_angels",
+    "description": "An opalescent ox horn capped with a golden mouthpiece.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "Only a lawful being can wield the horn. Once per day, you can blow the horn to cast rebuke unholy (pg. 69) with a +4 bonus. A demon or devil who hears the horn has disadvantage on its Charisma check vs. your rebuke unholy spellcasting check."
+      }
+    ]
+  },
+  {
+    "name": "Warhammer Of The Dwarf Lords",
+    "slug": "warhammer_of_the_dwarf_lords",
+    "description": "A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 warhammer. +2 if wielded by a dwarf."
+      },
+      {
+        "name": "Benefit",
+        "description": "This weapon has the thrown property (pg. 37) to a near distance. It always returns to your hand after being thrown. Your attacks with this weapon deal double damage against giants."
+      }
+    ]
+  },
+  {
+    "name": "Well Of Many Worlds",
+    "slug": "well_of_many_worlds",
+    "description": "A dark circle of cloth that seems to create a tunnel through the surface it lies upon.",
+    "traits": [
+      {
+        "name": "Benefit",
+        "description": "The Well of Many Worlds folds open on a flat surface into a 6-foot wide hole. Creatures can jump into the hole once per day each to be transported to a random plane of existence."
+      }
+    ]
+  },
+  {
+    "name": "Wraith Chain",
+    "slug": "wraith_chain",
+    "description": "A chainmail shirt of black, mithral links that trails a long cloak of writhing shadows.",
+    "traits": [
+      {
+        "name": "Bonus",
+        "description": "+1 mithral chainmail."
+      },
+      {
+        "name": "Benefit",
+        "description": "Once per day, you may cause an attack that hits you to miss instead."
+      }
+    ]
+  }
+]
