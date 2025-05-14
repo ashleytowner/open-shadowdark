@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/ashleytowner/open-shadowdark/compare/v2.0.0...v2.0.1) (2025-05-14)
+
+
+### Bug Fixes
+
+* Fixed license text for shadowdark core ([997f8f5](https://github.com/ashleytowner/open-shadowdark/commit/997f8f5e8fdcf14399a9791f739a7b7c71c81668))
+
 ## [2.0.0](https://github.com/ashleytowner/open-shadowdark/compare/v1.4.0...v2.0.0) (2025-05-14)
 
 
