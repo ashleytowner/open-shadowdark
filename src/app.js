@@ -89,7 +89,7 @@ function titleCase(str) {
 			return res.sendStatus(404);
 		}
 		if (req.accepts("text/html")) {
-			res.render(req.params.type, { ...item, manifest });
+			res.render(req.params.type, { title: item.name, ...item, manifest });
 		} else if (req.accepts("text/markdown")) {
 			res.set("Content-Type", "text/markdown");
 			res.render(`${req.params.type}-md`, { ...item, manifest });

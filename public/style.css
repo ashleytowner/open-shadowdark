@@ -3,6 +3,45 @@
 body {
 	max-width: 800px;
 	margin: auto;
+	padding: 1rem 0;
+}
+
+#site-header {
+	display: block;
+	font-size: 2rem;
+	text-align: center;
+	color: black;
+}
+
+@media screen and (max-width: 832px) {
+	body {
+		padding: 1rem;
+	}
+}
+
+#searchForm {
+	width: 100%;
+	display: flex;
+	gap: 0.5rem;
+}
+
+#searchForm input[type="search"] {
+	flex: 1;
+}
+
+h1 {
+	background: black;
+	color: white;
+	padding: 0.2rem;
+}
+
+.sr-only {
+	position: absolute;
+	left: -10000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
 }
 
 .small,

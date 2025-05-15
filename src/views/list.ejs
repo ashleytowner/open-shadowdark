@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="/style.css" />
-		<title><%= title %></title>
+		<%- include('./partials/headers.ejs') %>
 	</head>
 	<body>
+		<%- include('./partials/nav.ejs') %>
 		<h1><%= title %></h1>
 		<% if (typeof searchEnabled === 'boolean' && searchEnabled) { %>
-			<form method="GET" action="">
-				<input type="search" name="search" value="<%= search %>"/>
+			<form method="GET" action="" id="searchForm">
+				<label class="sr-only" for="search">Search</label>
+				<input type="search" placeholder="Search" name="search" value="<%= search %>"/>
 				<input type="submit" value="Search" />
 			</form>
 		<% } %>
