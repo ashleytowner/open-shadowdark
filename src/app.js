@@ -27,7 +27,6 @@ app.use(express.static(path.join(__dirname, "../public")));
 		if (!manifest) {
 			return res.sendStatus(404);
 		}
-		console.log(manifest.data)
 		res.render("list", {
 			title: manifest.source,
 			route: req.params.source,
