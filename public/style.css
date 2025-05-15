@@ -92,3 +92,11 @@ b i {
 	font-weight: 700;
 	font-style: italic;
 }
+
+a {
+	color: black;
+}
+
+a:visited {
+	color: #666;
+}
