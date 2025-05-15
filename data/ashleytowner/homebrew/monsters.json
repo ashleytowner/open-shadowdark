@@ -1,29 +1,5 @@
 [
   {
-    "name": "Offset Animal",
-    "slug": "offset_animal",
-    "description": "Large panther-like beasts with tentacles covered in razor-like claws",
-    "armor_class": 15,
-    "armor_type": null,
-    "hit_points": 27,
-    "attacks": "2 tentacle +4 (2d4)",
-    "movement": "near",
-    "strength": 4,
-    "dexterity": 2,
-    "constitution": 3,
-    "intelligence": -2,
-    "wisdom": 1,
-    "charisma": -1,
-    "alignment": "N",
-    "level": 6,
-    "traits": [
-      {
-        "name": "Displacement",
-        "description": "Appears in a slightly different location to where it actually is. All attacks against it are at disadvantage."
-      }
-    ]
-  },
-  {
     "name": "Hooked Terror",
     "slug": "hooked_terror",
     "description": "Large, beaked & hook-handed beasts who hunt their prey using echolocation",
@@ -48,6 +24,49 @@
       {
         "name": "Hook",
         "description": "DC 15 STR or moved a near distance in any direction."
+      }
+    ]
+  },
+  {
+    "name": "Merchant",
+    "slug": "merchant",
+    "description": "Travelling traders who carry goods between settlements",
+    "armor_class": 12,
+    "armor_type": "leather",
+    "hit_points": 4,
+    "attacks": "1 shortsword +1 (1d6) or 1 dagger (close/near) +1 (1d4)",
+    "movement": "near",
+    "strength": 1,
+    "dexterity": 1,
+    "constitution": 0,
+    "intelligence": 0,
+    "wisdom": 0,
+    "charisma": 2,
+    "alignment": "N",
+    "level": 1,
+    "traits": []
+  },
+  {
+    "name": "Offset Animal",
+    "slug": "offset_animal",
+    "description": "Large panther-like beasts with tentacles covered in razor-like claws",
+    "armor_class": 15,
+    "armor_type": null,
+    "hit_points": 27,
+    "attacks": "2 tentacle +4 (2d4)",
+    "movement": "near",
+    "strength": 4,
+    "dexterity": 2,
+    "constitution": 3,
+    "intelligence": -2,
+    "wisdom": 1,
+    "charisma": -1,
+    "alignment": "N",
+    "level": 6,
+    "traits": [
+      {
+        "name": "Displacement",
+        "description": "Appears in a slightly different location to where it actually is. All attacks against it are at disadvantage."
       }
     ]
   }
