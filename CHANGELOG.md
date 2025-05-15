@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.1.0...v2.2.0) (2025-05-15)
+
+
+### Features
+
+* Improve list titles ([c0daefc](https://github.com/ashleytowner/open-shadowdark/commit/c0daefc4916906f55c802e358ec5fec8bde451fc))
+* restyle all pages ([265dfc2](https://github.com/ashleytowner/open-shadowdark/commit/265dfc2ef797a24575aab38063805feefcce1e4e))
+
 ## [2.1.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.0.1...v2.1.0) (2025-05-14)
 
 
