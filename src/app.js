@@ -8,6 +8,16 @@ app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 app.use(express.static(path.join(__dirname, "../public")));
 
+/**
+	* Convert string to title case
+	* @param {string} str
+	* @returns {string}
+	*/
+function titleCase(str) {
+	const words = str.split(' ');
+	return words.map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+}
+
 (async () => {
 	const { getManifest, getDataItem, getDataList, sources } = await loadData(
 		path.join(__dirname, "../data"),
@@ -56,7 +66,7 @@ app.use(express.static(path.join(__dirname, "../public")));
 			});
 		}
 		res.render("list", {
-			title: `${manifest.source}: ${req.params.type}s`,
+			title: `${titleCase(req.params.type)}s - ${manifest.source}`,
 			route: req.params.type,
 			items: items,
 			manifest,
