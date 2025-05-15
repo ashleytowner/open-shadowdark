@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/ashleytowner/open-shadowdark/compare/v2.2.0...v2.2.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* Fix link colours ([f68d1ee](https://github.com/ashleytowner/open-shadowdark/commit/f68d1eeaf71657891ea1813db996e5713ac1d3df))
+
 ## [2.2.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.1.0...v2.2.0) (2025-05-15)
 
 
