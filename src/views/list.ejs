@@ -15,7 +15,7 @@
 		<% } %>
 		<ul>
 			<% items.forEach((item) => { %>
-				<li><a href="<%= route %>/<%= item.slug %>"><%= item.name %></a></li>
+				<li><a <% if (previewLinks) { %>class="previewable"<% } %> href="<%= route %>/<%= item.slug %>"><%= item.name %></a></li>
 			<% }) %>
 		</ul>
 		<% if (typeof manifest !== 'undefined') { %>

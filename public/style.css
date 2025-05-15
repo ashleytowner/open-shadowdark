@@ -93,10 +93,7 @@ b i {
 	font-style: italic;
 }
 
-a {
-	color: black;
-}
-
+a,
 a:visited {
-	color: #666;
+	color: black;
 }

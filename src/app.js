@@ -29,6 +29,7 @@ function titleCase(str) {
 			route: "",
 			items: sources,
 			search: "",
+			previewLinks: false
 		});
 	});
 
@@ -46,6 +47,7 @@ function titleCase(str) {
 			})),
 			manifest,
 			search: "",
+			previewLinks: false
 		});
 	});
 
@@ -72,6 +74,7 @@ function titleCase(str) {
 			manifest,
 			search: req.query.search || "",
 			searchEnabled: true,
+			previewLinks: true
 		});
 	});
 
