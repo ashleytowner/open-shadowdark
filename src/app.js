@@ -8,6 +8,8 @@ app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 app.use(express.static(path.join(__dirname, "../public")));
 
+const PORT = process.env.PORT ?? 3000;
+
 /**
 	* Convert string to title case
 	* @param {string} str
@@ -99,7 +101,7 @@ function titleCase(str) {
 		}
 	});
 
-	app.listen(3000, async () => {
-		console.log("listening on port 3000");
+	app.listen(PORT, async () => {
+		console.log(`listening on port ${PORT}`);
 	});
 })();
