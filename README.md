@@ -28,4 +28,13 @@ npm install
 npm start
 ```
 
+### Docker
+
+If you'd rather use docker:
+
+```bash
+docker build -t open-sd:latest .
+docker run -d -p 3000:3000 --name open-sd open-sd:latest
+```
+
 Then navigate to `http://localhost:3000` to view the site
