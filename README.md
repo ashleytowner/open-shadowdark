@@ -33,7 +33,7 @@ npm start
 If you'd rather use docker:
 
 ```bash
-docker run --name opensd -p 3000:3000 findpapyrus/open-shadowdark
+docker run --name opensd -e PORT=3000 -p 3000:3000 findpapyrus/open-shadowdark
 ```
 
 Then navigate to `http://localhost:3000` to view the site
