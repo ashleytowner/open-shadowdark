@@ -99,6 +99,14 @@
           generateStatblockHTML(json);
       });
 
+			function copyMarkdown() {
+				const txt = document.getElementById('md').innerText;
+				navigator.clipboard.writeText(txt);
+				const button = document.getElementsByClassName('copy')[0];
+				button.innerHTML = 'Copied';
+				setTimeout(() => button.innerHTML = 'Copy', 1000);
+			}
+
 			document.getElementById("markdown").addEventListener("click", () => {
 				const json = window.parseStatblock(
 					document.getElementById("input").value
@@ -123,7 +131,8 @@
 
 ${traits}`;
 				document.getElementById("result").innerHTML =
-					`<pre><code>${mdString}</code></pre>`
+					`<pre><code id="md">${mdString}</code><button class="copy"
+					onclick="copyMarkdown()">Copy</button></pre>`
 			});
     </script>
   </body>

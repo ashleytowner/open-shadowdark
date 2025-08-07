@@ -101,3 +101,19 @@ h1 {
 	display: block;
 	text-align: center;
 }
+
+pre {
+	background: #ddd;
+	padding: 0.5rem;
+	border-radius: 4px;
+	position: relative;
+	width: 80%;
+	margin: auto;
+	overflow: auto;
+}
+
+pre .copy {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+}
