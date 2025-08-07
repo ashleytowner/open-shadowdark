@@ -12,6 +12,7 @@
 		<a href="/" class="center">Back to OpenShadowdark</a>
     <textarea id="input"></textarea>
     <button id="hydrate">Hydrate</button>
+    <button id="markdown">Convert to Markdown</button>
     <div id="result"></div>
     <script>
       function generateStatblockHTML(monsterData) {
@@ -97,6 +98,33 @@
         document.getElementById("result").innerHTML =
           generateStatblockHTML(json);
       });
+
+			document.getElementById("markdown").addEventListener("click", () => {
+				const json = window.parseStatblock(
+					document.getElementById("input").value
+				);
+				const attacks = json.attacks.map(attackGroup => {
+					return attackGroup.map(attack => {
+						return `${attack.quantity} ${attack.name} ${attack.range ?
+`(${attack.range}) ` : ''}${attack.bonus ? `${attack.bonus} ` :
+''}${attack.damage ? `(${attack.damage})` : ''}`
+					}).join(' and ')
+				}).join(' or ');
+				const statToString = (num) => {
+					if (num >= 0) return `+${num}`;
+					return String(num);
+				}
+				const traits = json.traits.map(trait => `**${trait.name}.** ${trait.description}`).join('\n\n');
+				const mdString = `# ${json.name}
+
+*${json.description}*
+
+**AC** ${json.ac}, **HP** ${json.hp}, **ATK** ${attacks}, **MV** ${json.movementDistance}${json.movementType ? ` (${json.movementType})` : ''}, **S** ${statToString(json.strength)}, **D** ${statToString(json.dexterity)}, **C** ${statToString(json.constitution)}, **I** ${statToString(json.intelligence)}, **W** ${statToString(json.wisdom)}, **Ch** ${statToString(json.charisma)}, **AL** ${json.alignment[0]}, **LV** ${json.level}
+
+${traits}`;
+				document.getElementById("result").innerHTML =
+					`<pre><code>${mdString}</code></pre>`
+			});
     </script>
   </body>
 </html>
