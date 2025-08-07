@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link href="./style.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/shadowdark-parser@1.4.0/parser.js"></script>
+  </head>
+  <body>
+		<h1>Shadowdark Statblock Hydrator</h1>
+		<a href="/" class="center">Back to OpenShadowdark</a>
+    <textarea id="input"></textarea>
+    <button id="hydrate">Hydrate</button>
+    <div id="result"></div>
+    <script>
+      function generateStatblockHTML(monsterData) {
+        // Helper function to format ability scores
+        const formatAbilityScore = (score) => {
+          return score >= 0 ? `+${score}` : `${score}`;
+        };
+
+        let html = `<div class="statblock">`;
+
+        // Monster Name
+        html += `<h1>${monsterData.name}</h1>`;
+
+        // Description
+        html += `<p class="description">${monsterData.description}</p>`;
+
+        // Top section (AC, HP, Alignment, Movement, Level)
+        html += `<div class="top">`;
+        html += `<span class="ac"><strong>AC</strong> <span>${monsterData.ac}${monsterData.armor ? ` (${monsterData.armor})` : ""}</span></span>`;
+        html += `<span class="hp"><strong>HP</strong> <span>${monsterData.hp}</span></span>`;
+        html += `<span class="al"><strong>Alignment</strong> <span>${monsterData.alignment}</span></span>`;
+        html += `<span class="mv"><strong>Movement</strong> <span>${monsterData.movementDistance}</span></span>`;
+        html += `<span class="lv"><strong>Level</strong> <span>${monsterData.level}</span></span>`;
+        html += `</div>`;
+
+        // Stats (STR, DEX, CON, INT, WIS, CHA)
+        html += `<div class="stats">`;
+        html += `<div class="stat"><strong>STR</strong> <span>${formatAbilityScore(monsterData.strength)}</span></div>`;
+        html += `<div class="stat"><strong>DEX</strong> <span>${formatAbilityScore(monsterData.dexterity)}</span></div>`;
+        html += `<div class="stat"><strong>CON</strong> <span>${formatAbilityScore(monsterData.constitution)}</span></div>`;
+        html += `<div class="stat"><strong>INT</strong> <span>${formatAbilityScore(monsterData.intelligence)}</span></div>`;
+        html += `<div class="stat"><strong>WIS</strong> <span>${formatAbilityScore(monsterData.wisdom)}</span></div>`;
+        html += `<div class="stat"><strong>CHA</strong> <span>${formatAbilityScore(monsterData.charisma)}</span></div>`;
+        html += `</div>`;
+
+        // Attacks
+        if (monsterData.attacks && monsterData.attacks.length > 0) {
+          html += `<div class="attacks">`;
+          monsterData.attacks.forEach((attackGroup) => {
+            html += `<div class="attack_group">`;
+            attackGroup.forEach((attack) => {
+              html += `<div class="attack">`;
+              html += `<strong>${attack.quantity}× ${attack.name}. </strong>`;
+              html += `<span class="hit_info">`;
+              if (attack.bonus) {
+                html += `<span><em>to hit:</em> <strong>${attack.bonus}</strong>; </span>`;
+              }
+              if (attack.range) {
+                html += `<span><em>range:</em> ${attack.range}; </span>`;
+              }
+              if (attack.damage) {
+                html += `<span><em>damage:</em> <strong>${attack.damage}</strong></span>`;
+              }
+              html += `</span>`;
+              html += `</div>`;
+            });
+            html += `</div>`;
+          });
+          html += `</div>`;
+        }
+
+        // Traits
+        if (monsterData.traits && monsterData.traits.length > 0) {
+          html += `<div class="traits">`;
+          monsterData.traits.forEach((trait) => {
+            html += `<div class="trait">`;
+            html += `<strong>${trait.name}.</strong> ${trait.description}`;
+            html += `</div>`;
+          });
+          html += `</div>`;
+        }
+
+        html += `</div>`;
+
+        return html;
+      }
+
+      document.getElementById("hydrate").addEventListener("click", () => {
+        const json = window.parseStatblock(
+          document.getElementById("input").value,
+        );
+        // const json = JSON.parse(document.getElementById("input").value);
+        document.getElementById("result").innerHTML =
+          generateStatblockHTML(json);
+      });
+    </script>
+  </body>
+</html>

@@ -27,6 +27,25 @@ function titleCase(str) {
 
 	app.get("/", (req, res) => {
 		res.render("list", {
+			title: "Tools",
+			route: "",
+			items: [
+				{
+					name: "Monsters, Magic Items, etc",
+					slug: "sources"
+				},
+				{
+					name: "Statblock Hydrator",
+					slug: "hydrator"
+				}
+			],
+			search: "",
+			previewLinks: false
+		});
+	});
+
+	app.get("/sources", (req, res) => {
+		res.render("list", {
 			title: "Sources",
 			route: "",
 			items: sources,
@@ -34,6 +53,7 @@ function titleCase(str) {
 			previewLinks: false
 		});
 	});
+
 
 	app.get("/:source", async (req, res) => {
 		const manifest = getManifest(req.params.source);
