@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.0](https://github.com/ashleytowner/open-shadowdark/compare/v3.0.0...v3.1.0) (2025-08-22)
+
+
+### Features
+
+* Hydrator can also convert to markdown ([97afc85](https://github.com/ashleytowner/open-shadowdark/commit/97afc85407eadfdf48e611b7ba66af75265d8eda))
+* Improve markdown copying ([46e9745](https://github.com/ashleytowner/open-shadowdark/commit/46e97450b45271d136a3bc7227294ebc418ee6ef))
+
+
+### Bug Fixes
+
+* Bump parser version to fix spell parsing bug ([8ac19ed](https://github.com/ashleytowner/open-shadowdark/commit/8ac19edbbec6bb58f2d69ee6bf066b4b6040ff6a))
+* Bump parser version to fix whitespace bug ([21ca0e2](https://github.com/ashleytowner/open-shadowdark/commit/21ca0e2b4138980258f0012f6379c1b9377164c7))
+* Use new version of shadowdark parser ([94c055c](https://github.com/ashleytowner/open-shadowdark/commit/94c055cf563a806fdb6e6390a737067db9dbde40))
+
 ## [3.0.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.2.1...v3.0.0) (2025-08-07)
 
 
