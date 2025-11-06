@@ -69,5 +69,24 @@
         "description": "Appears in a slightly different location to where it actually is. All attacks against it are at disadvantage."
       }
     ]
+  },
+  {
+    "name": "Owl, Giant",
+    "slug": "owl_giant",
+    "description": "An owl twice the size of a human",
+    "armor_class": 11,
+    "armor_type": null,
+    "hit_points": 9,
+    "attacks": "1 bite +3 (1d6)",
+    "movement": "near (fly)",
+    "strength": 3,
+    "dexterity": 1,
+    "constitution": 0,
+    "intelligence": -3,
+    "wisdom": 1,
+    "charisma": -3,
+    "alignment": "N",
+    "level": 2,
+    "traits": []
   }
 ]
