@@ -1,0 +1,14 @@
+---
+import { type CollectionEntry } from 'astro:content'
+
+type Props = CollectionEntry<'entity'>;
+
+const entity = Astro.props;
+const url = `/${entity.id}`;
+const type = entity.id.split('/')[1].replace('-', ' ');
+---
+<a href={url} class="grid w-full grid-cols-3 p-4 border-b hover:bg-gray-200 transition-colors">
+	<span class="font-bold">{entity.data.title}</span>
+	<span class="text-gray-700 italic">{type}</span>
+	<span class="text-gray-700 italic text-right">{entity.data.source}</span>
+</a>
