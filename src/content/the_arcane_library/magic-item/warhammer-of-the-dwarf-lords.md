@@ -1,0 +1,13 @@
+---
+title: Warhammer Of The Dwarf Lords
+description: "A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun."
+source: Shadowdark RPG
+---
+
+# Warhammer Of The Dwarf Lords
+
+_A boxy hammer with a stout handle and leather throwing strap. It hums with a baritone resonance when spun._
+
+**Bonus.** +1 warhammer. +2 if wielded by a dwarf.
+
+**Benefit.** This weapon has the thrown property (pg. 37) to a near distance. It always returns to your hand after being thrown. Your attacks with this weapon deal double damage against giants.

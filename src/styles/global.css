@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+	--shadow-hard-2xs: 1px 1px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-xs: 1px 1px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-sm: 2px 2px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-md: 4px 4px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-lg: 6px 6px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-xl: 8px 8px 0 0 rgba(0, 0, 0, 1);
+	--shadow-hard-2xl: 12px 12px 0 0 rgba(0, 0, 0, 1);
+}
+
+@layer base {
+	body {
+		@apply font-sans;
+	}
+
+	code,
+	pre,
+	kbd,
+	samp {
+		@apply font-mono;
+	}
+}

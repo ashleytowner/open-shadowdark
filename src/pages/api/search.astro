@@ -1,0 +1,40 @@
+---
+import { getCollection } from "astro:content";
+import Fuse from "fuse.js";
+import EntityCard from "../../components/EntityCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export const prerender = false;
+
+const query = Astro.url.searchParams.get("q");
+const limit = Number(Astro.url.searchParams.get("limit"));
+
+const entities = await getCollection("entity");
+
+const fuse = new Fuse(entities, {
+	keys: [
+		{ name: "title", weight: 2 },
+		{ name: "body", weight: 1 },
+	],
+});
+
+const searchResults = query ? fuse.search(query) : [];
+const results =
+	limit && !isNaN(limit) ? searchResults.slice(0, limit) : searchResults;
+---
+
+<BaseLayout>
+	<main class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12">
+		<article id="search-results">
+			<ul>
+				{
+					results.map((entity) => (
+						<li>
+							<EntityCard {...entity.item} />
+						</li>
+					))
+				}
+			</ul>
+		</article>
+	</main>
+</BaseLayout>

@@ -1,12 +1,17 @@
 {
   "name": "open-shadowdark",
+  "type": "module",
   "version": "3.0.0",
-  "description": "",
-  "main": "index.js",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "build": "astro build",
+    "build:prod": "astro db push --remote && astro build --remote",
+    "preview": "astro preview",
+    "astro": "astro",
+    "format": "prettier . --write"
   },
   "repository": {
     "type": "git",
@@ -19,6 +24,22 @@
   },
   "homepage": "https://github.com/ashleytowner/open-shadowdark#readme",
   "dependencies": {
-    "prettier": "^3.5.3"
+    "@astrojs/mdx": "^5.0.4",
+    "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/vercel": "^10.0.6",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.3.0",
+    "astro": "^6.3.1",
+    "fuse.js": "^7.3.0",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.3",
+    "prettier-plugin-astro": "^0.14.1"
+  },
+  "overrides": {
+    "vite": "^7"
   }
 }
