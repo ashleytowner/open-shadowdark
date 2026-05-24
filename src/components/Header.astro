@@ -19,7 +19,13 @@ import Logo from "../assets/open-sd.png";
 				/></a
 			>
 		</h2>
-		<form class="group" hx-get="/api/search" hx-target="#results" hx-select="#search-results">
+		<form
+			class="group"
+			hx-get="/api/search"
+			hx-target="#results"
+			hx-select="#search-results"
+			hx-trigger="input changed delay:500ms, search"
+		>
 			<label for="search" class="sr-only">Search</label>
 			<input
 				type="search"
@@ -36,6 +42,7 @@ import Logo from "../assets/open-sd.png";
 		</form>
 		<div class="flex gap-2">
 			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/browse">Browse</HeaderLink>
 		</div>
 	</nav>
 </header>

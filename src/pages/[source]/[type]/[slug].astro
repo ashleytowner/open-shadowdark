@@ -1,15 +1,18 @@
 ---
 import { getCollection } from "astro:content";
-import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
 import type { CollectionEntry } from "astro:content";
 import { render } from "astro:content";
 
 export async function getStaticPaths() {
 	const entities = await getCollection("entity");
-	const routes = entities.map((entity) => ({
-		params: { slug: entity.id },
-		props: entity,
-	}));
+	const routes = entities.map((entity) => {
+		const [source, type, slug] = entity.id.split("/");
+		return {
+			params: { source, type, slug },
+			props: entity,
+		};
+	});
 	return routes;
 }
 
@@ -18,8 +21,11 @@ type Props = CollectionEntry<"entity">;
 const entity = Astro.props;
 const { Content } = await render(entity);
 ---
+
 <BaseLayout>
-	<article class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose prose-h1:bg-black prose-h1:text-white prose-h1:text-center prose-h1:p-2">
+	<article
+		class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose prose-h1:bg-black prose-h1:text-white prose-h1:text-center prose-h1:p-2"
+	>
 		<Content />
 	</article>
 </BaseLayout>

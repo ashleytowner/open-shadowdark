@@ -1,0 +1,43 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import EntityCard from "../../components/EntityCard.astro";
+import { getEntityType } from "../../util/getEntityType";
+import { slugToTitle } from "../../util/slugToTitle";
+import { slugify } from "../../util/slugify";
+
+export async function getStaticPaths() {
+	const entities = await getCollection("entity");
+	const sources = Array.from(
+		new Set(entities.map((entity) => entity.data.source)),
+	);
+	console.log('###', sources);
+	const routes = sources.map((source) => {
+		return {
+			params: { source: slugify(source) },
+			props: { source },
+		};
+	});
+	return routes;
+}
+
+type Props = { source: string };
+const { source } = Astro.props;
+
+const entities = (await getCollection("entity")).filter((entity) =>
+	entity.data.source === source
+);
+
+const groupedEntities = Object.groupBy(entities, getEntityType)
+
+const groups = Object.keys(groupedEntities).map(group => ([slugToTitle(group), group] as const))
+console.log(groups);
+---
+
+<BaseLayout>
+	<article
+		class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose prose-h1:bg-black prose-h1:text-white prose-h1:text-center prose-h1:p-2"
+	>
+	{groups.map(group => (<details open><summary><h2 class="inline" id={group[1]}>{group[0]}</h2></summary>{groupedEntities[group[1]].map(entity => <EntityCard {...entity} />)}</details>))}
+	</article>
+</BaseLayout>
