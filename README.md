@@ -1,9 +1,9 @@
 # Open Shadowdark
 
-This is a site which maintains a version in several formats (markdown, json,
-html, etc) of open shadowdark content. This includes first-party things covered
-under the third-party license. It also includes third-party content that is
-under an open license. See each data file for the license which pertains to it
+This is a site which maintains a copy of open shadowdark content. This includes
+first-party things covered under the third-party license. It also includes
+third-party content that is under an open license. See each data file for the
+license which pertains to it
 
 It is currently accessible at [openshadowdark.com](https://www.openshadowdark.com/).
 
@@ -25,7 +25,7 @@ First, clone the latest release of this repo, then run
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
 ### Docker
@@ -33,7 +33,7 @@ npm start
 If you'd rather use docker:
 
 ```bash
-docker run --name opensd -e PORT=3000 -p 3000:3000 findpapyrus/open-shadowdark
+docker run --name opensd -e PORT=3000 -p 4321:4321 findpapyrus/open-shadowdark
 ```
 
-Then navigate to `http://localhost:3000` to view the site
+Then navigate to `http://localhost:4321` to view the site
