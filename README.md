@@ -33,7 +33,7 @@ npm run dev
 If you'd rather use docker:
 
 ```bash
-docker run --name opensd -e PORT=3000 -p 4321:4321 findpapyrus/open-shadowdark
+docker run --name opensd -e PORT=4321 -p 4321:4321 findpapyrus/open-shadowdark
 ```
 
 Then navigate to `http://localhost:4321` to view the site
