@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = "Open ShadowDark";
 export const SITE_DESCRIPTION =
-	"Content for shadowdark released under open licenses.";
+	"Content for shadowdark released for free under open licenses.";
