@@ -15,3 +15,7 @@ _A desiccated, linen-wrapped zombie. It was created with an intricate embalming 
 **Desiccated.** Can be damaged by fire. Takes x2 damage from it.
 
 **Necrosis**. DC 15 CON or drop to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP due to this effect.
+
+---
+
+"Mummy" is released under the Shadowdark RPG Third-Party License

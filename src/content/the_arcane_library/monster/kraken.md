@@ -17,3 +17,7 @@ _Primordial, tentacled leviathans the size of war galleons. They live in the lig
 **Lightning Bolt.** Straight line (5' wide) extending far from kraken. DC 15 DEX or 6d6 damage.
 
 **Storm.** Seas become violently turbulent in 1 mile radius around kraken. Lasts 2d4 rounds. Seaborne vessels have a 1:6 chance of capsizing each round.
+
+---
+
+"Kraken" is released under the Shadowdark RPG Third-Party License

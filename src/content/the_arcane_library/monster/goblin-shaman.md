@@ -17,3 +17,7 @@ _A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat p
 **Skitter (WIS Spell).** DC 12. Self. Climb like a spider for 5 rounds.
 
 **Stink Bomb (WIS Spell).** DC 12. One target within far 2d4 damage and DC 12 CON or DISADV on next check/attack.
+
+---
+
+"Goblin, Shaman" is released under the Shadowdark RPG Third-Party License

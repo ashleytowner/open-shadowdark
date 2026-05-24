@@ -9,3 +9,8 @@ source: Shadowdark RPG
 _An opalescent ox horn capped with a golden mouthpiece._
 
 **Benefit.** Only a lawful being can wield the horn. Once per day, you can blow the horn to cast rebuke unholy (pg. 69) with a +4 bonus. A demon or devil who hears the horn has disadvantage on its Charisma check vs. your rebuke unholy spellcasting check.
+
+---
+
+"War Horn Of The Angels" is released under the Shadowdark RPG Third-Party
+License

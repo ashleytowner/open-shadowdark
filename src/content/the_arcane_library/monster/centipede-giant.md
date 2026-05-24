@@ -11,3 +11,7 @@ _Blood-red, feathery centipedes the size of a human arm. Their bite injects a bu
 **AC** 11, **HP** 4, **ATK** 1 bite +1 (1d4 + poison), **MV** near (climb), **S** -3, **D** +1, **C** +0, **I** -4, **W** -3, **Ch** -4, **AL** N, **LV** 1
 
 **Poison**. DC 12 CON or paralyzed 1d4 rounds.
+
+---
+
+"Centipede, Giant" is released under the Shadowdark RPG Third-Party License

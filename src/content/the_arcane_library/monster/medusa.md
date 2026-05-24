@@ -15,3 +15,7 @@ _Immortal women with coiling snakes for hair and scaled skin._
 **Petrify.** Any creature (including medusa) who looks directly at medusa, DC 15 CON or petrified.
 
 **Poison.** DC 15 CON or go to 0 HP.
+
+---
+
+"Medusa" is released under the Shadowdark RPG Third-Party License

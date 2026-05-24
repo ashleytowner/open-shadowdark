@@ -13,3 +13,7 @@ _Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces.
 **Undead**. Immune to morale checks.
 
 **Paralyze.** DC 12 CON or paralyzed 1d4 rounds.
+
+---
+
+"Ghoul" is released under the Shadowdark RPG Third-Party License

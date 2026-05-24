@@ -29,3 +29,8 @@ _A skinless mummy-lich wearing a crown set with nine bright gems. Once the head 
 **Phase (INT Spell).** DC 13. Self. Teleport up to one mile.
 
 **True Name (INT Spell).** DC 15. Near. Learn the _True Name_ of target.
+
+---
+
+"Mordanticus The Flayed" is released under the Shadowdark RPG Third-Party
+License

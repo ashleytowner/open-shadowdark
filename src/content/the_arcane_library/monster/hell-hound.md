@@ -13,3 +13,7 @@ _Black wolfhounds with red eyes and jaws dripping with flames._
 **Impervious**. Fire immune.
 
 **Fire Breath.** Fills a near-sized cube extending from hell hound. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds.
+
+---
+
+"Hell Hound" is released under the Shadowdark RPG Third-Party License

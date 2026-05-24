@@ -13,3 +13,7 @@ _A graceful, shadowy elf that pounces like a spider._
 **Poison**. DC 15 CON or sleep.
 
 **Sunblind.** Blinded in bright light.
+
+---
+
+"Drow" is released under the Shadowdark RPG Third-Party License

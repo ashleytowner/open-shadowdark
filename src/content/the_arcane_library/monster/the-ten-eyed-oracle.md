@@ -33,3 +33,7 @@ creature or an object up to 1,000 pounds (up to four on same target).
 8. **Disintegrate.** DC 15 DEX or 5d8 damage (object destroyed).
 9. **Petrify.** DC 15 CON or petrified.
 10. **Death.** DC 15 CON or drop to 0 HP with a death timer of 1.
+
+---
+
+"The Ten-Eyed Oracle" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of
 **Carrion Mist**. Each time vrock is hit, 3:6 chance of carrion mist in near-sized cube centered on vrock. All enemies DC 15 CON or violent vomiting 1d4 rounds.
 
 **Screech.** All enemies in double near DC 12 WIS or DISADV on checks and attacks for 1d4 rounds.
+
+---
+
+"Demon, Vrock" is released under the Shadowdark RPG Third-Party License

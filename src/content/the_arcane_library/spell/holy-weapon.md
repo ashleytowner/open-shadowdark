@@ -14,3 +14,7 @@ _Tier 1, priest_
 One weapon you touch is imbued with a sacred blessing.
 
 The weapon becomes magical and has +1 to attack and damage rolls for the duration.
+
+---
+
+"Holy Weapon" is released under the Shadowdark RPG Third-Party License

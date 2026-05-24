@@ -21,3 +21,7 @@ _A wizened magic-user crackling with arcane power._
 **Mithralskin (INT Spell).** Self. DC 14. AC becomes 18 for 5 rounds.
 
 **Void Step (INT Spell).** Self and up to 4 willing targets. DC 15. Teleport up to 100 miles.
+
+---
+
+"Archmage" is released under the Shadowdark RPG Third-Party License

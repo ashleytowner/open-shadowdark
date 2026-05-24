@@ -13,3 +13,7 @@ _A wide-limbed, lumbering statue that shakes the ground._
 **Golem**. Immune to damage from fire, cold, electricity, or non-magical sources.
 
 **Slow.** Far range, one target. DC 15 CON or speed halved 1d4 rds.
+
+---
+
+"Golem, Stone" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _Massive, shaggy elephants with tusks that reach the ground._
 **Thick Fur**. Cold immune.
 
 **Charge.** Move up to double near in straight line and make 1 tusks attack. If hit, x3 damage.
+
+---
+
+"Mammoth" is released under the Shadowdark RPG Third-Party License

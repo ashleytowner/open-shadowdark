@@ -15,3 +15,7 @@ _A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone 
 **Scorpion Sting (CHA Spell).** DC 11. Near range, one target. 1d6 damage and target has DISADV on next attack roll or check.
 
 **Spider Swarm (CHA Spell).** DC 12. A spider swarm appears within near. Stays 1d4 rounds. Follows sorcerer's commands.
+
+---
+
+"Kobold, Sorcerer" is released under the Shadowdark RPG Third-Party License

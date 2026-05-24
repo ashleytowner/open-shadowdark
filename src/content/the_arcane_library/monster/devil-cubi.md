@@ -15,3 +15,7 @@ _Entrancing humanoids with bat wings and devilish charm._
 **Charm.** One humanoid in near DC 15 CHA or bewitched by cubi for 1d6 hours.
 
 **Drain.** The target takes 1d6 WIS damage. A target reduced to 0 WIS this way swears its soul to an archdevil.
+
+---
+
+"Devil, Cubi" is released under the Shadowdark RPG Third-Party License

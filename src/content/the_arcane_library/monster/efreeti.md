@@ -15,3 +15,7 @@ _Blood-red, towering humanoids formed of lava and ash. Short, black horns and sn
 **Wall of Flame.** 1/day, 20' high curtain of fire, double near length. Touching it deals 4d8 damage. Lasts 2d4 rounds.
 
 **Wish.** Cast wish once a week for a mortal, no spellcasting check.
+
+---
+
+"Efreeti" is released under the Shadowdark RPG Third-Party License

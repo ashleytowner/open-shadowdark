@@ -12,3 +12,7 @@ _Tier 3, wizard_
 **Range:** Near
 
 End one spell that affects one target you can see in range.
+
+---
+
+"Dispel Magic" is released under the Shadowdark RPG Third-Party License

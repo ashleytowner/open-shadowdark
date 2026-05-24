@@ -15,3 +15,7 @@ _Enormous, antediluvian catfish covered in slime and tentacles. They hate all in
 **Enslave.** In place of attacks, one creature within far DC 15 WIS or aboleth controls for 1d4 rounds.
 
 **Telepathic.** Read the thought,s of all creatures within far.
+
+---
+
+"Aboleth" is released under the Shadowdark RPG Third-Party License

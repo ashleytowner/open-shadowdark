@@ -25,3 +25,7 @@ _A wizard who has completed a necromantic ritual to become a mighty, undead sorc
 **Sigil of Doom (INT Spell).** DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP.
 
 **Wither (INT Spell).** DC 14. 4d8 damage to enemies within a near-sized cube centered on lich.
+
+---
+
+"Lich" is released under the Shadowdark RPG Third-Party License

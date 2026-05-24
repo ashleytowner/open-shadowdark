@@ -13,3 +13,8 @@ _A crashing vortex of water._
 **Impervious**. Only damaged by magical sources.
 
 **Whirlpool.** All within close DC 15 STR or immobilized inside water elemental (treat as underwater). DC 15 STR on turn to escape.
+
+---
+
+"Elemental, Water Lesser" is released under the Shadowdark RPG Third-Party
+License

@@ -13,3 +13,7 @@ _A ghastly monstrosity made of sewn-together corpses._
 **Golem**. Immune to damage from fire, cold, or non-magical sources. Healed by electricity.
 
 **Berserk.** When at or below 20 HP, +1 slam attack and slams deal double damage.
+
+---
+
+"Golem, Flesh" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,8 @@ _A roaring column of flames._
 **Impervious**. Only damaged by magical sources. Fire immune.
 
 **Inferno.** All within near DC 15 DEX or 3d8 damage.
+
+---
+
+"Elemental, Fire Greater" is released under the Shadowdark RPG Third-Party
+License

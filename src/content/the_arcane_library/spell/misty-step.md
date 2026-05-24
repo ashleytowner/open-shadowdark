@@ -12,3 +12,7 @@ _Tier 2, wizard_
 **Range:** Self
 
 In a puff of smoke, you teleport a near distance to an area you can see.
+
+---
+
+"Misty Step" is released under the Shadowdark RPG Third-Party License

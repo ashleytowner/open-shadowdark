@@ -13,3 +13,7 @@ _Slick puddles the color of stone._
 **Impervious**. Immune to damage from acid, cold, or fire.
 
 **Corrosive.** Nonmagical metal that touches the ooze dissolves on a d6 roll of 1-3.
+
+---
+
+"Gray Ooze" is released under the Shadowdark RPG Third-Party License

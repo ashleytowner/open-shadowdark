@@ -18,3 +18,7 @@ You summon an elemental or outsider of LV 7 or less. The creature is under your 
 If you lose focus on this spell, you lose control of the creature and it becomes hostile toward you and your allies.
 
 You must pass a spellcasting check on your turn to return the creature to the outer planes.
+
+---
+
+"Summon Extraplanar" is released under the Shadowdark RPG Third-Party License

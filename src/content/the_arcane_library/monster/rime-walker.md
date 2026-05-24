@@ -13,3 +13,7 @@ _Human-shaped beings formed from black space ice. Their eyes are two flickering,
 **Impervious**. Immune to cold.
 
 **Ice Aura.** Enemies within near of rime walker DC 12 CON at start of turn or lose action.
+
+---
+
+"Rime Walker" is released under the Shadowdark RPG Third-Party License

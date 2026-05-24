@@ -11,3 +11,8 @@ _A curved dagger with a half- moon notch at the blade's base._
 **Bonus.** +1 dagger.
 
 **Benefit.** You can speak Goblin. All goblinoid creatures react to you with a friendly attitude.
+
+---
+
+"Dagger Of The Goblin Hero" is released under the Shadowdark RPG Third-Party
+License

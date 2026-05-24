@@ -19,3 +19,7 @@ _Trained wizards who are often members of a sorcerous order._
 **Levitate (INT Spell).** DC 12. Close. Focus. Hover near for duration, vertical movement only.
 
 **Snare (INT Spell).** DC 13. Focus. One humanoid target within near paralyzed for duration.
+
+---
+
+"Mage" is released under the Shadowdark RPG Third-Party License

@@ -23,3 +23,8 @@ _A cheerful merchant who appears to be a hale, middle-aged human man with a hand
 **Reckoning.** Any creature who steals from The Wandering Merchant develops a curse. Over the next 2d8 days, that creature turns into a cockatrice. This curse can only be lifted by a wish spell or by returning the stolen goods.
 
 **Strange Lands.** The Wandering Merchant does not suffer any ill effects from the natural environment he does not wish to suffer.
+
+---
+
+"The Wandering Merchant" is released under the Shadowdark RPG Third-Party
+License

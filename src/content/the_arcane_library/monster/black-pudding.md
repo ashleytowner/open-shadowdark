@@ -13,3 +13,7 @@ _A black, ice-cold mass of sludge._
 **Impervious**. Only damaged by fire.
 
 **Corrosive.** Wood or metal that touches the ooze dissolves on a d6 roll of 1-3.
+
+---
+
+"Black Pudding" is released under the Shadowdark RPG Third-Party License

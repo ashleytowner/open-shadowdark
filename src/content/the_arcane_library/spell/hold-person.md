@@ -12,3 +12,7 @@ _Tier 2, wizard_
 **Range:** Near
 
 You magically paralyze one humanoid creature of LV 4 or less you can see within range.
+
+---
+
+"Hold Person" is released under the Shadowdark RPG Third-Party License

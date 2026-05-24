@@ -11,3 +11,7 @@ _A tarnished, silver mace with seven flanges in the shape of crescent moons._
 **Bonus.** +1 mace.
 
 **Benefit.** This weapon deals double damage against creatures with lycanthropy.
+
+---
+
+"Silver Mace Of Wrath" is released under the Shadowdark RPG Third-Party License

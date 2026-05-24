@@ -13,3 +13,7 @@ _Serene humans sculpted from alabaster. Golden orbs for eyes._
 **Moonlight Aura**. Hostile spells targeting the principi are DC 15.
 
 **Truesight.** Can see all invisible creatures and objects.
+
+---
+
+"Angel, Principi" is released under the Shadowdark RPG Third-Party License

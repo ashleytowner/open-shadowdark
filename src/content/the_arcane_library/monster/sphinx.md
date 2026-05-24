@@ -21,3 +21,7 @@ _A winged, leonine oracle who can see into time and space and often speaks in ri
 **Time Bend (WIS Spell).** DC 14. One target in near frozen in time for 1d4 rounds.
 
 **Unmake (WIS Spell).** DC 13. One target in far takes 3d8 damage.
+
+---
+
+"Sphinx" is released under the Shadowdark RPG Third-Party License

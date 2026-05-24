@@ -14,3 +14,7 @@ _Tier 3, priest_
 You instantly send an undead creature you touch to its final afterlife, destroying it utterly.
 
 You can target an undead creature of LV 9 or less.
+
+---
+
+"Lay To Rest" is released under the Shadowdark RPG Third-Party License

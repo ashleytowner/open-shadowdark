@@ -14,3 +14,7 @@ _Tier 3, wizard_
 You shoot a blue-white ray of lightning from your hands, hitting all creatures in a straight line out to a far distance.
 
 Creatures struck by the lightning take 3d6 damage.
+
+---
+
+"Lightning Bolt" is released under the Shadowdark RPG Third-Party License

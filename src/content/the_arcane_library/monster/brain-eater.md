@@ -17,3 +17,7 @@ _Purple, gaunt humanoids with squidlike heads and four face tentacles. They live
 **Mind Blast.** Fills a near-sized cube extending from brain eater. DC 15 INT or 3d6 damage and paralyzed 1d4 rounds.
 
 **Mind Control.** One target in near DC 15 CHA or brain eater controls for 1d4 rounds.
+
+---
+
+"Brain Eater" is released under the Shadowdark RPG Third-Party License

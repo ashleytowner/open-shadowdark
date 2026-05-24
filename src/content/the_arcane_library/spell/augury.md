@@ -14,3 +14,7 @@ _Tier 2, priest_
 You interpret the meaning of supernatural portents and omens.
 
 Ask the GM one question about a specific course of action. The GM says whether the action will lead to “weal” or “woe.”
+
+---
+
+"Augury" is released under the Shadowdark RPG Third-Party License

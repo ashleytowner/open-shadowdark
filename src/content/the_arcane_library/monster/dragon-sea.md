@@ -13,3 +13,7 @@ _A warm sea breeze blows around this amphibious, gold- scaled wyrm. A beard of t
 **Steam Breath**. Fills a double near-sized cube extending from dragon. DC 15 DEX or 4d12 damage.
 
 **Water Spout.** Fills a near-sized cube within far. DC 15 STR or creatures inside flung 2d100 feet in a random direction.
+
+---
+
+"Dragon, Sea" is released under the Shadowdark RPG Third-Party License

@@ -15,3 +15,7 @@ _The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of
 **Lightning Breath.** A straight line (5' wide) extending double near from dragon. DC 15 DEX or 4d8 damage (DISADV on check if wearing metal armor).
 
 **Mirage.** 1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits dragon or illusions.
+
+---
+
+"Dragon, Desert" is released under the Shadowdark RPG Third-Party License

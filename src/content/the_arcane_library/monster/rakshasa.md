@@ -15,3 +15,7 @@ _Demonic illusionists whose true form is of a humanlike great cat with backwards
 **Mesmerism.** Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid.
 
 **Weakness.** A crossbow bolt under the effects of the holy weapon spell kills the rakshasa.
+
+---
+
+"Rakshasa" is released under the Shadowdark RPG Third-Party License

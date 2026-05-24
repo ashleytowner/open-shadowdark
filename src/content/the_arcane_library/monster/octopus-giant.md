@@ -13,3 +13,7 @@ _Octopi as large as sailing skiffs._
 **Grab**. DC 15 STR or immobilized. Tentacle auto-hits each round. DC 15 STR on turn to break free.
 
 **Ink.** In place of attacks, ink cloud blinds all in near for 1d4 rounds.
+
+---
+
+"Octopus, Giant" is released under the Shadowdark RPG Third-Party License

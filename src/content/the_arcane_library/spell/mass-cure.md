@@ -12,3 +12,7 @@ _Tier 3, priest_
 **Range:** Near
 
 All allies within near range of you regain 2d6 hit points.
+
+---
+
+"Mass Cure" is released under the Shadowdark RPG Third-Party License

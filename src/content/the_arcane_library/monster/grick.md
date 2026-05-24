@@ -13,3 +13,7 @@ _A huge worm with four suckered tentacles and a snapping beak._
 **Camouflage**. Hard to see in cave terrain or rocks.
 
 **Grab.** Target is immobilized. DC 15 Strength check on turn to break free.
+
+---
+
+"Grick" is released under the Shadowdark RPG Third-Party License

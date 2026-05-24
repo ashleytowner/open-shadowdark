@@ -13,3 +13,7 @@ _A cat burglar in a black cloak._
 **Stealthy**. ADV on DEX checks to sneak and hide.
 
 **Backstab.** Deal x2 damage against surprised creatures.
+
+---
+
+"Thief" is released under the Shadowdark RPG Third-Party License

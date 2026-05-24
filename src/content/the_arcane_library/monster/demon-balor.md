@@ -15,3 +15,7 @@ _Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty
 **Grab.** DC 18 STR or target bound in whip. 2d6 damage per round held, DC 18 STR on turn to break free. In place of fire whip attack, balor can fling a grabbed target double near on its turn.
 
 **Hellfire.** DC 18 DEX or 2d8 damage per round until flames extinguished.
+
+---
+
+"Demon, Balor" is released under the Shadowdark RPG Third-Party License

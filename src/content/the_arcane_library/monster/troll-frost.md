@@ -13,3 +13,7 @@ _Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic la
 **Impervious**. Cold and fire immune.
 
 **Regenerate.** Regains 2d6 HP on its turn unless its wounds are cauterized with acid.
+
+---
+
+"Troll, Frost" is released under the Shadowdark RPG Third-Party License

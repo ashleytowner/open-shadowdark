@@ -13,3 +13,7 @@ _A massive worm as tall as a castle keep. Has a rotating maw and is covered in p
 **Poison**. DC 15 CON or go to 0 HP.
 
 **Swallow.** On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Worm regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.
+
+---
+
+"Purple Worm" is released under the Shadowdark RPG Third-Party License

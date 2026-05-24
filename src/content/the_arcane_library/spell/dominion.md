@@ -18,3 +18,7 @@ The beings must have a combined total of 16 levels or less. Chaotic PCs summon d
 The beings act of free will to aid you on your turn. After 10 rounds, they return to their realms.
 
 You cannot cast this spell again until you complete penance.
+
+---
+
+"Dominion" is released under the Shadowdark RPG Third-Party License

@@ -14,3 +14,7 @@ _Tier 4, wizard_
 You lift a creature or object with your mind. Choose a target that weighs 1,000 pounds or less.
 
 You can move it a near distance in any direction and hold it in place.
+
+---
+
+"Telekinesis" is released under the Shadowdark RPG Third-Party License

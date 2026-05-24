@@ -19,3 +19,7 @@ _Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlig
 **Shapechange.** In place of attacks, turn into a bat, wolf, or back into regular form.
 
 **Vampire.** Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.
+
+---
+
+"Vampire" is released under the Shadowdark RPG Third-Party License

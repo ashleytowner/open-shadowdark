@@ -14,3 +14,7 @@ _Tier 1, wizard_
 You have advantage on your check to cast this spell.
 
 A glowing bolt of force streaks from your open hand, dealing 1d4 damage to one target.
+
+---
+
+"Magic Missile" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claw
 **Stealthy**. ADV on DEX checks to sneak and hide.
 
 **Strangle.** Deals x2 damage against surprised creatures.
+
+---
+
+"Strangler" is released under the Shadowdark RPG Third-Party License

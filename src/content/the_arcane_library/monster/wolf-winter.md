@@ -13,3 +13,7 @@ _Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of e
 **Impervious**. Cold immune.
 
 **Frost Breath.** Fills a near-sized cube extending from winter wolf. DC 15 DEX or 3d8 damage. Cannot use again for 1d4 rounds.
+
+---
+
+"Wolf, Winter" is released under the Shadowdark RPG Third-Party License

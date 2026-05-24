@@ -13,3 +13,7 @@ _Chitin-plated scorpions as big as camels._
 **Grab**. DC 12 STR or target held. DC 12 STR on turn to break free.
 
 **Poison.** DC 12 CON or go to 0 HP.
+
+---
+
+"Scorpion, Giant" is released under the Shadowdark RPG Third-Party License

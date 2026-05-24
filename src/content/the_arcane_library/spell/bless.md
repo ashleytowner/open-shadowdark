@@ -12,3 +12,7 @@ _Tier 2, priest_
 **Range:** Close
 
 One creature you touch gains a luck token.
+
+---
+
+"Bless" is released under the Shadowdark RPG Third-Party License

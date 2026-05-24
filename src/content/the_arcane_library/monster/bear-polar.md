@@ -13,3 +13,7 @@ _A mighty, white bear that thrives in arctic environments._
 **Crush**. Deals an extra die of damage if it hits the same target with both claws.
 
 **Thick Fur.** Cold immune.
+
+---
+
+"Bear, Polar" is released under the Shadowdark RPG Third-Party License

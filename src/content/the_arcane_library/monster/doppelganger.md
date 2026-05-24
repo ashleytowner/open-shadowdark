@@ -13,3 +13,7 @@ _Gray, featureless humanoids that delight in sowing chaos._
 **Change Shape**. In place of attacks, transform into any similarly-sized humanoid.
 
 **Telepathy.** Can secretly hear the surface thoughts of all humanoids within near.
+
+---
+
+"Doppelganger" is released under the Shadowdark RPG Third-Party License

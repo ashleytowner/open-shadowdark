@@ -11,3 +11,7 @@ _Leering, winged fiends that look like stone statues. They can hold perfectly st
 **AC** 16, **HP** 20, **ATK** 2 claw +3 (1d6), **MV** near (fly), **S** +3, **D** +1, **C** +2, **I** +0, **W** +1, **Ch** -1, **AL** C, **LV** 4
 
 **Impervious**. Only damaged by magical sources.
+
+---
+
+"Gargoyle" is released under the Shadowdark RPG Third-Party License

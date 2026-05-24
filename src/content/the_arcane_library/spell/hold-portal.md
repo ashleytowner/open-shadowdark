@@ -14,3 +14,7 @@ _Tier 1, wizard_
 You magically hold a portal closed for the duration.
 
 A creature must make a successful STR check vs. your spellcasting check to open the portal. The knock spell ends this spell.
+
+---
+
+"Hold Portal" is released under the Shadowdark RPG Third-Party License

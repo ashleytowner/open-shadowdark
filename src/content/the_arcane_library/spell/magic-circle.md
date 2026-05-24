@@ -16,3 +16,7 @@ You conjure a circle of runes out to near-sized cube centered on yourself and na
 For the spell’s duration, creatures of the chosen type cannot attack or cast a hostile spell on anyone inside the circle.
 
 The chosen creatures also can’t possess, compel, or beguile anyone inside the circle.
+
+---
+
+"Magic Circle" is released under the Shadowdark RPG Third-Party License

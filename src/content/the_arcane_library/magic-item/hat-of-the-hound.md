@@ -9,3 +9,7 @@ source: Shadowdark RPG
 _A rounded, jaunty bowler hat._
 
 **Benefit.** You can transform into a mastiff each day for up to 10 rounds total. Your clothing and possessions transform with you.
+
+---
+
+"Hat Of The Hound" is released under the Shadowdark RPG Third-Party License

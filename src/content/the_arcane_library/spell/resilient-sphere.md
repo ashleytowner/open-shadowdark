@@ -16,3 +16,7 @@ You conjure a weightless, glassy sphere around you that extends out to close ran
 For the spell's duration, nothing can pass through or crush the sphere.
 
 You can roll the sphere a near distance on your turn.
+
+---
+
+"Resilient Sphere" is released under the Shadowdark RPG Third-Party License

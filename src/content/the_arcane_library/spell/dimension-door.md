@@ -12,3 +12,7 @@ _Tier 4, wizard_
 **Range:** Self
 
 You teleport yourself and up to one other willing creature within close to any point you can see.
+
+---
+
+"Dimension Door" is released under the Shadowdark RPG Third-Party License

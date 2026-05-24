@@ -17,3 +17,7 @@ _A respected member of a clergy who leads holy rituals and rites._
 **Holy Flame (WIS Spell).** DC 13. Self. Weapons ignite in magic flames and deal an additional 1d6 damage for 5 rounds.
 
 **Rebuke (WIS Spell).** DC 13. Focus. Chaotic creatures cannot attack priest or come within near range for duration.
+
+---
+
+"Priest" is released under the Shadowdark RPG Third-Party License

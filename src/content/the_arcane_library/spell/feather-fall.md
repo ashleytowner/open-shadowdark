@@ -14,3 +14,7 @@ _Tier 1, wizard_
 You may make an attempt to cast this spell when you fall.
 
 Your rate of descent slows so that you land safely on your feet.
+
+---
+
+"Feather Fall" is released under the Shadowdark RPG Third-Party License

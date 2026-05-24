@@ -15,3 +15,7 @@ _Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty
 **Blood Drain.** Vampire heals 2d6 HP and target permanently loses 1d4 CON. At 0 CON, target dies and rises as a vampire spawn.
 
 **Vampire.** Must sleep in a coffin daily or loses 2d6 HP each day that can't be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.
+
+---
+
+"Vampire Spawn" is released under the Shadowdark RPG Third-Party License

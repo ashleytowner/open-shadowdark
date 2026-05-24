@@ -13,3 +13,7 @@ _A monstrosity with the body of a giant spider and torso of a drow._
 **Poison**. DC 15 CON or paralyzed 1d4 rounds.
 
 **Sunblind.** Blinded in bright light.
+
+---
+
+"Drow, Drider" is released under the Shadowdark RPG Third-Party License

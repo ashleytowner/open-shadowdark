@@ -12,3 +12,7 @@ _Tier 4, priest_
 **Range:** Far
 
 You call down a holy pillar of fire, immolating one creature you can see within range. The target takes 2d6 damage.
+
+---
+
+"Flame Strike" is released under the Shadowdark RPG Third-Party License

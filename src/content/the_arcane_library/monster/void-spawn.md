@@ -13,3 +13,7 @@ _Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a
 **Impervious**. Immune to cold.
 
 **Toxin.** DC 12 CON or paralyzed for 1d4 rounds.
+
+---
+
+"Void Spawn" is released under the Shadowdark RPG Third-Party License
