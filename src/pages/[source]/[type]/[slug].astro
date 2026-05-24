@@ -22,7 +22,7 @@ const entity = Astro.props;
 const { Content } = await render(entity);
 ---
 
-<BaseLayout>
+<BaseLayout title={`${entity.data.title} — Open Shadowdark`} description={entity.data.description}>
 	<article
 		class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose prose-h1:bg-black prose-h1:text-white prose-h1:text-center prose-h1:p-2"
 	>

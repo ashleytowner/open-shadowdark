@@ -34,7 +34,7 @@ const groups = Object.keys(groupedEntities).map(group => ([slugToTitle(group), g
 console.log(groups);
 ---
 
-<BaseLayout>
+<BaseLayout title={`${source} — Open Shadowdark`} description={`Browse content from ${source}`}>
 	<article
 		class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose prose-h1:bg-black prose-h1:text-white prose-h1:text-center prose-h1:p-2"
 	>
