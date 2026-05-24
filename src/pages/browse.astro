@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { slugify } from "../util/slugify";
+
+const entities = await getCollection("entity");
+
+const sources = Array.from(
+	new Set<string>(entities.map((entity) => entity.data.source)),
+);
+---
+
+<BaseLayout>
+	<main class="p-4 m-auto w-full md:w-8/12 lg:w-7/12 xl:w-4/12 prose">
+		<div id="entities">
+			<h1>Browse Sources</h1>
+			<ul>
+				{sources.map(source => (<li><a class="block underline hover:no-underline" href={`/${slugify(source)}`}>{source}</a></li>))}
+			</ul>
+		</div>
+	</main>
+</BaseLayout>
