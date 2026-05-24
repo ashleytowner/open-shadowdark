@@ -18,3 +18,7 @@ The target gains the creature's physical stats and features, but it retains its 
 If the target goes to 0 hit points, it reverts to its true form at half its prior hit points.
 
 You can target any willing creature with this spell, or an unwilling creature whose level is less than or equal to half your level rounded down (min. 1).
+
+---
+
+"Polymorph" is released under the Shadowdark RPG Third-Party License

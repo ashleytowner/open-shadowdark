@@ -39,3 +39,7 @@ advantage or disadvantage on all attack rolls and checks.
 **Time Stop (WIS Spell).** DC 15. Self. Time freezes for everyone except
 Rathgamnon for 1d4 rounds. Everything that occurs during the time
 freeze happens simultaneously when the spell ends.
+
+---
+
+"Rathgamnon" is released under the Shadowdark RPG Third-Party License

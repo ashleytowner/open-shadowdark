@@ -12,3 +12,7 @@ _Tier 4, priest_
 **Range:** Self
 
 Your weapons become magical +2 and deal an additional d8 damage for the spell's duration.
+
+---
+
+"Wrath" is released under the Shadowdark RPG Third-Party License

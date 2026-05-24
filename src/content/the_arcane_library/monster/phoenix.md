@@ -17,3 +17,7 @@ _Huge, soaring eagles made of searing flames. Intelligent and imbued with immort
 **Heat Aura.** Creatures within near of phoenix at start of turn DC 15 CON or 2d6 damage.
 
 **Rebirth.** A red-hot egg remains after death. Phoenix hatches from it in 1d4 days.
+
+---
+
+"Phoenix" is released under the Shadowdark RPG Third-Party License

@@ -14,3 +14,7 @@ _Tier 5, priest_
 One creature you touch is healed to full hit points.
 
 You cannot cast this spell again until you complete a rest.
+
+---
+
+"Heal" is released under the Shadowdark RPG Third-Party License

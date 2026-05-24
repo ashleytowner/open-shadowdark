@@ -13,3 +13,7 @@ _Lurching and decomposed undead that hunt in mobs._
 **Undead**. Immune to morale checks.
 
 **Relentless.** If zombie reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead.
+
+---
+
+"Zombie" is released under the Shadowdark RPG Third-Party License

@@ -17,3 +17,7 @@ _Magic-wielding cobras towering ten feet high. Once a dominant species, they are
 **Hypnotize (CHA Spell).** DC 13. Focus. One target in near range who can see naga is helplessly stupefied for duration.
 
 **Whispers (CHA Spell).** DC 12. Hostile spells cast on one target in near are DC 9 for 1d4 rounds.
+
+---
+
+"Naga" is released under the Shadowdark RPG Third-Party License

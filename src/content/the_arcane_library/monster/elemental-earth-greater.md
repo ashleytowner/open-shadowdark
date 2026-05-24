@@ -13,3 +13,8 @@ _A thundering pillar of earth._
 **Impervious**. Only damaged by magical sources.
 
 **Avalanche.** All within close DC 15 STR or entombed for 1d4 rounds under mounds of earth.
+
+---
+
+"Elemental, Earth Greater" is released under the Shadowdark RPG Third-Party
+License

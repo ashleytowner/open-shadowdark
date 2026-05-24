@@ -17,3 +17,7 @@ _Cunning and sorcerous ogre- demons with shaggy white hair, blue skin, and yello
 **Hellfrost (CHA Spell).** DC 13. All within near-sized cube extending from oni 3d6 damage.
 
 **Mist (CHA Spell).** DC 13. Self. Turn into mist that can fly double near. Lasts 2d4 rounds.
+
+---
+
+"Oni" is released under the Shadowdark RPG Third-Party License

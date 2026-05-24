@@ -13,3 +13,7 @@ _A midnight blue manta ray with a bony tail and crescent-shaped maw above its be
 **Phantoms**. 1/day, in place of attacks. Create 3 illusory duplicates that disappear when hit. Determine randomly if an attack hits cloaker or illusions.
 
 **Screech.** Enemies within double near DC 15 WIS or DISADV on attacks and checks 1d4 rounds.
+
+---
+
+"Cloaker" is released under the Shadowdark RPG Third-Party License

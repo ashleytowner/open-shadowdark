@@ -12,3 +12,7 @@ _Tier 1, priest_
 **Range:** Self
 
 A protective force wrought of your holy conviction surrounds you. You gain a +2 bonus to your armor class for the duration.
+
+---
+
+"Shield of Faith" is released under the Shadowdark RPG Third-Party License

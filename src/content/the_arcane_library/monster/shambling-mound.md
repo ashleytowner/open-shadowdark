@@ -13,3 +13,7 @@ _Fetid piles of slimy vegetation animated to life by lightning._
 **Impervious**. Fire immune. Healed by electricity.
 
 **Engulf.** If a target is hit by both slams in same round, it is pulled into shambling mound's body and suffocates in 2d4 rounds. DC 15 STR on turn to escape.
+
+---
+
+"Shambling Mound" is released under the Shadowdark RPG Third-Party License

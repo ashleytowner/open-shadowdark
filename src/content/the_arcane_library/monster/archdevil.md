@@ -15,3 +15,7 @@ _A stunningly beautiful, horned human with burning, red eyes and a halo of seven
 **Crown of Darkness**. All hostile spells are reflected at caster with a spellcasting check less than 20.
 
 **Soulbind.** All targets within near DC 20 CHA or fall under control of archdevil for 1d4 rounds. DC 20 CHA on turn to end the effect.
+
+---
+
+"Archdevil" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _A purple-skinned, stooped woman with stringy, white hair and a mouth full of ir
 **Blind**. One target within near DC 15 CHA or blinded for 1d4 days.
 
 **Shapechange.** Instantly change to look like any other humanoid.
+
+---
+
+"Hag, Night" is released under the Shadowdark RPG Third-Party License

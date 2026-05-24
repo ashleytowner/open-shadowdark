@@ -12,3 +12,7 @@ _Tier 2, priest_
 **Range:** Near
 
 You call down punishing flames on a creature you can see within range. It takes 1d6 damage.
+
+---
+
+"Smite" is released under the Shadowdark RPG Third-Party License

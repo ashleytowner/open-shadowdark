@@ -12,3 +12,7 @@ _Tier 3, wizard_
 **Range:** Self
 
 Your feet lift from the ground, and you take to the air like a hummingbird. You can fly near for the spell's duration and are able to hover in place.
+
+---
+
+"Fly" is released under the Shadowdark RPG Third-Party License

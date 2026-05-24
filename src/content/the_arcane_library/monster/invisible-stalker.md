@@ -15,3 +15,7 @@ _Intelligent creatures made of flowing air. Often bound to the bidding of evil s
 **Invisible.** Naturally invisible.
 
 **Tracking.** Can always sense the direction of its chosen quarry.
+
+---
+
+"Invisible Stalker" is released under the Shadowdark RPG Third-Party License

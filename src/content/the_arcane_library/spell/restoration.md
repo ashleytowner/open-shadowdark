@@ -12,3 +12,7 @@ _Tier 3, priest_
 **Range:** Close
 
 With the touch of your hands, you expunge curses and illnesses. One curse, illness, or affliction of your choice affecting the target creature ends.
+
+---
+
+"Restoration" is released under the Shadowdark RPG Third-Party License

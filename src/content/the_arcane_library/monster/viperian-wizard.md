@@ -17,3 +17,7 @@ _Thin viperians with scales tinged in black. They wear silk robes and silver, se
 **Venom (INT Spell).** DC 12. One target in far takes 2d8 damage.
 
 **Whispers (INT Spell).** DC 14. Focus. All enemies within near of viperian wizard have DISADV on spellcasting checks for the duration.
+
+---
+
+"Viperian, Wizard" is released under the Shadowdark RPG Third-Party License

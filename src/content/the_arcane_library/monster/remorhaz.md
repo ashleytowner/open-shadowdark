@@ -15,3 +15,7 @@ _Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arc
 **Melt.** Non-magical metal objects that touch the remorhaz melt on a d6 roll of 1-3.
 
 **Swallow.** On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Remorhaz regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.
+
+---
+
+"Remorhaz" is released under the Shadowdark RPG Third-Party License

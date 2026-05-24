@@ -12,3 +12,7 @@ _Tier 1, wizard_
 **Range:** Self
 
 An invisible layer of magical force protects your vitals. Your armor class becomes 14 (18 on a critical spellcasting check) for the spell’s duration.
+
+---
+
+"Mage Armor" is released under the Shadowdark RPG Third-Party License

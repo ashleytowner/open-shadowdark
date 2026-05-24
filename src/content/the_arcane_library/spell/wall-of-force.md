@@ -16,3 +16,7 @@ You lift your hands, conjuring a transparent wall of force.
 The thin wall must be contiguous and can cover a near-sized area in width and length. You choose its shape.
 
 Nothing on the same plane can physically pass through the wall.
+
+---
+
+"Wall of Force" is released under the Shadowdark RPG Third-Party License

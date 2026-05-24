@@ -18,3 +18,7 @@ Within the cube, no spells can be cast. Magic items and spells have no effect in
 The cube moves with you. Spells such as dispel magic have no effect on it.
 
 Another antimagic shell does not affect this one.
+
+---
+
+"Antimagic Shell" is released under the Shadowdark RPG Third-Party License

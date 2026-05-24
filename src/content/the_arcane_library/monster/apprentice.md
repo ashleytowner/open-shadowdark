@@ -13,3 +13,7 @@ _A cloaked magician with a thin, freshly bound spellbook._
 **Beguile (INT Spell)**. DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration.
 
 **Magic Bolt (INT Spell).** DC 11. 1d4 damage to one target within far.
+
+---
+
+"Apprentice" is released under the Shadowdark RPG Third-Party License

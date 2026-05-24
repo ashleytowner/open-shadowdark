@@ -15,3 +15,7 @@ _A shadowy spirit seething with anger and malice. Its presence is unsettling to 
 **Incorporeal.** In place of attacks, become corporeal or incorporeal.
 
 **Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
+
+---
+
+"Wraith" is released under the Shadowdark RPG Third-Party License

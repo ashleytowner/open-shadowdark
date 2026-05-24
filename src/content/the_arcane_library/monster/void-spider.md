@@ -15,3 +15,7 @@ _Pale, horse-sized arachnids that become ghostly and intangible._
 **Phase.** Once per round, become corporeal or incorporeal.
 
 **Poison.** DC 12 CON or drop to 0 HP in 1d4 rounds.
+
+---
+
+"Void Spider" is released under the Shadowdark RPG Third-Party License

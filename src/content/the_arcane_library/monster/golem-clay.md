@@ -13,3 +13,7 @@ _A towering, faceless humanoid shaped from glistening clay._
 **Golem**. Immune to damage from fire, cold, electricity, or non-magical sources. Healed by acid.
 
 **Curse.** Slam damage can only be healed by level 5+ priest.
+
+---
+
+"Golem, Clay" is released under the Shadowdark RPG Third-Party License

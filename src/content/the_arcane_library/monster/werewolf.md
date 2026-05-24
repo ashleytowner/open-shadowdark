@@ -13,3 +13,7 @@ _A bipedal, wolf-faced humanoid covered in brown fur._
 **Impervious**. Only damaged by silver or magic sources.
 
 **Lycanthropy.** If 12 or more damage from the same werewolf, contract lycanthropy.
+
+---
+
+"Werewolf" is released under the Shadowdark RPG Third-Party License

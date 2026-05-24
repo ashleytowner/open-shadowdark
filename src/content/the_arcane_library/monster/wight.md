@@ -13,3 +13,7 @@ _A pale, armored undead warrior with sinister intelligence._
 **Greater Undead**. Immune to morale checks. Only damaged by silver or magical sources.
 
 **Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
+
+---
+
+"Wight" is released under the Shadowdark RPG Third-Party License

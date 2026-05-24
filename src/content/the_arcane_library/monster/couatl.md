@@ -15,3 +15,7 @@ _A human-sized snake with scales made of jewels and a corona of iridescent feath
 **Poison.** DC 15 CON or fall into natural, deep sleep for 1d8 hours.
 
 **Restore.** In place of attacks, touch one creature to remove a curse, affliction, or heal 3d8 HP.
+
+---
+
+"Couatl" is released under the Shadowdark RPG Third-Party License

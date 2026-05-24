@@ -25,3 +25,7 @@ _A colossal, four-legged reptile with crocodilian jaws, amber scales, and a diam
 **Sever.** On a natural attack roll of 18+, the attack also severs a random limb. 1d6: 1. Head, 2-4. Arm, 5-6. Leg.
 
 **Swallow.** DC 18 STR or swallowed whole. Total darkness inside and 4d10 damage per round. Tarrasque regurgitates all swallowed if dealt at least 30 damage in one round to the inside of its gullet.
+
+---
+
+"The Tarrasque" is released under the Shadowdark RPG Third-Party License

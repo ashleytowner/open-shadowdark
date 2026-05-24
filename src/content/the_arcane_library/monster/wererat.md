@@ -13,3 +13,7 @@ _A slinking, rat-faced humanoid covered in mangy fur._
 **Impervious**. Only damaged by silver or magic sources.
 
 **Lycanthropy.** If 12 or more damage from the same wererat, contract lycanthropy.
+
+---
+
+"Wererat" is released under the Shadowdark RPG Third-Party License

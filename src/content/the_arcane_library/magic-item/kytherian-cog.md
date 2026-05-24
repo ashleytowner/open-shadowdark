@@ -9,3 +9,7 @@ source: Shadowdark RPG
 _A coin-sized, toothed wheel buffed to a silvery shine._
 
 **Benefit.** You start every session with a luck token.
+
+---
+
+"Kytherian Cog" is released under the Shadowdark RPG Third-Party License

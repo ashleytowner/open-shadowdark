@@ -15,3 +15,7 @@ _Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in so
 **Invisibility.** 1/day, turn invisible for 3 rounds. Ends if duergar attacks.
 
 **Sunblind.** Blinded in bright light.
+
+---
+
+"Duergar" is released under the Shadowdark RPG Third-Party License

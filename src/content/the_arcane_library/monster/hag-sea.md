@@ -13,3 +13,7 @@ _A green, sunken-faced woman. Seaweed hair and oozing flesh._
 **Shapechange**. Instantly change to look like any other humanoid.
 
 **Terrify.** A creature who first sees her true form DC 15 CHA or DISADV on attacks 1d4 rounds.
+
+---
+
+"Hag, Sea" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds 
 **Frostblood**. Cold immune.
 
 **Ice Breath.** Fills a double near- sized cube extending from dragon. DC 15 DEX or 4d8 damage and frozen for 1 round.
+
+---
+
+"Dragon, Frost" is released under the Shadowdark RPG Third-Party License

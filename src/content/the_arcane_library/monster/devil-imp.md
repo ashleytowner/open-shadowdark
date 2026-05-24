@@ -15,3 +15,7 @@ _Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly d
 **Contract.** Can grant mighty boons and patronage on behalf of an archdevil in exchange for a sworn soul. ADV on related Charisma checks.
 
 **Poison.** DC 12 CON or fitful sleep for 1d4 hours.
+
+---
+
+"Devil, Imp" is released under the Shadowdark RPG Third-Party License

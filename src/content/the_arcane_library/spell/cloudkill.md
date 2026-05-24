@@ -16,3 +16,7 @@ A putrid cloud of yellow poison fills a near-sized cube within range. It spreads
 Creatures inside the cloud are blinded and take 2d6 damage at the beginning of their turns.
 
 A creature of LV 9 or less that ends its turn fully inside the cloud dies.
+
+---
+
+"Cloudkill" is released under the Shadowdark RPG Third-Party License

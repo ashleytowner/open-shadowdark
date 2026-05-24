@@ -13,3 +13,7 @@ _A mass of clear ooze strobing with sick pulses of violet light._
 **Impervious**. Only harmed by fire.
 
 **Dissolve.** One random piece of non-magical gear the target carries is destroyed.
+
+---
+
+"Primordial Slime" is released under the Shadowdark RPG Third-Party License

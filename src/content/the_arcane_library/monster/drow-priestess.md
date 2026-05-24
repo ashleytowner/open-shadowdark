@@ -19,3 +19,7 @@ _A statuesque female drow with a crown of metal spider webs and an imperious gaz
 **Summon Spiders (WIS Spell).** DC 14. Summon 2d4 loyal giant spiders that appear within near. They stay for 5 rounds.
 
 **Web (WIS Spell).** DC 13. A near- sized cube of webs within far immobilizes all inside it for 5 rounds. DC 15 STR on turn to break free.
+
+---
+
+"Drow, Priestess" is released under the Shadowdark RPG Third-Party License

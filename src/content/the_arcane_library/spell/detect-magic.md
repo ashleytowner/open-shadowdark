@@ -12,3 +12,7 @@ _Tier 1, wizard_
 **Range:** Near
 
 You can sense the presence of magic within near range for the spell's duration. If you focus for two rounds, you discern its general properties. Full barriers block this spell.
+
+---
+
+"Detect Magic" is released under the Shadowdark RPG Third-Party License

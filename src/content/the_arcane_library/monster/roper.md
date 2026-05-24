@@ -17,3 +17,7 @@ _Ravenous monstrosities that look like cave rocks when their single eye and maw 
 **Pull.** In place of a tendril attack, pull a grabbed target a near distance.
 
 **Tendrils.** Four total. AC 18 each. 4+ damage to one severs it.
+
+---
+
+"Roper" is released under the Shadowdark RPG Third-Party License

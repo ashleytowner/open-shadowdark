@@ -13,3 +13,7 @@ _Fire-colored lizardfolk with long tails. Flame-like frills run down their backs
 **Impervious**. Fire immune.
 
 **Heat Aura.** Creatures in close DC 12 CON on turn or 1d8 damage.
+
+---
+
+"Salamander" is released under the Shadowdark RPG Third-Party License

@@ -14,3 +14,7 @@ _Tier 4, wizard_
 You conjure an invisible, grape-sized eye within range.
 
 You can see through the eye. It can see in the dark out to near range, fly near on your turn, and squeeze through openings as narrow as a keyhole.
+
+---
+
+"Arcane Eye" is released under the Shadowdark RPG Third-Party License

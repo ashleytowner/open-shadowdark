@@ -19,3 +19,7 @@ _Impish fey who favor green garb and love fooling "tall folk" with promises of g
 **Illusion (CHA Spell).** DC 11. Create a convincing visual and/ or auditory illusion within near. Lasts until dismissed.
 
 **Invisibility (CHA Spell).** DC 12. Self. Become invisible for 2d4 rounds.
+
+---
+
+"Leprechaun" is released under the Shadowdark RPG Third-Party License

@@ -14,3 +14,7 @@ _Tier 2, wizard_
 You can float a near distance vertically per round on your turn.
 
 You can also push against solid objects to move horizontally.
+
+---
+
+"Levitate" is released under the Shadowdark RPG Third-Party License

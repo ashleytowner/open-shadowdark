@@ -13,3 +13,7 @@ _A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god._
 **Fearless**. Immune to morale checks.
 
 **Deathtouch (WIS Spell).** DC 12. 2d4 damage to one creature within close.
+
+---
+
+"Cultist" is released under the Shadowdark RPG Third-Party License

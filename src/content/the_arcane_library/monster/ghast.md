@@ -15,3 +15,7 @@ _Greater ghouls who retain the intelligence they had in life._
 **Carrion Stench.** Living creatures DC 12 CON the first time within near or DISADV on attacks and spellcasting for 5 rounds.
 
 **Paralyze.** DC 12 CON or paralyzed 1d4 rounds.
+
+---
+
+"Ghast" is released under the Shadowdark RPG Third-Party License

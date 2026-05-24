@@ -13,3 +13,7 @@ _A radiant being with a crown of fire, snowy wings, golden armor, and a blazing 
 **Command**. DC 18 CHA to resist an archangel's command.
 
 **Crown of Fire**. Hostile spells targeting the archangel are extreme (DC 18) to cast.
+
+---
+
+"Archangel" is released under the Shadowdark RPG Third-Party License

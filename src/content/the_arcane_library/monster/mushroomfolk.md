@@ -13,3 +13,7 @@ _Lumbering humanoids with spongy, elongated bodies and toadstools on their heads
 **Sunblind**. Blinded in bright light.
 
 **Telepathic.** Speak mentally with creatures within double near.
+
+---
+
+"Mushroomfolk" is released under the Shadowdark RPG Third-Party License

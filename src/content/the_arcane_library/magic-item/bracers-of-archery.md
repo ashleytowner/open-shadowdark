@@ -9,3 +9,7 @@ source: Shadowdark RPG
 _Leather bracers embossed with soaring hawks._
 
 **Benefit.** You deal +1 damage with ranged weapons.
+
+---
+
+"Bracers Of Archery" is released under the Shadowdark RPG Third-Party License

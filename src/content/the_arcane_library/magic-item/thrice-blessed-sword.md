@@ -13,3 +13,7 @@ _A lustrous, golden-handled blade anointed with blessed tears, incense, and pray
 **Benefit.** You deal double damage against demons, devils, and undead.
 
 **Personality.** Lawful. Virtuous, naive. Refuses to be wielded against worshippers of lawful gods, especially self-proclaimed converts. Demands each foe be given the chance to convert before being slain.
+
+---
+
+"Thrice Blessed Sword" is released under the Shadowdark RPG Third-Party License

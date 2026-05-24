@@ -13,3 +13,8 @@ _A howling tornado of wind._
 **Impervious**. Only damaged by magical sources.
 
 **Whirlwind.** All within close DC 15 DEX or flung 2d20 feet in random direction.
+
+---
+
+"Elemental, Air Greater" is released under the Shadowdark RPG Third-Party
+License

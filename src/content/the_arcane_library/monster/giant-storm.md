@@ -13,3 +13,7 @@ _Regal titans with sea-green skin, flowing white hair, and thundering voices. Th
 **Stormblood**. Electricity immune.
 
 **Lightning Bolt.** 3/day, 5' wide line extending far from giant. All creatures in line DC 15 DEX or 5d10 damage. DISADV on check if in water.
+
+---
+
+"Giant, Storm" is released under the Shadowdark RPG Third-Party License

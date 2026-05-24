@@ -12,3 +12,7 @@ _Tier 2, wizard_
 **Range:** Far
 
 You magically mute sound in a near cube within the spell’s range. Creatures inside the area are deafened, and any sounds they create cannot be heard.
+
+---
+
+"Silence" is released under the Shadowdark RPG Third-Party License

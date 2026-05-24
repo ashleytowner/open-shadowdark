@@ -17,3 +17,7 @@ _A wavering spirit with a face contorted in rage or sadness._
 **Life Drain.** 1d4 CON damage. Death if reduced to 0 CON.
 
 **Possess.** Must be corporeal. One target, close range. Contested CHA check. If ghost wins, it inhabits target's body and controls it for 2d4 rounds.
+
+---
+
+"Ghost" is released under the Shadowdark RPG Third-Party License

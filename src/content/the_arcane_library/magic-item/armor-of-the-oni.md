@@ -13,3 +13,7 @@ _Black plate mail of lacquered, ironwood panels. The helm's visor is the face of
 **Benefit.** You can speak and understand Diabolic. Your melee weapon attacks deal +1 damage.
 
 **Curse.** You have disadvantage on attacks and spellcasting checks against demons.
+
+---
+
+"Armor Of The Oni" is released under the Shadowdark RPG Third-Party License

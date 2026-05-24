@@ -13,3 +13,7 @@ _A snorting bull made entirely of iron plating. A cloud of green fog billows fro
 **Charge**. Move up to double near in straight line and make 1 gore attack. If hit, x3 damage.
 
 **Petrifying Breath.** Fills a near- sized cube extending from gorgon. DC 15 CON or petrified (gorgons immune).
+
+---
+
+"Gorgon" is released under the Shadowdark RPG Third-Party License

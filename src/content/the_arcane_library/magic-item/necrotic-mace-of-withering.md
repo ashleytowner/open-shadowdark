@@ -13,3 +13,8 @@ _A wrought iron mace tipped with a heavy, screaming skull. Black ichor runs from
 **Benefit.** While holding the mace, you can turn cure wounds spells you cast into harmful magic that instead inflicts the same amount of damage it would heal.
 
 **Curse.** If you use the mace to cast an inverted cure wounds spell, you are haunted by nightmares that night. You must pass a DC 12 Wisdom check during your next rest or gain no benefit from resting.
+
+---
+
+"Necrotic Mace Of Withering" is released under the Shadowdark RPG Third-Party
+License

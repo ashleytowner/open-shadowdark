@@ -15,3 +15,7 @@ _A translucent cube of slime that silently mows through tunnels._
 **Rubbery.** Half damage from stabbing weapons.
 
 **Toxin.** DC 15 CON or paralyzed 1d4 rounds.
+
+---
+
+"Gelatinous Cube" is released under the Shadowdark RPG Third-Party License

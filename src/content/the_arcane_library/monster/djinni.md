@@ -15,3 +15,7 @@ _Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent 
 **Whirlwind.** Transform into a lashing tornado. All enemies within near DC 18 DEX or thrown 2d100 feet in a random direction.
 
 **Wish.** Cast wish once a week for a mortal, no spellcasting check.
+
+---
+
+"Djinni" is released under the Shadowdark RPG Third-Party License

@@ -13,3 +13,7 @@ _A coy, emerald-skinned fey covered in leaves. It bonds with and protects a tree
 **Charm**. Near, one creature, DC 14 CHA or friendship for 1d8 days.
 
 **Meld.** Step inside bonded tree.
+
+---
+
+"Dryad" is released under the Shadowdark RPG Third-Party License

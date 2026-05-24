@@ -18,3 +18,7 @@ Ask the GM one question.
 The GM answers the question truthfully using the knowledge your god possesses. Deities are mighty, but not omniscient.
 
 You cannot cast this spell again until you complete penance.
+
+---
+
+"Prophecy" is released under the Shadowdark RPG Third-Party License

@@ -19,3 +19,7 @@ _A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep
 **Summon Bear (INT Spell).** DC 14. Summon a loyal brown bear that appears within near. It stays for 5 rounds.
 
 **Thunderclap (INT Spell).** DC 13. Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction.
+
+---
+
+"Druid" is released under the Shadowdark RPG Third-Party License

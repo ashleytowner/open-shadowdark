@@ -13,3 +13,7 @@ _A bulky iron suit that squeals and sparks with each step._
 **Golem**. Immune to damage from cold or non-magical sources. Healed by fire.
 
 **Poison Breath.** All within near, DC 15 CON or 8d6 damage.
+
+---
+
+"Golem, Iron" is released under the Shadowdark RPG Third-Party License
