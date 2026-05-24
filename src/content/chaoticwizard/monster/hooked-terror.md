@@ -13,3 +13,7 @@ _Large, beaked & hook-handed beasts who hunt their prey using echolocation_
 **Echolocation.** Can see all invisible creatures and objects as long as it can hear.
 
 **Hook.** On a hit, target must succeed on a DC 15 STR check or moved somewhere within double close of the Hooked Terror
+---
+
+"Hooked Terror" by [Chaotic Wizard](https://chaoticwizard.com) is licensed under
+CC BY 4.0
