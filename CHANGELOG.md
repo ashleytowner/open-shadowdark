@@ -1,5 +1,33 @@
 # Changelog
 
+## [4.0.0](https://github.com/ashleytowner/open-shadowdark/compare/v3.0.0...v4.0.0) (2026-05-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Transition to astro
+
+### Features
+
+* Add browse page & per-source lists ([7fa7c77](https://github.com/ashleytowner/open-shadowdark/commit/7fa7c775e26e794aa9147dfd49e986834f40a05c))
+* Add giant owl ([126d535](https://github.com/ashleytowner/open-shadowdark/commit/126d535ff0069fa31f4568ed4843c521b0ad02ca))
+* Add opengraph ([1c193c7](https://github.com/ashleytowner/open-shadowdark/commit/1c193c743b28b9a682e9b2bbf5831823d60ec6da))
+* Add title & description to more pages ([c2242d7](https://github.com/ashleytowner/open-shadowdark/commit/c2242d7af2763d0a199b507865ab13475b6880a8))
+* Added all chaoticwizard monsters ([11f0186](https://github.com/ashleytowner/open-shadowdark/commit/11f01864fdd508a935c7d396e58865428528c294))
+* Added licensing info to all Shadowdark RPG monsters ([8b7ded8](https://github.com/ashleytowner/open-shadowdark/commit/8b7ded8cf145c4b94ca2261dcc1d46907998532b))
+* Added SD 3rd party license text to footer ([28ce311](https://github.com/ashleytowner/open-shadowdark/commit/28ce31155187b1149e1d4d3516bf8bb90b0f2f4d))
+* Hydrator can also convert to markdown ([97afc85](https://github.com/ashleytowner/open-shadowdark/commit/97afc85407eadfdf48e611b7ba66af75265d8eda))
+* Improve markdown copying ([46e9745](https://github.com/ashleytowner/open-shadowdark/commit/46e97450b45271d136a3bc7227294ebc418ee6ef))
+* Switched adapter from vercel to node ([9bc0f6b](https://github.com/ashleytowner/open-shadowdark/commit/9bc0f6bdfacd4b49eaa6c27c2d17d26db6f3da52))
+* Transition to astro ([8d85aad](https://github.com/ashleytowner/open-shadowdark/commit/8d85aad0bd86c297b405e04ccb41ea3e2bdb2ba2))
+
+
+### Bug Fixes
+
+* Bump parser version to fix spell parsing bug ([8ac19ed](https://github.com/ashleytowner/open-shadowdark/commit/8ac19edbbec6bb58f2d69ee6bf066b4b6040ff6a))
+* Bump parser version to fix whitespace bug ([21ca0e2](https://github.com/ashleytowner/open-shadowdark/commit/21ca0e2b4138980258f0012f6379c1b9377164c7))
+* Use new version of shadowdark parser ([94c055c](https://github.com/ashleytowner/open-shadowdark/commit/94c055cf563a806fdb6e6390a737067db9dbde40))
+
 ## [3.0.0](https://github.com/ashleytowner/open-shadowdark/compare/v2.2.1...v3.0.0) (2025-08-07)
 
 ### ⚠ BREAKING CHANGES
